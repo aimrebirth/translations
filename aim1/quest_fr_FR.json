@@ -6,7 +6,7 @@
   },
   "AMM_ANTI-MATTER_ROCKET_TYPE2": {
    "NAME": "Missile Annihilation type-2",
-   "TEXT": "Missile avec une charge d'antimatière. Contient une charge plus importante et un système de rendement limitant les pertes en annihilation, pour un pouvoir de destruction maximal."
+   "TEXT": "Missile avec une charge d'antimatière. Sa puissance destructrice est accrue grâce à une charge utile plus importante et à une diminution des pertes lors de l'annihilation."
   },
   "AMM_BIG_ROCKET": {
    "NAME": "Super Missile",
@@ -46,7 +46,7 @@
   },
   "AMM_INFRARED_ROCKET": {
    "NAME": "Missile Plasma",
-   "TEXT": "Lors du contact avec la cible, la charge forme un boule de plasma haute température infligeant de gros dégâts."
+   "TEXT": "Au contact avec la cible, la charge forme un boule de plasma haute température infligeant de gros dégâts."
   },
   "AMM_ROCKET": {
    "NAME": "Missile",
@@ -273,8 +273,8 @@
    "TEXT": "<image:MOD_BLD_ZRM>Elle produit en grande quantité et en permanence tout ce qui est prêt pour l'usage. Ces usines fournissent également de l'énergie pour tout le Territoire."
   },
   "B_L3_SC": {
-   "NAME": "Base secondaire des Mutants",
-   "TEXT": "<image:ORG_SC.tga><image:MOD_BLD_MAIN_BASE>Vous pouvez vous familiariser avec la Voie de la Mutation dans le but d'entrer dans ce clan."
+   "NAME": "Base secondaire de la Structure de Reconversion",
+   "TEXT": "<image:ORG_SC.tga><image:MOD_BLD_MAIN_BASE>Tu peux te familiariser avec la Voie de la Reconversion dans le but d'entrer dans ce clan."
   },
   "B_L3_SPHERE": {
    "NAME": "Arène",
@@ -305,8 +305,8 @@
    "TEXT": "<image:ORG_RECONERS.tga><image:MOD_BLD_MAIN_BASE> Comparée à une base ordinaire, la base appartenant à un clan possède un bon nombre de fonctions supplémentaires spécifiques. Il arrive que l'accès à la base de tel ou tel clan soit limité pour des raisons particulières."
   },
   "B_L4_B_SC": {
-   "NAME": "Base secondaire des Mutants",
-   "TEXT": "<image:ORG_SC.tga><image:MOD_BLD_MAIN_BASE> Vous pouvez vous familiariser avec la Voie de la Mutation dans le but d'entrer dans ce clan."
+   "NAME": "Base secondaire de la Structure de Reconversion",
+   "TEXT": "<image:ORG_SC.tga><image:MOD_BLD_MAIN_BASE>Tu peux te familiariser avec la Voie de la Reconversion et entrer dans le clan."
   },
   "B_L4_B_SINIGR": {
    "NAME": "Base secondaire des Sinigres",
@@ -994,7 +994,7 @@
   },
   "FINDER-01_TALK": {
    "NAME": "",
-   "TEXT": "Tout le monde fait des erreurs... Et t'en a fait une grosse quand tu as cru m'aider en me mettant des batons dans les roues. Bon, je vais devoir chercher une autre voie de développement."
+   "TEXT": "Tout le monde fait des erreurs, y compris toi. Surtout lorsque tu essaies de les aider et de me stopper. Rien à faire, je trouverai un autre mode de développement."
   },
   "FIRST-114_MEMBER": {
    "NAME": "Le Premier",
@@ -1006,7 +1006,7 @@
   },
   "GL_M1_A_ATTACKER": {
    "NAME": "Piranha",
-   "TEXT": "La mauvaise aérodynamique de cet engin est compensée par une manoeuvrabilité relativement élevée et sa grande robustesse. Principalement utilisé par les Libres, quand ils ne sont pas pressés."
+   "TEXT": "La mauvaise aérodynamique de cet engin est compensée par une manoeuvrabilité relativement élevée et sa grande robustesse. Principalement utilisé par les Libres, ceux qui ne sont pas pressés."
   },
   "GL_M1_B_BASE": {
    "NAME": "Épervier",
@@ -1026,7 +1026,7 @@
   },
   "GL_M2_B_BASE": {
    "NAME": "Milan",
-   "TEXT": "Plus puissant et plus grand que son prédécesseur, l'Épervier, cet engin est très apprécié par les mécanoïdes mutants. Ses caractéristiques équilibrées en font un appareil essentiellement multitâche."
+   "TEXT": "Plus puissant et plus grand que son prédécesseur, l'Épervier, cet engin est très apprécié par les mécanoïdes de la Structure de Reconversion. Ses caractéristiques équilibrées en font un appareil essentiellement multitâche."
   },
   "GL_M2_C_BIGTRANS": {
    "NAME": "Scarabée-2",
@@ -1298,7 +1298,7 @@
   },
   "INFO_ANTENNA": {
    "NAME": "Remplacement terminé",
-   "TEXT": "La nouvelle antenne a été livrée au concentrateur et sera bientôt installée. Maintenant, l'antenne cassée doit être nécessairement livrée à la base principale."
+   "TEXT": "La nouvelle antenne a été livrée au concentrateur et sera bientôt installée. Il faut maintenant apporter l'antenne cassée à la base principale."
   },
   "INFO_ARLINGS": {
    "NAME": "Les Arlings",
@@ -1330,27 +1330,27 @@
   },
   "INFO_FIRST_114._KILLED": {
    "NAME": "",
-   "TEXT": "Vous êtes plus compatissant que tous les autres. Cela nous inspire de l'espoir !"
+   "TEXT": "Tu es plus compatissant que tous les autres. Cela nous inspire de l'espoir !"
   },
   "INFO_FIRST_114_ATTACKED": {
    "NAME": "",
-   "TEXT": "Cessez le feu !  Sinon je vais perdre patience et vous pulvériser."
+   "TEXT": "Cesse le feu !  Sinon je vais perdre patience et te pulvériser."
   },
   "INFO_FIRST_114_KILLED": {
    "NAME": "",
-   "TEXT": "Vous n'auriez pas dû faire cela. Ma mission ici ne pourra pas être accomplie."
+   "TEXT": "Tu n'aurais pas dû faire cela. Ma mission ici ne pourra pas être accomplie."
   },
   "INFO_FIRST_114_TALK": {
    "NAME": "",
-   "TEXT": "Ne m'interrompez pas, je suis en mission. <p><color:green>Le message a été transmis.<color>"
+   "TEXT": "Ne m'interromp pas, je suis occupé. <p><color:green>Le message a été transmis.<color>"
   },
   "INFO_FIRST_TALK": {
    "NAME": "",
-   "TEXT": "<color:green>Message transmis.<color>"
+   "TEXT": "<color:green>Message transmis. <color>"
   },
   "INFO_GENERATION1": {
    "NAME": "Première génération de mécanoïdes",
-   "TEXT": "<image:MOD_TOV_MECHMIND>La première génération est très réduite. Les Mécanoïdes se sont unis dans un clan qui s'appela plus tard les Premiers. En un sens, les Premiers sont en contact direct avec l'Ultime, car ils utilisent le même type d'informations. Toutefois, l'intelligence des Mécanoïdes est très différente de celle de l'Ultime et c'est pourquoi les Premiers comprennent souvent les choses à leur façon. Ils peuvent vous apprendre certaines choses et vous donner des ressources uniques, qu'ils sont les seuls à détenir. Je ne sais pas comment il faut s'y prendre. C'est à vous de le deviner."
+   "TEXT": "<image:MOD_TOV_MECHMIND>La première génération est très peu nombreuse. Ces Mécanoïdes se sont unis dans un clan qui s'appela plus tard les Premiers. En un sens, les Premiers on un contact direct avec l'Ultime, puisqu'ils utilisent le même type d'informations. Toutefois, l'intelligence des Mécanoïdes est très différente de celle de l'Ultime, c'est pourquoi les Premiers comprennent souvent les choses à leur manière. Ils pourraient vous apprendre certaines choses et vous donner des ressources uniques qu'ils sont les seuls à détenir. Comment faire ? Je n'en sais rien. Tu devras le découvrir par toi-même."
   },
   "INFO_GENERATION2": {
    "NAME": "Seconde génération de mécanoïdes",
@@ -1474,11 +1474,11 @@
   },
   "INFO_SECTOR2": {
    "NAME": "Description du Secteur Toundra",
-   "TEXT": "<image:IMG_TUNDRA.tga>Le Secteur Toundra est une vallée dans laquelle serpentent quelques rivières et de lacs. Son relief présente quelques collines et vallons parsemés de buissons et d'arbustes. Les brouillards fréquents ralentissent les voyageurs, mais de manière générale, les conditions ne sont pas si mauvaises. L'un des côtés du secteur est bordé par une chaîne de montagnes, alors qu'à d'autres extrémités, il est possible d'atteindre la barrière de champs de force (appelé aussi Isohypse). Le Secteur Toundra est habité par les clans des Chasseurs et des Envahisseurs, parfois on peut voir des Mutants."
+   "TEXT": "<image:IMG_TUNDRA.tga>Le Secteur Toundra est une vallée dans laquelle serpentent quelques rivières et lacs. Son relief présente quelques collines et vallons parsemés de buissons et d'arbustes. Les brouillards fréquents ralentissent les voyageurs, mais de manière générale, les conditions ne sont pas si mauvaises. L'un des côtés du secteur est bordé par une chaîne de montagnes, alors qu'à d'autres extrémités, il est possible d'atteindre la barrière de champs de force (appelé aussi Isohypse). Le Secteur Toundra est habité par les clans des Chasseurs et des Envahisseurs, parfois on peut voir des agents de la Structure de Reconversion."
   },
   "INFO_SECTOR3": {
    "NAME": "Description du Secteur Arctique",
-   "TEXT": "<image=img_arctic.tga>Le Secteur Arctique est assez proche du pôle de la planète et les conditions climatiques y sont quasiment identiques aux conditions naturelles. L'emplacement du secteur a été choisi pour le protéger contre les vortex de neige et les orages.<p> Le secteur est bordé de petits champs de pierres, dont la majorité a été cultivée par les Créateurs à l'époque de la Terraformation. Des chutes de neige fréquentes et des vents violents maintiennent une couche de neige constante. <p>Si vous voyagez à l'intérieur du Secteur Arctique, vous rencontrerez des Panzers, des Nargoons et des Mutants. Il y a évidemment aussi des représentants d'autres clans, mais ils sont rares."
+   "TEXT": "<image=img_arctic.tga>Le Secteur Arctique est assez proche du pôle Sud de la planète et les conditions climatiques y sont quasiment identiques aux conditions naturelles. L'emplacement du secteur a été choisi pour le protéger contre les vortex de neige et les orages électriques.  Le secteur est bordé de petits champs de pierres, dont la majorité a été plantées par les Créateurs à l'époque de la Terraformation. Des chutes de neige fréquentes et des vents violents maintiennent une couche de neige constante. Si vous voyagez à l'intérieur du Secteur Arctique, vous rencontrerez des Panzers, des Nargoons et des agents de la Structure de Reconversion. Il y a évidemment aussi des représentants d'autres clans, mais ils sont rares."
   },
   "INFO_SECTOR4": {
    "NAME": "Description du Secteur Volcan",
@@ -2625,8 +2625,8 @@
    "TEXT": "Tu es le premier Sinigre à quitter le clan... on verra bien dans quoi cela va te mener."
   },
   "MSG_AFTER_OUT_SOC": {
-   "NAME": "%NAME a quitté le clan des Mutants",
-   "TEXT": "Les Mutants ne sont désormais plus à tes côtés. Il n'appartient maintenant qu'à toi seul de trouver ta voie."
+   "NAME": "%NAME a quitté le clan de la Structure de Reconversion",
+   "TEXT": "A partir de maintenant, la Structure de Reconversion n'est plus à tes côtés. Il n'appartient maintenant qu'à toi seul de trouver ta voie."
   },
   "MSG_AFTER_OUT_TRANSES": {
    "NAME": "%NAME a quitté le clan des Trances",
@@ -2793,8 +2793,8 @@
    "TEXT": "Nous sommes sûrs que tu reviendras un jour."
   },
   "MSG_BEFORE_OUT_SOC": {
-   "NAME": "Sortie du clan des Mutants",
-   "TEXT": "Si tu as choisi de quitter les Mutants, c'est que tu as des objectifs plus ambitieux. Bonne chance dans tes futures entreprises !"
+   "NAME": "Sortie de la Structure de Reconversion",
+   "TEXT": "Si tu as choisi de quitter la Structure de Reconversion, c'est que tu as des objectifs plus ambitieux. Bonne chance dans tes futures entreprises !"
   },
   "MSG_BEFORE_OUT_TRANSES": {
    "NAME": "Sortie du clan des Trances",
@@ -3550,11 +3550,11 @@
   },
   "MSG_FEAR_SOC.3": {
    "NAME": "",
-   "TEXT": "Je ne t'abandonnerai pas ma cargaison !"
+   "TEXT": "Je ne te donnerai pas ma cargaison !"
   },
   "MSG_FEAR_SOC.4": {
    "NAME": "",
-   "TEXT": "Tu peux me tuer, mais tu ne vaincras pas les Mutants !"
+   "TEXT": "Tu peux me tuer, mais tu ne vaincras pas la Structure !"
   },
   "MSG_FEAR_TRANSES": {
    "NAME": "",
@@ -5698,7 +5698,7 @@
   },
   "TOV_INFORMPAKET_BASE": {
    "NAME": "Infopack",
-   "TEXT": "Information sur la réussite de la communication par courrier. <p>Destinataire : Base principale, Secteur Toundra."
+   "TEXT": "Information sur la réussite de la communication par coursier. <p>Destinataire : Base principale, Secteur Toundra."
   },
   "TOV_INFORMPAKET_FRONT": {
    "NAME": "Infopack",
@@ -5794,7 +5794,7 @@
   },
   "TOV_PAKET_ARCTIC_SOC": {
    "NAME": "Infopack",
-   "TEXT": "Infopack à destination de la base des Mutants dans le Secteur Arctique."
+   "TEXT": "Infopack à destination de la base de la Structure de Reconversion dans le Secteur Arctique."
   },
   "TOV_PAKET_BACK": {
    "NAME": "Infopack",
@@ -5890,11 +5890,11 @@
   },
   "TOV_PAKET_T_L1_B1_8": {
    "NAME": "Infopack",
-   "TEXT": "Contient des instructions sur la mise en oeuvre de la communication par courrier."
+   "TEXT": "Contient des instructions sur la mise en oeuvre de la communication par coursier."
   },
   "TOV_PAKET_T_L1_B1_8_BACK": {
    "NAME": "Infopack",
-   "TEXT": "Contient des instructions sur la communication par courrier. <p>Destinataire : Base principale, Secteur Roches."
+   "TEXT": "Contient des instructions sur la communication par coursier. <p>Destinataire : Base principale, Secteur Roches."
   },
   "TOV_PAKET_T_L2_B1_1": {
    "NAME": "Infopack",
@@ -6161,8 +6161,8 @@
    "TEXT": "Contient le rapport. <p>Destinataire : Obélisque de l'Ultime, Secteur Toundra."
   },
   "TOV_T_L2_BSC_1_BACK": {
-   "NAME": "Kit de réparations pour émetteur",
-   "TEXT": "Doit être livré à la base des Mutants dans le Secteur Toundra."
+   "NAME": "Kit de réparations pour transmetteur",
+   "TEXT": "Doit être livré à la base de la Structure de Reconversion dans le Secteur Toundra."
   },
   "TOV_T_L2_BSC_1_FRONT": {
    "NAME": "Électronique cassée",
@@ -7218,7 +7218,7 @@
   },
   "T_L1_B1_8": {
    "NAME": "Changement de mode de communication",
-   "TEXT": "La base souhaite faire des tests pour la mise en place de livraison de messages par courrier."
+   "TEXT": "La base souhaite faire des tests pour la mise en place de livraison de messages par coursier."
   },
   "T_L1_B1_8.1_BRIEF": {
    "NAME": "",
@@ -7289,8 +7289,8 @@
    "TEXT": "J'ai un contrat lucratif avec la base. Je dois livrer des infopacks à toutes les usines, aux deux <reference:mines d'extractions,=B_L1_MINE1> au <reference:centre des matières premières=B_L1_FEEDSTOCK>, et au <reference:régulateur climatique=B_L1_KA>. Ca prendra le temps qui faudra, mais dès que j'aurai rapporté leurs réponses à la base principale, je recevrai 5000 points d'énergie."
   },
   "T_L1_B1_8_COMPLETE": {
-   "NAME": "L'expérimentation est un succès",
-   "TEXT": "On peut déclarer la réussite de l'expérimentation. Je suis convaincu que la communication par courrier va prendre de l'ampleur. On peut utiliser les faisceaux gravitationnels pour envoyer des messages, mais ca coûtera beaucoup plus d'énergie."
+   "NAME": "L'expérience est un succès",
+   "TEXT": "On peut déclarer la réussite de l'expérience. Je suis convaincu que la communication par coursier va prendre de l'ampleur. On peut utiliser les faisceaux gravitationnels pour envoyer des messages, mais ca coûtera beaucoup plus d'énergie."
   },
   "T_L1_B1_8_FAIL": {
    "NAME": "_DEFAULT_",
@@ -7306,15 +7306,15 @@
   },
   "T_L1_B1_8_IN_FEEDSTOCK": {
    "NAME": "Expérimentation en cours",
-   "TEXT": "L'envoi de données par courrier sera mieux que par faisceaux gravitationnels. C'est moins rapide, mais bien plus économique. Vous avez mon accord."
+   "TEXT": "L'envoi de données par coursier sera mieux que par faisceaux gravitationnels. C'est moins rapide, mais bien plus économique. Vous avez mon accord."
   },
   "T_L1_B1_8_IN_KA": {
    "NAME": "Expérimentation en cours",
    "TEXT": "Cela faisait un moment que j'envisageais ce mode de correspondance. Je crois que la communication par faisceaux gravitationnels affecte l'équilibre naturel, et entraîne des répercussions néfastes sur les unités de faibles puissances. Oui! Je suis d'accord avec la proposition de la base."
   },
   "T_L1_B1_8_IN_MINE1": {
-   "NAME": ".xpérimentation en cours",
-   "TEXT": "Peu importe comment les données sont transférées. Nous, les mines d'extractions communiquent très rarement. La dernière fois que nous avons envoyé des données remonte à 80 000 heures. Ceci dit, comme on ne pas dépenser autant d'énergie pour un truc pareil, alors je d'accord avec la proposition de la base. La correspondance par courrier est mieux."
+   "NAME": "Expérience en cours",
+   "TEXT": "Peu importe comment les données sont transmises. Les mines d'extractions utilisent les communications très rarement. Par exemple, la dernière fois que nous avons envoyé des données remonte à 80 000 heures. Comme on n'a jamais assez d'énergie pour des grosses dépenses, donc, je suis d'accord avec la proposition de la base. La correspondance par coursier est meilleure."
   },
   "T_L1_B1_8_IN_MINE2": {
    "NAME": "Expérimentation en cours",
@@ -7322,15 +7322,15 @@
   },
   "T_L1_B1_8_IN_PF": {
    "NAME": "Expérimentation en cours",
-   "TEXT": "Je pense que la communication par courrier fera augmenter le commerce des ressources. Vous transmettrez à la base mon accord avec sa proposition."
+   "TEXT": "Je pense que la communication par coursier fera augmenter le taux d'échanges des ressources. Vous transmettrez mon accord à la proposition de la base."
   },
   "T_L1_B1_8_IN_RECYCLE": {
-   "NAME": "Expérimentation en cours",
-   "TEXT": "L'expérimentation conduite par la base principale est très intéressante. Je pense que s'il existe une possibilité de liver un infopack (qui ne pèse rien) pour un bon prix, de nombreux mécanoïdes seraient intéressés de faire le travail de courrier. Je pense particulièrement aux <reference:Trances=ORG_TRANSES> qui pourraient transporter simultanément des cargaisons et des messages. Cela sera très utile. Je l'approuve!"
+   "NAME": "Expérience en cours",
+   "TEXT": "L'expérience conduite par la base principale est très intéressante. Je pense que s'il existe une possibilité de liver un infopack (qui ne pèse rien) pour un bon prix, de nombreux mécanoïdes seraient intéressés de faire le travail de coursier. Je pense particulièrement aux <reference:Trances=ORG_TRANSES> qui pourraient transporter simultanément des cargaisons et des messages. Cela sera très utile. Je l'approuve!"
   },
   "T_L1_B1_8_IN_RM": {
-   "NAME": "Expérimentation en cours",
-   "TEXT": "Je ne me soucie pas du coût de la correspondance, c'est pas un problème pour moi. Par contre, je crois que la communication par courrier accélérera le processus d'échange de ressources. Il s'agit d'une décision source de progrès. Bien sur, je suis d'accord avec la proposition de la base."
+   "NAME": "Expérience en cours",
+   "TEXT": "Je ne me soucie pas du coût de la correspondance, c'est pas un problème pour moi. Par contre, je crois que la communication par coursier accélérera le processus d'échange de ressources. Il s'agit d'une décision source de progrès. Bien sur, je suis d'accord avec la proposition de la base."
   },
   "T_L1_B1_9": {
    "NAME": "Livrer l'infopack dans le secteur Toundra",
@@ -7354,43 +7354,43 @@
   },
   "T_L1_B1_9_GET": {
    "NAME": "Détails",
-   "TEXT": "L'expérimentation pour mettre en place la correspondance par messager est un succès. Tous ont compris son utilité et son avantage économique. Je vous propose une nouvelle mission, être le premier courrier qui se rendra à la base principale du Secteur Toundra. Vous devez livrer l'infopack contenant les résultats de l'expérience ainsi ses conclusions. Je pense que cette base devrait aussi mettre en place la correspondance par messager dans son secteur. L'infopack contient également une recommandation pour vous donner votre paiement, vous n'aurez donc pas à revenir ici. La base du Secteur Toundra vous donnera 3000 points d'énergie et vous fournira les coordonnées de toutes les installations de la région."
+   "TEXT": "L'expérience pour mettre en place la correspondance par coursier est un succès. Tous ont compris son utilité et son avantage économique. Je vous propose une nouvelle mission, être le premier coursier qui se rendra à la base principale du Secteur Toundra. Vous devez livrer l'infopack contenant les résultats de l'expérience ainsi ses conclusions. Je pense que cette base devrait aussi mettre en place la correspondance par coursier dans son secteur. L'infopack contient également une recommandation pour vous donner votre paiement, vous n'aurez donc pas à revenir ici. La base du Secteur Toundra vous donnera 3000 points d'énergie et vous fournira les coordonnées de toutes les installations de la région."
   },
   "T_L1_B1_9_INCT": {
    "NAME": "Infopack non livré dans le Secteur Toundra",
-   "TEXT": "La mise en place de la correspondance par courrier est le premier changement au monde depuis que le réseau de communications a été mis sous terre. Vous êtiez impliqué directement à ce projet, et maintenant, il faut continuer dans le même esprit! Est-ce tant difficile d'aller dans le Secteur Toundra? De plus, vous n'aurez pas à revenir ici. Il suffit d'y aller."
+   "TEXT": "La mise en place de la correspondance par coursier est le premier changement au monde depuis que le réseau de communications a été mis sous terre. Vous avez été directement impliqué à ce projet, et maintenant, il faut continuer dans le même esprit! Est-ce tant difficile d'aller dans le Secteur Toundra? Vous n'êtes pas obligé de revenir, c'est vous qui dédidez."
   },
   "T_L1_B1_9_IN_B_L2_BASE1": {
    "NAME": "Infopack livré",
-   "TEXT": "Je constate que la correspondance par messager est très efficace. Surtout quand il s'agit pas d'informations urgentes. Je pense à ce propos, on pourrait réduire les délais de transmission de données. En tous cas, je vais vous donner accès à la géographie du secteur et voici 3000 points d'énergie pour votre travail."
+   "TEXT": "Je constate que la correspondance par coursier est très efficace. Surtout quand il s'agit pas d'informations urgentes. Je pense à ce propos, on pourrait réduire les délais de transmission de données. En tous cas, je vais vous donner accès à la géographie du secteur et voici 3000 points d'énergie pour votre travail."
   },
   "T_L1_B2_1": {
-   "NAME": "Recherches de zones d'anomalies",
+   "NAME": "Recherche de zones d'anomalies",
    "TEXT": "Faites des mesures dans les zones d'anomalies."
   },
   "T_L1_B2_1.X1": {
    "NAME": "Recherche en cours",
-   "TEXT": "Une zone d'anomalies restante."
+   "TEXT": "Il reste une zone d'anomalies."
   },
   "T_L1_B2_1.X2": {
    "NAME": "Recherche terminée",
-   "TEXT": "Tous les enregistrements sont terminés. Revenez à la base secondaire et rendez compte."
+   "TEXT": "Tous les enregistrements sont terminés. Retournez à la base secondaire pour rendre compte."
   },
   "T_L1_B2_1_BRIEF": {
    "NAME": "Mesures des zones d'anomalies",
-   "TEXT": "Approchez-vous des deux zones d'anomalies et enregistrez ce qu'il s'y passe."
+   "TEXT": "Rendez-vous aux deux zones d'anomalies et enregistrez ce qu'il s'y passe."
   },
   "T_L1_B2_1_COMPLETE": {
    "NAME": "Investigation des zones d'anomalies terminée",
-   "TEXT": "Ces informations sont très intéressantes. Le régulateur climatique souhaiterai avoir un contrôle de ces processus, nous devons lui transmettre les données."
+   "TEXT": "Ces informations sont très intéressantes. Les activités qui s'y produisent ne sont pas contrôlés par le régulateur climatique, nous devons lui transmettre les données."
   },
   "T_L1_B2_1_FAIL": {
    "NAME": "_DEFAULT_",
    "TEXT": "_DEFAULT_"
   },
   "T_L1_B2_1_GET": {
-   "NAME": "Détails sur la mission",
-   "TEXT": "Les zones d'anomalies dans ce secteur sont là depuis longtemps. La seule chose que je sais, il y a des émissions radioactives très élevées et des mesures doivent être faites. Je vous confie un mémo-cristal. Prenez-le et allez vers les zones d'anomalies. Votre carte indiquera leurs emplacements approximatives. Le mémo-cristal enregistrera tout ce que vos capteurs détecteront. A votre retour, je ferai réparer votre engin s'il est endommagé et je vous paierai 1500 points d'énergie."
+   "NAME": "Détails de la mission",
+   "TEXT": "Les zones d'anomalies dans ce secteur sont là depuis un moment. Cependant, la seule chose que je sais à leur sujet, c'est qu'elles sont fortement radioactives. Des mesures doivent être menées. Je vais vous confier un mémo-cristal. Prenez-le et rendez-vous aux zones d'anomalies. Votre carte indiquera leurs emplacements approximatives. Le mémo-cristal enregistrera tout ce que vos capteurs détecteront. A votre retour, je ferai réparer votre engin s'il est endommagé et je vous paierai 1500 points d'énergie."
   },
   "T_L1_B2_1_INCT": {
    "NAME": "Mesures des zones d'anomalies non terminée",
@@ -7578,7 +7578,7 @@
   },
   "T_L2_B1_1": {
    "NAME": "Livraison de l'infopack",
-   "TEXT": "Apporter l'infopack à la <reference:base des matières premières.=B_L2_FEEDSTOCK>"
+   "TEXT": "Livrer l'infopack à la <reference:base des matières premières.=B_L2_FEEDSTOCK>"
   },
   "T_L2_B1_10_COMPLETE": {
    "NAME": "",
@@ -7586,7 +7586,7 @@
   },
   "T_L2_B1_10_INCT": {
    "NAME": "",
-   "TEXT": "L'Obélisque peut changer d'endroit et nous ne disposons pas d'informations exactes sur son emplacement actuel."
+   "TEXT": "L'Obélisque peut changer d'endroit de temps à autre. Nous ne disposons pas d'informations précises sur son emplacement actuel."
   },
   "T_L2_B1_11_COMPLETE": {
    "NAME": "",
@@ -7598,35 +7598,35 @@
   },
   "T_L2_B1_1_BC": {
    "NAME": "",
-   "TEXT": "L'infopack a été apporté à temps à la base des matières premières."
+   "TEXT": "L'infopack a été livré dans les temps à la base des matières premières."
   },
   "T_L2_B1_1_BF": {
    "NAME": "",
-   "TEXT": "Je n'ai pas apporté l'infopack à temps à la base des matières premières."
+   "TEXT": "Je n'ai pas fourni l'infopack à temps à la base des matières premières."
   },
   "T_L2_B1_1_BRIEF": {
    "NAME": "Livraison de l'infopack",
-   "TEXT": "L'infopack doit être apporté à la base des matières premières. J'obtiendrai 500 points d'énergie en échange."
+   "TEXT": "L'infopack doit être livré à la base des matières premières. J'obtiendrai 500 points d'énergie en échange."
   },
   "T_L2_B1_1_COMPLETE": {
    "NAME": "Infopack livré",
-   "TEXT": "Mission accomplie. La base des matières premières est également informée du nouveau système de communication par messager."
+   "TEXT": "Mission accomplie. La base des matières premières est également au courant du nouveau système de communication par coursier."
   },
   "T_L2_B1_1_FAIL": {
-   "NAME": "Autre messager envoyé",
-   "TEXT": "Vous n'avez pas réussi à apporter l'infopack à temps. Je pensais que vous étiez capable d'accomplir une tâche aussi facile."
+   "NAME": "Autre coursier engagé",
+   "TEXT": "Vous n'avez pas réussi à livrer l'infopack dans les temps. Je pensais que vous étiez capable d'accomplir une tâche aussi facile."
   },
   "T_L2_B1_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Je développe également la communication par messager dans ce secteur. Apportez cet infopack à la <reference:base des matières premières. =B_L2_FEEDSTOCK> La mission est très simple. Vous serez payé 1000 points d'énergie à la base."
+   "TEXT": "Maintenant, j'intègre également la communication par coursier dans ce secteur. Livrez cet infopack à la <reference:base des matières premières. =B_L2_FEEDSTOCK> La mission est très simple. Vous serez payé 1000 points d'énergie à la base."
   },
   "T_L2_B1_1_INCT": {
-   "NAME": "Infopack non apporté à la base des matières premières.",
-   "TEXT": "Apportez l'infopack à la base des matières premières. C'est la première fois que j'utilise la communication par messager, je voudrais voir si c'est efficace."
+   "NAME": "Infopack non livré à la base des matières premières.",
+   "TEXT": "Livrez l'infopack à la base des matières premières. C'est la première fois que j'utilise la communication par coursier et j'aimerai voir si c'est efficace."
   },
   "T_L2_B1_1_IN_B_L2_FEEDSTOCK": {
    "NAME": "Nouveau mode de communication",
-   "TEXT": "Le nouveau mode de communication me convient pour moi. Il est plus efficace que la communication gravitationnelle."
+   "TEXT": "La nouvelle méthode de communication me convient. Il est plus efficace que la communication gravitationnelle."
   },
   "T_L2_B1_2": {
    "NAME": "Possible accident à la base des Mutants",
@@ -7634,7 +7634,7 @@
   },
   "T_L2_B1_2.X1": {
    "NAME": "Informations reçues",
-   "TEXT": "C'est juste une panne d'émetteur gravitationnel à la base des Mutants. Avec cette information, je dois retourner à la base principale et recevoir ma récompense."
+   "TEXT": "C'était une panne d'émetteur gravitationnel à la base des Mutants. Avec cette information, je dois retourner à la base principale et recevoir ma récompense."
   },
   "T_L2_B1_2.X1_GET": {
    "NAME": "",
@@ -7642,51 +7642,51 @@
   },
   "T_L2_B1_2_BC": {
    "NAME": "",
-   "TEXT": "L'émetteur gravitationnel à la base des Mutants en panne, il est impossible de les contacter."
+   "TEXT": "L'émetteur gravitationnel à la base des Mutants était en panne, il est impossible de les contacter."
   },
   "T_L2_B1_2_BRIEF": {
    "NAME": "Possible accident à la base des Mutants",
-   "TEXT": "Mission de la base principale : aller à la <reference:base des Mutants=B_L2_SC> et savoir pourquoi ils ne répondent pas. La base principale vous paie 4000 points d'énergie pour ce service."
+   "TEXT": "Mission de la base principale : aller à la <reference:base des Mutants=B_L2_SC> et découvrir pourquoi elle ne répond pas. La base principale vous paie 4000 points d'énergie pour ce service."
   },
   "T_L2_B1_2_COMPLETE": {
-   "NAME": "Motif du silence radio trouvé",
-   "TEXT": "Un émetteur cassé et un groupe de Mécanoïdes agressifs ? Bien, vous avez accompli votre mission."
+   "NAME": "La raison du silence est révélée",
+   "TEXT": "Un émetteur cassé et une bande de Mécanoïdes agressifs, c'est tout?  Eh, bien, vous avez accompli votre mission avec succès."
   },
   "T_L2_B1_2_GET": {
    "NAME": "Détails sur la situation",
-   "TEXT": "Nous ne pouvons pas établir de communication avec la <reference:base des Mutants. =B_L2_SC> C'est peut-être un accident. J'ai envoyé trois mécanoïdes mais ils ne sont pas revenus. En échange d'une rétribution , allez voir ce qu'il s'est passé. Inutile de vous dire d'être prudent. Dès que vous en connaîtrez la raison, revenez et je vous paierai 4000 points d'énergie."
+   "TEXT": "Nous n'arrivons pas à établir de communication avec la <reference:base des Mutants. =B_L2_SC> C'est peut-être un accident. J'ai envoyé trois mécanoïdes, mais ils ne sont pas revenus. En échange d'une rémunération , allez voir ce qu'il s'est passé. Inutile de vous dire d'être prudent. Dès que vous en connaîtrez la raison, revenez et je vous paierai 4000 points d'énergie."
   },
   "T_L2_B1_2_INCT": {
    "NAME": "Toujours pas de nouvelles de la base des Mutants",
-   "TEXT": "Je dois savoir pourquoi la base des Mutants reste silencieuse."
+   "TEXT": "Je dois savoir pourquoi la base des Mutants garde le silence."
   },
   "T_L2_B1_2_IN_B_L2_SC": {
    "NAME": "Informations pour la base principale",
-   "TEXT": "L'émetteur gravitationnel n'est plus opérationnel, les communications sont interrompues."
+   "TEXT": "Le transmetteur gravitationnel est hors service... les communications sont interrompues."
   },
   "T_L2_B1_3": {
    "NAME": "Avertissement pour les Chasseurs",
    "TEXT": "Passer le mot aux <reference:plates-formes de ravitaillement.=B_L2_ZAR1>"
   },
   "T_L2_B1_3.X1": {
-   "NAME": "Apport d'informations aux plates-formes de ravitaillement",
-   "TEXT": "J'ai apporté l'infopack à l'une des plates-formes de ravitaillement ; il en reste encore 2."
+   "NAME": "Fourniture d'informations aux plates-formes de ravitaillement",
+   "TEXT": "J'ai livré l'infopack à l'une des plates-formes de ravitaillement ; il en reste encore 2."
   },
   "T_L2_B1_3.X1_BC": {
    "NAME": "_DEFAULT_",
-   "TEXT": "Infopack apporté à temps à la plate-forme de ravitaillement 1."
+   "TEXT": "Infopack livré à temps à la plate-forme de ravitaillement 1."
   },
   "T_L2_B1_3.X1_GET": {
    "NAME": "",
    "TEXT": ""
   },
   "T_L2_B1_3.X2": {
-   "NAME": "Apport d'informations aux plates-formes de ravitaillement",
-   "TEXT": "J'ai apporté les infopacks à deux plates-formes de ravitaillement ; Il en reste encore une."
+   "NAME": "Fourniture d'informations aux plates-formes de ravitaillement",
+   "TEXT": "J'ai livré les infopacks à deux plates-formes de ravitaillement ; Il en reste encore une."
   },
   "T_L2_B1_3.X2_BC": {
    "NAME": "_DEFAULT_",
-   "TEXT": "Infopack apporté à temps à la plate-forme de ravitaillement 2."
+   "TEXT": "Infopack livré à temps à la plate-forme de ravitaillement 2."
   },
   "T_L2_B1_3.X2_GET": {
    "NAME": "",
@@ -7698,7 +7698,7 @@
   },
   "T_L2_B1_3.X3_BC": {
    "NAME": "_DEFAULT_",
-   "TEXT": "Infopack apporté à temps à la plate-forme de ravitaillement 3."
+   "TEXT": "Infopack livré à temps à la plate-forme de ravitaillement 3."
   },
   "T_L2_B1_3.X3_GET": {
    "NAME": "",
@@ -7706,55 +7706,55 @@
   },
   "T_L2_B1_3_BC": {
    "NAME": "",
-   "TEXT": "L'infopack a été apporté à temps à la plate-forme de ravitaillement 1. L'infopack a été apporté à temps à la plate-forme de ravitaillement 2. L'infopack a été apporté à temps à la plate-forme de ravitaillement 3."
+   "TEXT": "L'infopack a été livré à temps à la plate-forme de ravitaillement 1. L'infopack a été livré à temps à la plate-forme de ravitaillement 2. L'infopack a été livré à temps à la plate-forme de ravitaillement 3."
   },
   "T_L2_B1_3_BF": {
    "NAME": "",
-   "TEXT": "Je n'ai pas réussi à apporter à temps les messages aux plates-formes de ravitaillement."
+   "TEXT": "Je n'ai pas réussi à livrer dans les temps les messages aux plates-formes de ravitaillement."
   },
   "T_L2_B1_3_BRIEF": {
    "NAME": "Avertissement pour les Chasseurs",
-   "TEXT": "Mission de la base principale : Apporter un message à toutes les plate-forme de ravitaillement. Je ne serai pas payé en cristaux d'énergie, mais des réparations gratuites me semblent plus intéressants."
+   "TEXT": "Mission de la base principale : Livrer un message à toutes les plate-forme de ravitaillement. Je ne serai pas payé en cristaux d'énergie, mais les réparations gratuites me semblent plus intéressants."
   },
   "T_L2_B1_3_COMPLETE": {
    "NAME": "Messages apportés",
-   "TEXT": "Les Chasseurs laisseront tranquilles les messagers, j'en suis sûr. J'ai le droit de recevoir des réparations gratuites dans ce secteur, il me suffit d'atteindre la zone de sécurité ou entrer dans une plateforme de ravitaillement."
+   "TEXT": "Maintenant, les Chasseurs resteront à l'écart des coursiers, j'en suis certain. Vous aurez la garantie de recevoir des réparations gratuites dans ce secteur, il vous suffira d'atteindre la zone de sécurité ou entrer dans une plateforme de ravitaillement."
   },
   "T_L2_B1_3_C_ZAR": {
    "NAME": "",
-   "TEXT": "En récompense à votre travail, toutes les plates-formes de ravitaillement dans ce secteur vous accorderont une réduction."
+   "TEXT": "Pour vous récompenser de votre travail, toutes les plateformes de ravitaillement dans ce secteur vous accorderont une réduction."
   },
   "T_L2_B1_3_FAIL": {
-   "NAME": "Autres messagers envoyés",
-   "TEXT": "Le message n'a pas été apporté à temps aux plates-formes de ravitaillement. D'autres messagers ont du être envoyés. Si vous voulez votre paiement la prochaine fois, dépêchez-vous!"
+   "NAME": "Autres coursiers engagés",
+   "TEXT": "Le message n'a pas été remis aux plates-formes de ravitaillement dans les temps. D'autres coursiers ont dû être envoyés. J'espère que la prochaine fois, vous vous dépêcherez si vous avez besoin de salaire."
   },
   "T_L2_B1_3_GET": {
-   "NAME": "Détails sur le message",
-   "TEXT": "Les Envahisseurs et les Chasseurs ne fréquentent pas les bases. Ils réparent leurs engins et ils s'approvisionnent en munitions qu'aux plates-formes de ravitaillement. Je veux les avertir de ne pas attaquer les mécanoïdes qui apportent des infopacks. Allez aux plates-formes de ravitaillement et laissez ce message à l'attention de ceux qui y viennent. A partir de maintenant, s'ils détruisent un mécanoïde-messager, ils devront payer trois fois plus pour faire réparer leurs engins. Je pense que cela découragera ceux qui voudraient attaquer les messagers. En échange de ce travail, vous pourrez faire réparer gratuitement votre engin dans cette base et dans toutes les plates-formes de ravitaillement."
+   "NAME": "Détails du message",
+   "TEXT": "Les Envahisseurs et les Chasseurs ne fréquentent pas les bases. La plupart du temps, ils réparent leurs engins et ils s'approvisionnent en munitions aux plates-formes de ravitaillement. Je veux les avertir de ne pas attaquer les mécanoïdes qui livrent des infopacks. Allez aux plates-formes de ravitaillement et laissez ce message à tout ceux qui s'y rendent. A partir de maintenant, s'ils détruisent un coursier mécanoïde, ils devront payer trois fois plus pour faire réparer leurs engins. Je pense que cela réduira le nombre de ceux qui veulent attaquer les coursiers. En échange de ce travail, vous pourrez faire réparer gratuitement votre engin dans cette base et dans toutes les plates-formes de ravitaillement."
   },
   "T_L2_B1_3_INCT": {
    "NAME": "Infopacks non encore apportés à la plate-forme de ravitaillement",
-   "TEXT": "La communication par messager va être de plus en plus employé. Mais il faut s'inquiéter de leur sécurité pour éviter toute perte."
+   "TEXT": "La communication par coursier va être de plus en plus employé. Mais nous devons assurer leur sécurité afin d'éviter les pertes d'informations."
   },
   "T_L2_B1_3_IN_B_L2_ZAR1": {
    "NAME": "Infopack reçu",
-   "TEXT": "Message reçu. Tous ceux qui viennent ici seront informés."
+   "TEXT": "Message reçu. Tous ceux qui se rendent ici seront informés."
   },
   "T_L2_B1_3_IN_B_L2_ZAR2": {
    "NAME": "Infopack reçu",
-   "TEXT": "J'ai bien reçu le message. Je pense que les <reference:Chasseurs=ORG_HUNTERS> prendront du temps à accepter les termes. Ils sont du genre lents à comprendre."
+   "TEXT": "J'ai bien reçu le message. Je pense que les <reference:Chasseurs=ORG_HUNTERS> n'accepteront pas tout de suite les termes. Ils sont du genre lents à comprendre les nouvelles choses."
   },
   "T_L2_B1_3_IN_B_L2_ZAR3": {
    "NAME": "Infopack reçu",
-   "TEXT": "J'ai reçu et transmis le message. Attendons de voir les résultats."
+   "TEXT": "J'ai reçu et publié le message. Attendons de voir les résultats."
   },
   "T_L2_B1_4": {
-   "NAME": "Livraisons d'informations aux autres secteurs",
-   "TEXT": "Apportez des infopacks au <reference:Secteur Roche=INFO_SECTOR1> et au <reference:Secteur Arctique.=INFO_SECTOR3>"
+   "NAME": "Transmission d'informations aux autres secteurs",
+   "TEXT": "Livrer les infopacks au <reference:Secteur Roche=INFO_SECTOR1> et au <reference:Secteur Arctique.=INFO_SECTOR3>"
   },
   "T_L2_B1_4.X1": {
    "NAME": "Livraison d'informations terminé",
-   "TEXT": "J'ai apporté l'infopack à la base principale du Secteur Roche."
+   "TEXT": "J'ai livré l'infopack à la base principale du Secteur Roche."
   },
   "T_L2_B1_4.X1_GET": {
    "NAME": "",
@@ -7762,7 +7762,7 @@
   },
   "T_L2_B1_4.X2": {
    "NAME": "Livraison d'informations terminée",
-   "TEXT": "J'ai apporté l'infopack à la base principale du Secteur Arctique."
+   "TEXT": "J'ai livré l'infopack à la base principale du Secteur Arctique."
   },
   "T_L2_B1_4.X2_GET": {
    "NAME": "",
@@ -7770,23 +7770,23 @@
   },
   "T_L2_B1_4_BC": {
    "NAME": "",
-   "TEXT": "L'infopack a été apporté au Secteur Arctique. L'infopack a été apporté au Secteur Toundra."
+   "TEXT": "L'infopack a été livré au Secteur Arctique. L'infopack a été livré au Secteur Toundra."
   },
   "T_L2_B1_4_BRIEF": {
    "NAME": "Apport des informations aux autres secteurs",
-   "TEXT": "Dans le Secteur Toundra, il y a un nouveau type de récompense pour la réussite des missions, c'est à dire : une augmentation du score. Les bases principales du secteur 1 et du secteur 3 doivent en être informées. Il serait préférable d'aller dans le secteur 1 d'abord, car c'est le plus facile. Dans chaque base, j'obtiendrai 3000 points d'énergie pour la livraison de l'infopack."
+   "TEXT": "Dans le Secteur Toundra, il y a un nouveau type de récompense pour la réussite des missions, c'est à dire : une augmentation du score. Les bases principales du secteur 1 et du secteur 3 doivent en être informées. Il serait préférable d'aller dans le secteur 1 d'abord, car c'est le plus facile. Dans chaque base, j'obtiendrai 3000 points d'énergie pour la livraison d'infopack."
   },
   "T_L2_B1_4_COMPLETE": {
-   "NAME": "Informations apportées aux autres secteurs",
+   "NAME": "Informations livrées aux autres secteurs",
    "TEXT": "Mission accomplie."
   },
   "T_L2_B1_4_GET": {
-   "NAME": "Détails sur l'apport d'informations",
+   "NAME": "Détails sur la livraison d'informations",
    "TEXT": "Récemment, j'ai essayé d'introduire un nouveau mode de paiement. La réussite d'une mission permettra d'augmenter votre score personnel. Si vous échouez, votre score sera réduit. Les Mécanoïdes pourront être plus précis dans leur choix des missions. Les bases principales des secteurs 1 et 3 doivent être informées de ce nouveau procédé. <p>Allez-y et transmettez-leur ces informations. Je vous suggère de vous rendre tout d'abord dans le Secteur 1, ensuite dans le secteur 3. Vous recevrez 3000 points d'énergie dans chacune des deux bases ainsi qu'une augmentation de votre score."
   },
   "T_L2_B1_4_INCT": {
-   "NAME": "Infopacks non encore apportés aux autres secteurs.",
-   "TEXT": "Apportez les infopacks. Ce sera utile pour vous et pour tous les Mécanoïdes."
+   "NAME": "Infopacks pas encore livrés aux autres secteurs",
+   "TEXT": "Livrez les infopacks. Ce sera utile pour tous les Mécanoïdes... et pour vous."
   },
   "T_L2_B1_4_IN_B_L1_BASE1": {
    "NAME": "",
@@ -7794,27 +7794,27 @@
   },
   "T_L2_B1_4_IN_B_L3_BASE1": {
    "NAME": "Informations reçues du Secteur Toundra",
-   "TEXT": "Nous utilisons déjà cette méthode de récompense depuis longtemps, mais nous n'avons pas jugé nécessaire d'informer les autres bases des secteurs précédents."
+   "TEXT": "Nous utilisons déjà cette méthode de récompense depuis longtemps, mais nous n'avons pas jugé nécessaire d'informer les bases subordonnées."
   },
   "T_L2_B1_5": {
    "NAME": "Réparations à l'usine de fabrication",
-   "TEXT": "Apportez les modules de réparation spécifiques à l'<reference:atelier de fabrication.=B_L2_PLANT_RECYCLE>"
+   "TEXT": "Apportez les modules spéciaux de réparation à l'<reference:atelier de fabrication.=B_L2_PLANT_RECYCLE>"
   },
   "T_L2_B1_5.X1": {
    "NAME": "L'usine a reçu les éléments nécessaires",
-   "TEXT": "Les modules de réparation ont été apportés à l'usine. Retournez à la base principale pour recevoir votre récompense."
+   "TEXT": "Les modules de réparation ont été livrés à l'usine. Retournez à la base principale pour recevoir votre récompense."
   },
   "T_L2_B1_5_BC": {
    "NAME": "_DEFAULT_",
-   "TEXT": "J'ai apporté les modules de réparation spécifiques dans les temps. L'usine a été réparé sans subir de pertes."
+   "TEXT": "J'ai livré les modules spéciaux de réparation dans les temps. L'usine a été réparé sans subir de pertes."
   },
   "T_L2_B1_5_BF": {
    "NAME": "",
-   "TEXT": "J'ai échoué, je n'ai pas apporté à temps les modules de réparation spécifiques à l'usine."
+   "TEXT": "J'ai échoué, je n'ai pas apporté à temps les modules spéciaux de réparation à l'usine."
   },
   "T_L2_B1_5_BRIEF": {
    "NAME": "Réparations à l'usine de fabrication.",
-   "TEXT": "J'ai reçu quatre modules de réparation spécifiques à la base principale qui doivent être rapidement apportés à l'usine de fabrication."
+   "TEXT": "J'ai reçu quatre modules spéciaux de réparation à la base principale qui doivent être rapidement apportés à l'usine de fabrication."
   },
   "T_L2_B1_5_COMPLETE": {
    "NAME": "Réparations à l'usine de fabrication terminées",
@@ -7822,43 +7822,43 @@
   },
   "T_L2_B1_5_FAIL": {
    "NAME": "Systèmes de transport souterrains utilisés",
-   "TEXT": "Les modules n'ont pas été apportés à temps. L'usine a subi de lourdes pertes et nous avons dû utiliser le transport souterrain dans l'urgence."
+   "TEXT": "Les modules n'ont pas été livrés à temps. L'usine a subi de lourdes pertes et nous avons dû utiliser le transport souterrain en urgence."
   },
   "T_L2_B1_5_GET": {
    "NAME": "Détails sur la réparation",
-   "TEXT": "Nous avons reçu un message de l'usine de fabrication. Suite à l'impact d'un missile, l'une des unités de transformation n'est plus opérationnelle. Vous devez livrer rapidement des modules de réparation spécifiques en stock ici dans notre atelier."
+   "TEXT": "Nous avons reçu un message de l'usine de fabrication. Suite à l'impact d'un missile, l'une des unités de transformation ne fonctionne plus. Vous devez livrer en urgence des modules spéciaux de réparation de mon stock à l'usine."
   },
   "T_L2_B1_5_INCT": {
    "NAME": "Réparations nécessaires à l'usine de fabrication",
-   "TEXT": "L'usine attend des modules de réparation spécifiques. Des Mécanoïdes stupides ont encore ouvert le feu dans le périmètre de sécurité. Leurs engins ont été immédiatement détruits, mais l'usine a également été endommagé."
+   "TEXT": "L'usine attend des modules spéciaux de réparation. Des Mécanoïdes stupides ont encore ouvert le feu dans le périmètre de sécurité. Leurs engins ont été immédiatement détruits, mais l'usine a également été endommagé."
   },
   "T_L2_B1_5_IN_B_L2_PLANT_RECYCLE": {
    "NAME": "Mission accomplie",
-   "TEXT": "Modules de réparation apportés. Retournez à la base principale."
+   "TEXT": "Modules de réparation livrés. Retournez à la base principale."
   },
   "T_L2_B1_6": {
-   "NAME": "Apporter l'infopack dans le Secteur Arctique",
+   "NAME": "Livrer l'infopack dans le Secteur Arctique",
    "TEXT": "Apportez les informations utiles au <reference:centre de tests=B_L3_IKN> dans le <reference:Secteur Arctique.=INFO_SECTOR3>"
   },
   "T_L2_B1_6_BRIEF": {
-   "NAME": "Apporter l'infopack dans le Secteur Arctique",
+   "NAME": "Livrer l'infopack dans le Secteur Arctique",
    "TEXT": "Si j'apporte l'infopack au centre de tests dans le Secteur Arctique, je gagnerai 3000 points d'énergie. Mais ce n'est pas vraiment le montant qui m'intéresse, mais plutôt l'opportunité d'avoir une arme unique."
   },
   "T_L2_B1_6_COMPLETE": {
-   "NAME": "Infopack apporté dans le Secteur Arctique",
-   "TEXT": "Mission accomplie. Et je n'ai plus de missions pour vous, %NAME. Trouvez du travail dans des secteurs de niveau supérieur."
+   "NAME": "Infopack livré dans le Secteur Arctique",
+   "TEXT": "Mission accomplie. Et je n'ai plus de missions pour vous, %NAME. Trouvez du travail dans des secteurs de plus haut niveau."
   },
   "T_L2_B1_6_GET": {
    "NAME": "Détails sur la livraison de l'infopack",
-   "TEXT": "Un éboulement s'est produit dans les tunnels souterrains. Il y avait une cargaison en cours d'acheminement vers le complexe de test du Secteur Arctique mais ils ont dû changer d'itinéraire et c'est arrivé chez moi. Certains de ces éléments sont très lourds. Je dois attendre que les tunnels soient réparés. Une partie de la cargaison peut cependant être expédiée par engin. Vous finirez tôt ou tard par passer dans le Secteur Arctique de toute façon. Prenez cet infopack contenant les procédures de transformation. Cela servira de base au développement d'un nouveau type d'arme. Je pense qu'ils vous donneront un prototype pour faire des essais. C'est déjà une bonne affaire, mais vous obtiendrez en plus 3000 points d'énergie pour la livraison."
+   "TEXT": "Un éboulement s'est produit dans les tunnels souterrains. Une cargaison était en route pour le complexe de test du Secteur Arctique, mais elle a dû changer d'itinéraire et c'est arrivé chez moi. Certains de ces éléments sont très lourds. Je dois attendre que les tunnels soient réparés. Une partie de la cargaison peut cependant être expédiée par engin. Vous finirez tôt ou tard par passer dans le Secteur Arctique, de toute façon. Prenez cet infopack contenant les procédures de transformation. Cela servira de base au développement d'un nouveau type d'arme. Je pense qu'ils vous donneront un échantillon pour faire des essais. C'est déjà une bonne affaire, mais vous obtiendrez en plus 3000 points d'énergie pour la livraison."
   },
   "T_L2_B1_6_INCT": {
-   "NAME": "Apport des informations dans le Secteur Arctique",
-   "TEXT": "Cette mission n'est pas trop urgente. Les passages souterrains ne risqueront pas d'être réparés de sitôt."
+   "NAME": "Livraison d'infos dans le Secteur Arctique",
+   "TEXT": "Il n'y pas lieu de se presser pour cette mission. Les passages souterrains ne risqueront pas d'être réparés de sitôt."
   },
   "T_L2_B1_6_IN_B_L3_IKN": {
    "NAME": "Instruction reçue",
-   "TEXT": "Ce sont les plans de la nouvelle arme, parfait. Les Nargoons la fabriqueront."
+   "TEXT": "Ce sont les plans de la nouvelle arme... Parfait, les Nargoons la fabriqueront."
   },
   "T_L2_B1_7_COMPLETE": {
    "NAME": "",
@@ -7893,24 +7893,24 @@
    "TEXT": "Nouvelles pièces reçues. Nous commençons le remplacement. Apportez la confirmation du remplacement à la base."
   },
   "T_L2_B2_1": {
-   "NAME": "Livraison de pièces détachées au système d'extraction 1.",
-   "TEXT": "Apportez le combustible nucléaire et les pièces détachées au <reference:système d'extraction 1.=B_L2_MINE1>"
+   "NAME": "Livraison de pièces détachées au système d'extraction 1",
+   "TEXT": "Livrez le combustible nucléaire et les pièces détachées au <reference:système d'extraction 1.=B_L2_MINE1>"
   },
   "T_L2_B2_1_BC": {
    "NAME": "_DEFAULT_",
-   "TEXT": "J'ai apporté le combustible et les pièces détachées au système d'extraction 1 à temps."
+   "TEXT": "J'ai livré le combustible et les pièces détachées au système d'extraction 1 dans les temps."
   },
   "T_L2_B2_1_BF": {
    "NAME": "",
-   "TEXT": "Je n'ai pas réussi à apporter le combustible et les pièces détachées au système d'extraction 1 à temps."
+   "TEXT": "Je n'ai pas réussi à livrer le combustible et les pièces détachées au système d'extraction 1 dans le temps imparti."
   },
   "T_L2_B2_1_BRIEF": {
    "NAME": "Livraison de pièces",
-   "TEXT": "Mission de la base secondaire : Urgent! Apportez le combustible nucléaire et les pièces détachées au système d'extraction 1. Ils payent 5000 points d'énergie si vous le faites vite."
+   "TEXT": "Mission de la base secondaire : Urgent! Livrez le combustible nucléaire et les pièces détachées au système d'extraction 1. Ils payent 5000 points d'énergie si vous le faites vite."
   },
   "T_L2_B2_1_COMPLETE": {
    "NAME": "Pièces détachées et combustible livrés",
-   "TEXT": "Mission accomplie avec succès. L'unité fonctionne de nouveau. Vous avez réussi à temps."
+   "TEXT": "Mission accomplie avec succès. L'unité fonctionne de nouveau. Vous avez réussi dans les temps."
   },
   "T_L2_B2_1_FAIL": {
    "NAME": "Systèmes de transport souterrains utilisés",
@@ -7918,51 +7918,51 @@
   },
   "T_L2_B2_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Récemment, nous avons reçu une requête du système d'extraction 1. Leur superchargeur plasma est cassé et ne dispose plus de combustible nucléaire. L'extraction a été stoppée. Nous devons leur apporter du combustible et des pièces détachées le plus vite possible. Allez-y dès que vous le pouvez. Si vous réussissez à temps, vous recevrez 3000 points d'énergie."
+   "TEXT": "Récemment, nous avons reçu une requête du système d'extraction 1. Leur superchargeur plasma est cassé et ne dispose plus de combustible nucléaire. L'extraction a été stoppée. Nous devons leur fournir du combustible et des pièces détachées le plus vite possible. Allez-y dès que vous le pouvez. Si vous arrivez à temps, vous recevrez 3000 points d'énergie."
   },
   "T_L2_B2_1_INCT": {
    "NAME": "Système d'extraction en manque de combustible et de pièces détachées",
-   "TEXT": "L'installation de transformation n'aura bientôt plus de matières premières en raison de l'arrêt des forages. Vous devriez vous dépêcher. Les pièces détachées doivent être livrées au système d'extraction le plus vite possible."
+   "TEXT": "L'installation de transformation n'aura bientôt plus de matières premières en raison de l'arrêt des forages. Vous feriez mieux de vous dépêcher. Les pièces détachées doivent être livrées au système d'extraction le plus vite possible."
   },
   "T_L2_B2_1_IN_B_L2_MINE1": {
    "NAME": "Mission accomplie",
-   "TEXT": "Combustible et pièces détachées reçus. Nous allons redémarrer le Superchargeur. Je crains que la trancheuse ne soit brisée, mais je ne sais pas dans combien de temps."
+   "TEXT": "Combustible et pièces détachées bien reçus. Nous allons redémarrer le Superchargeur. Cependant, je crains que la trancheuse soit bientôt en panne, mais je ne sais pas dans combien de temps."
   },
   "T_L2_B2_1_IN_B_L2_MINE1_FAIL": {
    "NAME": "Travail inachevé",
-   "TEXT": "Les pièces détachées ont été reçues mais vous étiez également supposés amener du combustible nucléaire."
+   "TEXT": "Les pièces détachées ont été reçues, mais vous étiez également supposés apporter du combustible nucléaire."
   },
   "T_L2_B2_2": {
-   "NAME": "Apporter l'infopack à l'Obélisque de l'Ultime",
-   "TEXT": "Apportez l'infopack contenant le rapport à l'<reference:Obélisque de l'Ultime.=B_L2_OBELISK>"
+   "NAME": "Livrer l'infopack à l'Obélisque de l'Ultime",
+   "TEXT": "Livrez l'infopack contenant le rapport à l'<reference:Obélisque de l'Ultime.=B_L2_OBELISK>"
   },
   "T_L2_B2_2_BC": {
    "NAME": "_DEFAULT_",
-   "TEXT": "Le rapport de la base a été apporté à temps à l'Obélisque de l'Ultime."
+   "TEXT": "Le rapport de la base a été livré dans les temps à l'Obélisque de l'Ultime."
   },
   "T_L2_B2_2_BF": {
    "NAME": "_DEFAULT_",
-   "TEXT": "Je n'ai pas réussi à apporter le rapport à l'Obélisque de l'Ultime"
+   "TEXT": "Je n'ai pas réussi à livrer le rapport à l'Obélisque de l'Ultime."
   },
   "T_L2_B2_2_BRIEF": {
    "NAME": "Livraison de l'infopack à l'Obélisque de l'Ultime",
-   "TEXT": "L'infopack contenant le rapport de la base secondaire doit être apporté à l'Obélisque de l'Ultime. Vous serez payé 2000 points d'énergie pour ce travail."
+   "TEXT": "L'infopack contenant le rapport de la base secondaire doit être livré à l'Obélisque de l'Ultime. Vous serez payé 2000 points d'énergie pour ce travail."
   },
   "T_L2_B2_2_COMPLETE": {
    "NAME": "Infopack apporté à l'Obélisque de l'Ultime",
-   "TEXT": "Le prochain rapport ne viendra pas avant un moment. Toutefois, les choses sont plutôt stables."
+   "TEXT": "Le prochain rapport ne viendra pas avant un moment, mais la situation est relativement stable."
   },
   "T_L2_B2_2_FAIL": {
    "NAME": "Communication gravitationnelle utilisée",
-   "TEXT": "Vous n'avez pas réussi à apporter l'infopack à l'Obélisque de l'Ultime. J'ai dû utiliser la communication gravitationnelle. Une quantité considérable d'énergie a été utilisée à cause de votre retard !"
+   "TEXT": "Vous n'avez pas réussi à livrerr l'infopack à l'Obélisque de l'Ultime. J'ai dû utiliser la communication gravitationnelle. Une quantité considérable d'énergie a été utilisée à cause de votre retard !"
   },
   "T_L2_B2_2_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Personne ne sait pourquoi l'Ultime a besoin de tant de donnée , et il fallait dépenser beaucoup d'énergie pour lui transférer tout cela. Je crois qu'il en fait bon usage.<p>J'ai collecté des données de ces 5000 dernières heures. L'infopack qui les contient doit être apporté à l'Obélisque de l'Ultime le plus tôt possible. Vous serez payé 2000 points d'énergie à l'Obélisque."
+   "TEXT": "Personne ne peut dire si l'Ultime a réellement besoin de telles quantités de données, et ça demande beaucoup d'énergie pour lui transférer tout cela. J'ose penser qu'il les utilise d'une manière ou d'une autre.<p>J'ai collecté des données de ces 5000 dernières heures. L'infopack qui les contient doit être livré à l'Obélisque de l'Ultime le plus tôt possible. Vous serez payé 2000 points d'énergie à l'Obélisque."
   },
   "T_L2_B2_2_INCT": {
-   "NAME": "Infopack non apporté à l'Obélisque de l'Ultime",
-   "TEXT": "Apportez l'infopack à l'Obélisque de l'Ultime. Il vous donnera peut-être de nouveaux éléments."
+   "NAME": "Infopack non livré à l'Obélisque de l'Ultime",
+   "TEXT": "Livrez l'infopack à l'Obélisque de l'Ultime. Il vous donnera peut-être de nouveaux éléments."
   },
   "T_L2_B2_2_IN_B_L2_OBELISK": {
    "NAME": "Rapport à l'Obélisque de l'Ultime",
@@ -7974,7 +7974,7 @@
   },
   "T_L2_B2_3.X1": {
    "NAME": "STOK-19 capturé",
-   "TEXT": "J'ai capturé STOK-19 et je dois le ramener à la base secondaire. Si je vais au tunnel de passage ou à la base principale, ils prendront STOK-19 et je ne serai pas payé."
+   "TEXT": "J'ai capturé STOK-19 et je dois le ramener à la base secondaire. Si je vais au tunnel de passage ou à la base principale, ils voudront prendre STOK-19 et je ne serai pas payé."
   },
   "T_L2_B2_3.X1_GET": {
    "NAME": "",
@@ -7985,23 +7985,23 @@
    "TEXT": "STOK-19 détruit et ramené à la base secondaire."
   },
   "T_L2_B2_3_BRIEF": {
-   "NAME": "Détruire l'ennemi des Reckoners.",
-   "TEXT": "La base secondaire paie 4000 points d'énergie pour cette mission. Le Mécanoïde STOK-19 est en embuscade devant le tunnel de passage. Son engin doit être détruit, et STOK-19 doit être ramené à la base secondaire! Une chose complique cependant la tâche, je ne peux pas l'attaquer tant que je lui ai pas transmis le message."
+   "NAME": "Détruire l'ennemi des Reckoners",
+   "TEXT": "La base secondaire offre 4000 points d'énergie pour cette mission. Le Mécanoïde STOK-19 est en embuscade devant le tunnel de passage. Son engin doit être détruit, et STOK-19 doit être ramené à la base secondaire! Une chose complique cependant la tâche, je ne peux pas l'attaquer tant que je lui ai pas transmis le message."
   },
   "T_L2_B2_3_COMPLETE": {
    "NAME": "Ennemi des Reckoners détruit",
-   "TEXT": "STOK-19 a attaqué les Reckoners et on ne comprend pas ses raisons. Maintenant, il ne les attaquera plus."
+   "TEXT": "STOK-19 a attaqué les Reckoners et ses raisons ne sont pas claires. Maintenant, il ne les attaquera plus."
   },
   "T_L2_B2_3_FAIL": {
-   "NAME": "Ennemi des Reckoners amené dans une autre base",
-   "TEXT": "On a appris que l'engin de l'agresseur des Reckoners avait été détruit et que le Mécanoïde avait été amené dans une autre base. Vous n'avez pas réussi la mission et vous n'aurez pas votre récompense."
+   "NAME": "Ennemi des Reckoners déposé dans une autre base",
+   "TEXT": "On a appris que l'engin de l'agresseur des Reckoners avait été détruit et que le Mécanoïde avait été livré dans une autre base. Vous n'avez pas réussi la mission et vous n'aurez pas votre récompense."
   },
   "T_L2_B2_3_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Récemment, un Reckoner était passé ici, et il nous a fourni des informations intéressantes. Je voulais lui donner des cristaux d'énergie, mais il a refusé. Il a proposé une récompense au mécanoïde qui détruirait l'ennemi de son clan.<p>Si vous voulez gagner 4000 points d'énergie, trouvez et apportez le message des Reckoners au mécanoïde appelé STOK-19. Après cela, détruisez-le.<p>STOK-19 se tient généralement en embuscade à proximité du tunnel de passage. Il tue tous les Reckoners et aucun d'eux ne peut se défendre. Vous pourrez détruire son engin sans trop de problème, puis aussitôt, ramenez ce mécanoïde ici et vous aurez votre récompense."
+   "TEXT": "Un Reckoner est venu ici récemment, et il nous a fourni des informations intéressantes. Je voulais lui donner des cristaux d'énergie, mais il a refusé. Il a proposé une récompense au mécanoïde qui détruirait l'ennemi de son clan.<p>Si vous voulez gagner 4000 points d'énergie, trouvez et transmettez le message des Reckoners au mécanoïde appelé STOK-19. Après cela, détruisez-le.<p>STOK-19 se tient généralement en embuscade à proximité du tunnel de passage. Il tue tous les Reckoners et aucun d'eux ne peut se défendre. Vous pourrez détruire son engin sans trop de problème, puis ramenez, dès que possible, ce mécanoïde et vous aurez votre récompense."
   },
   "T_L2_B2_3_INCT": {
-   "NAME": "Ennemi des Reckoners toujours en fuite",
+   "NAME": "Ennemi des Reckoners toujours en cavale",
    "TEXT": "Je ne sais pas où STOK-19 se trouve exactement. Probablement à tendre une embuscade non loin du tunnel de passage, comme d'habitude."
   },
   "T_L2_B2_4": {
@@ -8030,35 +8030,35 @@
   },
   "T_L2_B2_4_BRIEF": {
    "NAME": "Détruire le Nargoon",
-   "TEXT": "Le Nargoon STNAR-114 est en train de détruire des Trances qui vont à la base des matières premières, dans le but d'amasser de quoi se faire des réparations. Si je le détruis et que j'amène le Mécanoïde à la base secondaire, je recevrai 5000 points d'énergie."
+   "TEXT": "Le Nargoon STNAR-114 est en train de détruire des Trances qui vont à la base des matières premières, dans le but d'amasser de quoi se faire des réparations. Si je le détruis et je le livre à la base secondaire, je recevrai 5000 points d'énergie."
   },
   "T_L2_B2_4_COMPLETE": {
    "NAME": "Nargoon détruit",
-   "TEXT": "Si l'ordre d'assassiner leurs ennemis devient populaire chez les Trances, plus personne n'osera les railler. Que deviendront les Envahisseur alors, Je me demande."
+   "TEXT": "Si le fait d'ordonner l'assassinat de leurs ennemis devient populaire chez les Trances, plus personne ne voudra se frotter à eux. Que ferons alors les Envahisseurs, Je me demande ?"
   },
   "T_L2_B2_4_FAIL": {
-   "NAME": "Le Nargoon a été amené dans une autre base",
-   "TEXT": "Vous avez échoué. Quelqu'un a détruit l'engin du Nargoon STNAR-114 et l'a amené dans une autre base. Vous n'aurez pas la récompense."
+   "NAME": "Le Nargoon a été livré dans une autre base",
+   "TEXT": "Vous avez échoué. Quelqu'un a détruit l'engin du Nargoon STNAR-114 et l'a livré dans une autre base. Vous n'aurez pas la récompense."
   },
   "T_L2_B2_4_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Les Trances ont eu vent de votre exploit concernant l'élimination de STOK-19. Ils ont également un ennemi ici et il s'agit d'un Nargoon qui s'est retrouvé dans ce secteur par erreur. Il tue les Trances qui passent près de la base des matières premières. Les Envahisseurs et les Chasseurs n'osent rien faire contre lui par crainte des représailles des Nargoons.<p>Détruisez l'engin de l'ennemi des Trances. STNAR-114 se trouve à proximité de la base des matières premières maintenant. Lorsque vous le ramènerez, vous obtiendrez 5000 points d'énergie."
+   "TEXT": "Les Trances ont eu vent de votre exploit concernant l'élimination de STOK-19. Ils ont aussi un ennemi ici et il s'agit d'un Nargoon qui s'est retrouvé dans ce secteur par erreur. Il tue les Trances qui passent près de la base des matières premières. Les Envahisseurs et les Chasseurs n'osent rien faire contre lui par crainte des représailles des Nargoons. Détruisez l'engin de l'ennemi des Trances. STNAR-114 se trouve à proximité de la base des matières premières à présent. En le remenant, vous obtiendrez 5000 points d'énergie."
   },
   "T_L2_B2_4_INCT": {
-   "NAME": "Nargoon toujours en course",
-   "TEXT": "Les Trances attendent que le Nargoon soit détruit. Dépêchez-vous, le retard dans le transport fera augmenter le prix des ressources."
+   "NAME": "Nargoon toujours en obstacle aux transactions",
+   "TEXT": "Les Trances attendent que le Nargoon soit détruit. Dépêchez-vous, tout retard dans les transports fera augmenter le prix des ressources."
   },
   "T_L2_BSC_1": {
    "NAME": "Réparations de l'émetteur gravitationnel",
    "TEXT": "Apportez les pièces cassées à l'<reference:usine de produits semi-finis=B_L2_PLANT_PF>."
   },
   "T_L2_BSC_1.X1": {
-   "NAME": "Travail non terminé",
-   "TEXT": "J'ai apporté les pièces de l'émetteur cassées à l'usine et ai reçu des pièces de rechanges. Je dois maintenant les apporter à la base des Mutants et recevoir ma récompense."
+   "NAME": "Travail non achevé",
+   "TEXT": "J'ai livré les pièces de l'émetteur cassées à l'usine et j'ai reçu des pièces de rechanges. Je dois maintenant les retourner à la base des Mutants et recevoir ma récompense."
   },
   "T_L2_BSC_1_BC": {
    "NAME": "",
-   "TEXT": "La tâche de la base secondaire est accomplie. J'ai emporté les pièces endommagées à l'usine et ramené les éléments réparés à temps à la base."
+   "TEXT": "La tâche de la base secondaire est accomplie. J'ai livré les pièces endommagées à l'usine et ramené les éléments réparés à la base dans le temps imparti."
   },
   "T_L2_BSC_1_BF": {
    "NAME": "Obtenir des données des Reckoners",
@@ -8069,24 +8069,24 @@
    "TEXT": "A la base des Mutants, j'ai reçu un conteneur avec des pièces endommagées de l'émetteur. Je dois l'apporter à l'usine de produits semi-finis. Je recevrai un autre conteneur que je devrai rapporter à la base."
   },
   "T_L2_BSC_1_COMPLETE": {
-   "NAME": "Emetteur gravitationnel réparé",
+   "NAME": "Transmetteur gravitationnel réparé",
    "TEXT": "La communication est revenue à la normale."
   },
   "T_L2_BSC_1_FAIL": {
-   "NAME": "Durée écoulée",
-   "TEXT": "La tâche n'a pas été accomplie à temps. Nous avons dû utiliser d'autres moyens qui ont alourdi les dépenses."
+   "NAME": "Le temps est écoulé",
+   "TEXT": "La tâche n'a pas été accomplie dans les délais. Nous avons dû utiliser d'autres moyens qui ont augmenté les dépenses."
   },
   "T_L2_BSC_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Certaines parties de l'émetteur gravitationnel se sont détériorés et j'ai perdu la communication par ce biais. Je vais vous donner un conteneur avec les éléments défectueux. Amenez-les à l'usine et ramenez les pieces de remplacement que vous recevrez en échange. Rien de bien compliqué, hormis le fait que le conteneur soit plutôt encombrant. Pour ce travail, je vous paierai 2500 points d'énergie."
+   "TEXT": "Certaines parties du transmetteur gravitationnel se sont détériorés, ne fonctionnement plus, et je ne peux plus communiquer. Je vais vous confie le conteneur avec les éléments défectueux. Amenez-les à l'usine et ramenez les pieces de rechange que vous recevrez en retour. Rien de bien compliqué, mais attention, le conteneur est encombrant. Pour ce travail, je vous paierai 2500 points d'énergie."
   },
   "T_L2_BSC_1_INCT": {
-   "NAME": "Emetteur gravitionnel non opérationnel",
-   "TEXT": "Je ne peux toujours pas contacter les autres bases. Rapportez moi les pièces détachées de l'usine de produits semi-finis."
+   "NAME": "Transmetteur gravitionnel en panne",
+   "TEXT": "Je ne peux toujours pas contacter les autres bases. Rapportez-moi les pièces détachées de l'usine de produits semi-finis."
   },
   "T_L2_BSC_1_IN_B_L2_PLANT_PF": {
    "NAME": "Emetteur gravitionnel en stock",
-   "TEXT": "Oui, j'ai les pièces nécessaires. Il en reste de la dernière fois, un dysfonctionnement identique s'est déjà produit. Prenez-les et apportez-les à la base des Mutants."
+   "TEXT": "Oui, j'ai les pièces nécessaires. Il en reste de la dernière fois, un dysfonctionnement similaire s'était déjà produit. Prenez-les et apportez-les à la base des Mutants."
   },
   "T_L2_B_8_COMPLETE": {
    "NAME": "Informations apportées",
@@ -8094,7 +8094,7 @@
   },
   "T_L2_B_F_1": {
    "NAME": "Reconstruction du stock",
-   "TEXT": "Apporter les matières nécessaires à la reconstruction."
+   "TEXT": "Fournir les matières nécessaires à la reconstruction."
   },
   "T_L2_B_F_1.X1": {
    "NAME": "Livraison du module de construction",
@@ -8110,15 +8110,15 @@
   },
   "T_L2_B_F_1_BRIEF": {
    "NAME": "Reconstitution du stock",
-   "TEXT": "La base des matières premières veut rénover le stockage. Le module de construction nécessaire peut être obtenu à la base secondaire."
+   "TEXT": "La base des matières premières veut rénover le stockage. Le module de construction requis peut être obtenu à la base secondaire."
   },
   "T_L2_B_F_1_COMPLETE": {
    "NAME": "Reconstitution du stock terminée",
-   "TEXT": "Excellent ! A partir de maintenant, je peux économiser plus d'énergie pour approvisionner le stock."
+   "TEXT": "Excellent ! Maintenant, je consomme beaucoup moins d'énergie pour alimenter le stockage."
   },
   "T_L2_B_F_1_GET": {
    "NAME": "Détails",
-   "TEXT": "Je vais apporter de légères modifications dans l'infrastructure du stockage de gaz. Pour cela, j'ai besoin d'un <reference:module de construction =TOV_BUILDMODUL>. <p>Prenez l'infopack et allez à la <reference:base secondaire=B_L2_BASE2>. Il doit y rester des <reference:modules de construction=TOV_BUILDMODUL> depuis la construction du Territoire. Amenez-moi un module et vous aurez 2000 points d'énergie."
+   "TEXT": "Je vais apporter de légères modifications dans l'infrastructure du stockage de gaz. Pour cela, j'ai besoin d'un <reference:module de construction =TOV_BUILDMODUL>. <p>Prenez l'infopack et allez à la <reference:base secondaire=B_L2_BASE2>. Il doit y rester des <reference:modules de construction=TOV_BUILDMODUL> depuis la construction du Territoire. Apportez-moi un module et vous aurez 2000 points d'énergie."
   },
   "T_L2_B_F_1_INCT": {
    "NAME": "Module de construction nécessaire",
@@ -8126,7 +8126,7 @@
   },
   "T_L2_B_F_1_IN_B_L2_BASE2": {
    "NAME": "",
-   "TEXT": "Oui, j'ai des modules de construction. Ils sont très anciens, mais ils pourraient encore fonctionner. Un seul module devrait suffire."
+   "TEXT": "Oui, j'ai des modules de construction. Ils sont très anciens, mais ils pourraient encore fonctionner. Un seul module devrait suffire pour la rénovation."
   },
   "T_L2_B_SC_1_BRIEF": {
    "NAME": "Réparations du commutateur gravitationnel.",
@@ -8154,11 +8154,11 @@
   },
   "T_L2_KA_1": {
    "NAME": "Escorter l'unité",
-   "TEXT": "Escorter la plate-forme gravitationnelle avec son chargement jusqu'à l'emplacement spécifié."
+   "TEXT": "Escorter la plate-forme gravitationnelle avec son chargement jusqu'à l'emplacement indiqué."
   },
   "T_L2_KA_1.X1": {
-   "NAME": "Escorte de la plate-forme accomplie",
-   "TEXT": "La plate-forme a été installée à l'emplacement spécifié. Je peux aller au régulateur climatique pour recevoir ma récompense."
+   "NAME": "Escorte de la plate-forme effectué",
+   "TEXT": "La plate-forme a été installée à l'emplacement spécifié. Je peux me rendre au régulateur climatique et recevoir ma récompense."
   },
   "T_L2_KA_1.X1_BC": {
    "NAME": "",
@@ -8170,15 +8170,15 @@
   },
   "T_L2_KA_1_BF": {
    "NAME": "",
-   "TEXT": "Le système a été activé là où le régulateur climatique avait prévu."
+   "TEXT": "Le système a été activé à l'endroit où le régulateur climatique avait prévu."
   },
   "T_L2_KA_1_BRIEF": {
-   "NAME": "Escorter le module.",
-   "TEXT": "La mission du régulateur climatique consiste à escorter la plate-forme gravitationnelle à l'emplacement spécifié, puis de quitter l'endroit le plus vite possible. Et tant qu'a quitter vite l'endroit, autant le faire en prenant le chemin vers le régulateur climatique, ils ont promis 5000 points d'énergie pour ce travail."
+   "NAME": "Escorter le module",
+   "TEXT": "La mission du régulateur climatique consiste à escorter la plate-forme gravitationnelle à l'emplacement indiqué, puis de quitter cet endroit le plus vite possible. Et tant qu'a quitter vite l'endroit, autant le faire en prenant le chemin vers le régulateur climatique, ils ont promis 5000 points d'énergie pour ce travail."
   },
   "T_L2_KA_1_COMPLETE": {
    "NAME": "Module installé",
-   "TEXT": "La température de l'autre coté de la barrière de champs de force étant trop variable. Les capacités de régulations n'étaient pas satisfaisant pour maintenir la température à l'intérieur de la barrière. Je pense que l'équilibre thermique sera enfin rétabli maintenant."
+   "TEXT": "La température de l'autre coté de la barrière est trop variable. Les capacités de régulations n'ont pas toujours été suffisantes pour stabiliser la température à l'intérieur de la barrière. Je pense que l'équilibre thermique va maintenant être rétabli."
   },
   "T_L2_KA_1_FAIL": {
    "NAME": "Echec de l'activation de la plate-forme",
@@ -8186,15 +8186,15 @@
   },
   "T_L2_KA_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "J'ai comme l'impression que le Territoire tombe en ruines ! Notre chargeur n'est plus opérationnel et je comptais sur sa grande fiabilitée éprouvée. De plus, il est tombé en panne au moment même où nous en avions le plus besoin ! Je prévoyais depuis longtemps d'installer un modulateur thermique supplémentaire et maintenant que cela est vraiment nécessaire, nous ne pouvons pas l'amener sur place. Bien, procédons ainsi : je vais placer le modulateur sur une plate-forme de vol stationnaire et vous indiquerai sur la carte le lieu d'activation. Allez-y et la plate-forme vous suivra. Veillez à ce qu'elle soit proche de vous. Si le système vous perd de vue, elle s'activera. Vous devrez être capable de la voir grâce à la jauge d'alerte. Dès que vous serez sur place, attendez la plate-forme, puis partez rapidement. Si tout se passe bien, revenez ici pour obtenir votre montant d'énergie. Je pense que 5000 points sera un bonne rétribution."
+   "TEXT": "J'ai l'impression que tout le Territoire tombe en ruines ! Notre chargeur est en panne et pourtant c'est un équipement très fiable. De plus, il est tombé en panne juste au moment où nous en avions vraiment besoin ! Ca faisait un moment que je prévoyais d'installer un modulateur thermique supplémentaire et maintenant que c'est vraiment nécessaire, nous ne pouvons pas le livrer sur place. Bien, procédons ainsi : je vais placer le modulateur sur une plate-forme de vol stationnaire et je vous indiquerai le lieu d'activation sur la carte. Allez-y et la plate-forme vous suivra. Veillez à ce qu'elle soit proche de vous. Si le système vous perd de vue, elle s'activera. Vous devrez être capable de la voir grâce à la jauge d'alerte. Dès que vous serez en place, attendez la plate-forme, puis quittez le lieu rapidement. Si tout se passe bien, revenez ici pour récupérer votre montant d'énergie. Je pense que 5000 points sera un prix raisonnable."
   },
   "T_L2_KA_1_INCT": {
-   "NAME": "Escorte du module non terminée",
-   "TEXT": "Je prévois de fortes perturbations météo à l'extérieur de la barrière. Les modificateurs dont je dispose fonctionnent en permanence à plein régime, ce qui peut entraîner des défaillances prématurées. Si nous en installons un supplémentaire, cela compensera une partie de la charge."
+   "NAME": "Escorte du module inachevé",
+   "TEXT": "Je m'attends à ce que de fortes perturbations externes se produisent bientôt. Les modificateurs dont je dispose fonctionnent constamment à plein régime, ce qui peut entraîner des pannes prématurées. Si nous en installons un supplémentaire, cela supprimera une partie de la charge."
   },
   "T_L2_TUNNEL1": {
    "NAME": "Visiter la base principale",
-   "TEXT": "Salutations, %NAME ! Vous êtes arrivé dans le Secteur Toundra et vous vous trouvez dans le module de réception du tunnel de passage. Vous devrez tout d'abord vous rendre à la base principale du secteur pour vous enregistrer. Une fois enregistré, vous aurez accès à l'autre secteur. Je vais vous indiquer les coordonnées de la base sur votre carte et vous mettre en relation."
+   "TEXT": "Salutations, %NAME ! Vous êtes arrivé dans le Secteur Toundra et vous vous trouvez dans le module de réception du tunnel de passage. Vous devrez d'abord vous rendre à la base principale du secteur pour vous enregistrer. Une fois enregistré, vous aurez accès à l'autre secteur. Je vais vous indiquer les coordonnées de la base sur votre carte."
   },
   "T_L2_TUNNEL1_GET": {
    "NAME": "",
@@ -8202,7 +8202,7 @@
   },
   "T_L2_TUNNEL1_IN_B_L2_BASE1": {
    "NAME": "",
-   "TEXT": "Bienvenue, %NAME ! Avant d'accéder à d'autres secteurs, je vous ajoute à la liste des résidents de ce secteur."
+   "TEXT": "Bienvenue, %NAME ! Avant que vous partiez pour un autre secteur, je vous ai ajouté à la liste des résidents de ce secteur."
   },
   "T_L2_TUNNEL_BRIEF1": {
    "NAME": "Arrivée dans le Secteur Toundra",
@@ -8210,11 +8210,11 @@
   },
   "T_L2_TUNNEL_BRIEF2": {
    "NAME": "Enregistrement terminé",
-   "TEXT": "Ils ont inscrit mon nom sur le registre des résidents du Secteur Toundra. Je peux maintenant connaître les conditions du tunnel de passage et, une fois remplies, aller dans le secteur suivant."
+   "TEXT": "Ils ont inscrit mon nom sur le registre des résidents du Secteur Toundra. Je peux maintenant me renseigner sur les conditions du tunnel de passage et, une fois fait, aller dans le secteur suivant."
   },
   "T_L2_TUNNEL_BRIEF3": {
    "NAME": "Non enregistré",
-   "TEXT": "Vous n'avez pas encore visité la base principale, %NAME. Tout d'abord, allez-y, puis faites-vous inscrire sur la liste des résidents. Une fois cela fait, vous pouvez faire ce que vous souhaitez, y compris venir ici et connaître les conditions de passage dans le Secteur Arctique."
+   "TEXT": "Vous n'avez pas encore visité la base principale, %NAME. Allez-y sans tarder, puis laissez-les vous inscrire sur la liste des résidents. Une fois cela fait, vous pouvez faire ce que vous soulez, y compris venir ici et vous renseigner sur les conditions de passage vers le Secteur Arctique."
   },
   "T_L2_TUNNEL_BRIEF4": {
    "NAME": "Conditions du tunnel de passage",
@@ -8226,19 +8226,19 @@
   },
   "T_L3_B1_1.X1": {
    "NAME": "Données collectées",
-   "TEXT": "J'ai obtenu les données de la base des Reckoners. Je dois les apporter à la base principale dans le Secteur Arctique et recevoir ma récompense."
+   "TEXT": "J'ai obtenu les données de la base des Reckoners. Je dois les livrer à la base principale dans le Secteur Arctique et recevoir ma récompense."
   },
   "T_L3_B1_1_BC": {
    "NAME": "Collecter des informations auprès des Reckoners",
-   "TEXT": "J'ai apporté l'infopack à temps."
+   "TEXT": "J'ai livré l'infopack dans les délais."
   },
   "T_L3_B1_1_BF": {
    "NAME": "Collecter des informations auprès des Reckoners",
-   "TEXT": "Je n'ai pas réussi à apporter l'infopack à temps."
+   "TEXT": "Je n'ai pas réussi à livrer l'infopack dans les délais."
   },
   "T_L3_B1_1_BRIEF": {
    "NAME": "Collecter des informations auprès des Reckoners",
-   "TEXT": "Objectif de la base principale : Aller à la base des Reckoners dans le Secteur Volcans, récupérez les  informations et apportez-les ici. La base vous récompensera avec 8000 points d'énergie pour ce travail."
+   "TEXT": "Objectif de la base principale : Aller à la base des Reckoners dans le Secteur Volcans, récupérez les  informations et ramenez-les ici. La base vous récompensera avec 8000 points d'énergie pour ce travail."
   },
   "T_L3_B1_1_COMPLETE": {
    "NAME": "Informations reçues",
@@ -8262,7 +8262,7 @@
   },
   "T_L3_B1_1__": {
    "NAME": "_DEFAULT_",
-   "TEXT": "4 heures aller et retour, La zone contenant la base des Reckoner dans le secteur 4 est indiquée sur la carte."
+   "TEXT": "4 heures aller-retour, la zone du secteur 4 avec la base des Reckoners est révélée sur la carte."
   },
   "T_L3_B1_2": {
    "NAME": "Avertir les Sinigres",
@@ -8286,15 +8286,15 @@
   },
   "T_L3_B1_2_COMPLETE": {
    "NAME": "Les Sinigres ont reçu l'avertissement",
-   "TEXT": "Les Sinigres ont reçu lultimatum mais ils ne veulent qu'en faire à leur tête. Toutes les bases des secteurs voisins seront fermés pour eux."
+   "TEXT": "Les Sinigres ont reçu l'ultimatum, mais ils ne veulent qu'en faire à leur tête. Ce qui signifie que toutes les bases des secteurs voisins leur seront fermées."
   },
   "T_L3_B1_2_FAIL": {
-   "NAME": "Avertissement non apporté à temps",
-   "TEXT": "Vous avez échoué dans votre mission. J'ai dû envoyer un autre messager à cause de votre retard."
+   "NAME": "Avertissement non livré à temps",
+   "TEXT": "Vous avez échoué dans votre mission. J'ai dû envoyer un autre coursier à cause de votre retard."
   },
   "T_L3_B1_2_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Plusieurs fois, je voulais le faire. J'ai enfin envoyé des messagers aux bases les plus proches, et ils viennent de revenir. Nous avons l'opportunité de sanctionner les Sinigres. Mais tout d'abord, il faut les avertir. S'ils se battent encore une fois de plus dans la zone de sécurité, l'accès à toutes les bases des secteurs voisins leur sera refusé. <p>Apportez ce message à leur base, dans le Secteur Volcan. Ensuite, revenez et je vous paierai 6000 points d'énergie pour ce travail."
+   "TEXT": "Plusieurs fois, je voulais le faire. J'ai enfin envoyé des coursiers aux bases les plus proches, et maintenant, ils sont tous revenus. Nous avons l'opportunité de sanctionner les Sinigres. Mais d'abord, il faut leur envoyer un avertissement. S'ils se battent encore une fois de plus dans la zone de sécurité, l'accès à toutes les bases des secteurs voisins leur sera interdit.  Transmettez cet annonce à leur base, dans le Secteur Volcan. Ensuite, revenez et je vous paierai 6000 points d'énergie pour ce travail."
   },
   "T_L3_B1_2_INCT": {
    "NAME": "Les Sinigres n'ont pas reçu l'avertissement",
@@ -8377,8 +8377,8 @@
    "TEXT": "Les informations sont très intéressantes mais nous ne comprenons pas beaucoup. Qu'est-ce qu'une aîle gravitationnelle par exemple ? Mais nous comprenons certaines choses, nous avons entendu parler du clan des Transporteurs par exemple. Nous devrons envoyé certains d'entre nous dans les secteurs supérieurs pour leur parler."
   },
   "T_L3_BPAN_2_FAIL": {
-   "NAME": "Informations non apportées à temps",
-   "TEXT": "La durée est écoulée. J'ai envoyé un autre messager."
+   "NAME": "Informations non apportées dans les temps",
+   "TEXT": "Le délai est écoulé. J'ai envoyé un autre coursier."
   },
   "T_L3_BPAN_2_GET": {
    "NAME": "Détails sur la mission",
@@ -8466,7 +8466,7 @@
   },
   "T_L3_BPAN_4_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Je pense envoyer un messager chez les Transporteurs. Si vous êtes intéressés, je peux vous confier ce travail. En tous cas, personne ici ne peut aller dans les secteurs les plus éloignés, et il n'y a que vous qui est en passe d'obtenir ces accès. <p>Si vous livrez ma requête aux Transporteurs et que vous revenez, vous obtiendrez 25000 points d'énergie. La base des Transporteurs la plus proche se trouve dans le Secteur Désert. C'est une zone dangeureuse mais je pense qu'une fois que vous y serez, ce ne sera pas un problème."
+   "TEXT": "Je pense envoyer un coursier chez les Transporteurs. Si vous voulez, je peux vous confier ce travail. En tous cas, personne ici ne peut aller aux secteurs les plus éloignés, et il n'y a que vous qui est en passe d'obtenir ces accès. Si vous livrez ma requête aux Transporteurs et que vous revenez, vous obtiendrez 25000 points d'énergie. La base des Transporteurs la plus proche se trouve dans le Secteur Désert. C'est une zone dangeureuse, mais je pense qu'une fois que vous y serez, ce ne sera pas un problème."
   },
   "T_L3_BPAN_4_INCT": {
    "NAME": "Le message pour les Transporteurs n'a pas été apporté",
@@ -8525,8 +8525,8 @@
    "TEXT": "Mission accomplie. Bien joué, %NAME ! Je pense que d'autres Libres nous rendront visite."
   },
   "T_L3_BSC_2_FAIL": {
-   "NAME": "Informations non apportées à temps",
-   "TEXT": "Vous n'avez pas réussi à apporter les infopacks. Nous aurions dû confier le travail à un autre messager."
+   "NAME": "Informations non livrées à temps",
+   "TEXT": "Vous n'avez pas réussi à livrer les infopacks. Nous aurions dû confier le travail à un autre coursier."
   },
   "T_L3_BSC_2_GET": {
    "NAME": "Détails sur la mission",
@@ -8550,15 +8550,15 @@
   },
   "T_L3_B_10_COMPLETE": {
    "NAME": "Annonce reçue",
-   "TEXT": "Nous avons annoncé que la base des Premiers a besoin d'être ravitaillé régulièrement. Bien qu'il est préférable que ce soit les Premiers qui le fassent eux-même, on peut accepter de recevoir par d'autres qu'eux. Sans ravitaillement, la base leur sera perdue. Cette tache ne sera pas facile pour vous."
+   "TEXT": "Nous avons annoncé que la base des Premiers a besoin d'être ravitaillé régulièrement. Bien qu'ils préférent que les fournitures soient livrés par les Premiers eux-même, ils peuvent peut bien accepter de recevoir par d'autres sources. Sans ravitaillement, la base leur sera perdue. Ce n'est pas une tâche aisée pour vous."
   },
   "T_L3_B_10_INCT": {
    "NAME": "Annonce non reçue",
-   "TEXT": "Nous avons besoin d'être ravitaillé régulièrement. Sinon les processus s'arrêteront. Apportez l'infopack contenant cette annonce à la base principale !"
+   "TEXT": "Nous avons besoin d'un approvisionnement stable et régulier. Sinon les processus cesseront. Livrez l'infopack contenant cette annonce à la base principale !"
   },
   "T_L3_B_1_COMPLETE": {
    "NAME": "Mission accomplie",
-   "TEXT": "Vous avez réussi, cela signifie donc que vous n'êtes pas aussi faible que nous le pensions. Vous pouvez embrasser notre Objectif et rejoindre les puissants Nargoons ! Pour nous rejoindre, vous aurez besoin d'un engin qui correspond aux Nargoons. <p>Le perfectionnement dans le combat avec des armes légères, voilà notre but ! Les Panzers ont des blindages épais et sont les plus difficiles à détruire, c'est pourquoi nous les combattons à plus forte raison. Lorsqu'ils seront tous réinitialisés, nous trouverons autre chose, voire dans d'autres secteurs."
+   "TEXT": "Tu as réussi, cela signifie donc que tu n'es pas aussi faible que nous le pensions avant. Tu peux embrasser notre Objectif et rejoindre les puissants Nargoons ! Pour nous rejoindre, tu auras besoin d'un engin qui correspond aux Nargoons. <p>Notre but est de perfectionner l'attaque avec les armes légères ! Les Panzers ont des blindages épais et sont les plus difficiles à détruire, c'est pourquoi nous les combattons à plus forte raison. Quand ils seront tous réinitialisés, nous trouverons autre chose, peut-être dans d'autres horizons."
   },
   "T_L3_B_1_INCT": {
    "NAME": "",
@@ -8570,31 +8570,31 @@
   },
   "T_L3_B_2_INCT": {
    "NAME": "Informations non livrées aux chefs",
-   "TEXT": "Apportez les informations aux chefs des groupes. Vous les trouverez non loin de la base des Panzers, ils chassent dans les environs là-bas."
+   "TEXT": "Va livrer les informations aux chefs des groupes. Tu les trouveras non loin de la base des Panzers, ils chassent dans les environs là-bas."
   },
   "T_L3_B_3_COMPLETE": {
-   "NAME": "Opération terminée avec succès",
-   "TEXT": "Nous avons causé des dégâts importants contre les forces des Panzers, et avons accru le pouvoir des Nargoons. Beaucoup d'entre nous ont atteint un nouveau niveau."
+   "NAME": "Opération accompli avec succès",
+   "TEXT": "Nous avons causé de grands ravages contre les forces des Panzers, et avons renforcé le pouvoir des Nargoons. Beaucoup d'entre nous ont atteint un nouveau niveau."
   },
   "T_L3_B_3_INCT": {
    "NAME": "La bataille est sur le point de commencer",
-   "TEXT": "Vous risquez de rater la grande bataille ! Dépêchez-vous !"
+   "TEXT": "Tu ne veux pas rater ce grand combat ? Dépêche-toi !"
   },
   "T_L3_B_4_COMPLETE": {
    "NAME": "Informations reçues",
-   "TEXT": "Il en reste encore beaucoup trop ! Ce qui veut dire que l'impact n'a pas été aussi fort qu'espéré, et ils ont changé de tactique. Nous allons revenir à ce que nous faisions auparavant, les embusquer."
+   "TEXT": "Ils sont encore trop nombreux ! Cela signifie que l'impact ne sera pas aussi fort qu'espéré, et ils ont changé de tactique. Nous devrons agir comme auparavant, les traquer."
   },
   "T_L3_B_4_INCT": {
    "NAME": "Annonces non apportées",
-   "TEXT": "Il n'y a pas beaucoup de Libres. Agissez avant qu'ils ne rejoignent les clans. Il n'y aura plus de changement pour eux après cela."
+   "TEXT": "Il n'y a pas beaucoup de Libres. Agis avant qu'ils ne rejoignent les clans. Il n'y aura plus de changement pour eux après cela."
   },
   "T_L3_B_5_COMPLETE": {
    "NAME": "Conditions remplies",
-   "TEXT": "Vous avez rempli toutes nos conditions et vous êtes un Panzer maintenant."
+   "TEXT": "Tu as rempli toutes nos conditions et tu es un Panzer maintenant."
   },
   "T_L3_B_5_INCT": {
    "NAME": "Les conditions des Panzers",
-   "TEXT": "Pour devenir un Panzer, vous aurez besoin d'un engin de type transport et d'une armure P-Zéro."
+   "TEXT": "Pour devenir un Panzer, tu auras besoin d'un engin de type transport et d'une armure P-Zéro."
   },
   "T_L3_B_6_COMPLETE": {
    "NAME": "Informations reçues",
@@ -8606,23 +8606,23 @@
   },
   "T_L3_B_6_IN_OBELISK": {
    "NAME": "La réponse de l'Obélisque",
-   "TEXT": "Les Panzers veulent des informations sur les méthodes de transport ? On dirait qu'ils ne sont pas loin de la Réforme. Apportez-leur cet infopack. Il contient suffisamment d'informations pour les aider à prendre la décision."
+   "TEXT": "Les Panzers veulent des informations sur les méthodes de transport ? On dirait qu'ils ne sont pas loin de la Réforme. Remettez-leur cet infopack. Il contient suffisamment d'informations pour les aider à prendre la décision."
   },
   "T_L3_B_7_COMPLETE": {
    "NAME": "Objectif atteint",
-   "TEXT": "Nous allons probablement recevoir plus d'adhérents. Nous augmentons votre score pour cette mission réussie."
+   "TEXT": "Nous allons probablement recevoir plus de membres. Nous augmentons ton score pour cette mission réussie."
   },
   "T_L3_B_7_INCT": {
-   "NAME": "Annonces non apportées",
+   "NAME": "Annonces non livrés",
    "TEXT": "Il n'y a pas beaucoup de Libres. Agissez avant qu'ils ne rejoignent les clans. Il n'y aura plus de changement pour eux après cela."
   },
   "T_L3_B_7_IN_PANZER": {
-   "NAME": "Infopack apporté",
-   "TEXT": "Ces informations de ce genre sont dorénavant disponibles à l'attention de tous les Libres."
+   "NAME": "Infopack livré",
+   "TEXT": "Les informations de cette nature sont dorénavant disponibles à l'attention de tous les Libres."
   },
   "T_L3_B_8_COMPLETE": {
    "NAME": "Les conditions d'admission sont remplies",
-   "TEXT": "Vous êtes libre maintenant et vous pouvez nous rejoindre ! Les Mutants ne vous lie à aucun terme, vous êtes libre de vous développer comme bon vous semble."
+   "TEXT": "Tu es maintenant libre et tu peux nous rejoindre ! Les Mutants ne te lie à aucune condition, tu es libre de te développer comme bon te semble."
   },
   "T_L3_B_8_INCT": {
    "NAME": "Conditions des Mutants",
@@ -8630,7 +8630,7 @@
   },
   "T_L3_B_9_COMPLETE": {
    "NAME": "Annonce reçue",
-   "TEXT": "Les informations seront communiquées aux Libres pour un usage général. Voici votre récompense."
+   "TEXT": "Les informations seront communiquées aux Libres pour un usage général. Voici ta récompense."
   },
   "T_L3_FIRST1": {
    "NAME": "Faire le plein d'énergie",
@@ -8782,7 +8782,7 @@
   },
   "T_L3_IKN_3_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "L'assemblée va commencer. Nos guerriers intercepteront les Panzers lorsqu'ils se déplaceront avec leur cargaison de l'usine vers la base. Allez au point de rendez-vous. Vous avez une occasion de prouver que vous n'êtes pas seulement un bon messager mais également un guerrier ! Lorsque les Panzers apparaitront, essayez d'en détruire autant que vous le pouvez."
+   "TEXT": "La confrontation est sur le point de commencer. Nos guerriers intercepteront les Panzers lorsqu'ils se déplaceront avec leur cargaison de l'usine vers la base. Allez au point de rendez-vous. Vous avez une occasion de prouver que vous n'êtes pas seulement un bon coursier, mais également un guerrier ! Lorsque les Panzers apparaitront, essayez d'en détruire autant que vous le pouvez."
   },
   "T_L3_IKN_3_INCT": {
    "NAME": "Nos guerriers se tiennent en embuscade",
@@ -8942,7 +8942,7 @@
   },
   "T_L4_BASE_3_BF": {
    "NAME": "Informer l'Ultime de l'accident",
-   "TEXT": "Je n'ai pas réussi à apporter le rapport à l'Ultime. Pour plus de sécurité, ils ont déjà envoyé un autre messager."
+   "TEXT": "Je n'ai pas réussi à livrer le rapport à l'Ultime. Ils ont déjà envoyé un autre coursier, c'est certain."
   },
   "T_L4_BASE_3_BRIEF": {
    "NAME": "Informer l'Ultime de l'accident",
@@ -8953,8 +8953,8 @@
    "TEXT": "Mission accomplie. S'il en existe d'autres comme vous, nous n'avons rien à craindre !"
   },
   "T_L4_BASE_3_FAIL": {
-   "NAME": "Infopack non apporté à temps",
-   "TEXT": "Vous n'avez pas apporté l'infopack à temps. J'ai confié ce travail à un autre messager."
+   "NAME": "Infopack non livré à temps",
+   "TEXT": "Vous n'avez pas transmis l'infopack à temps. J'ai confié ce travail à un autre coursier."
   },
   "T_L4_BASE_3_GET": {
    "NAME": "Détails sur la mission",
@@ -9306,7 +9306,7 @@
   },
   "T_L5_CARR_4_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Vous n'êtes pas seulement un excellent guerrier mais aussi un bon messager. Si vous acceptez d'apporter des infopacks, vous serez récompensés. Il y en a 7, et ils contiennent cet annonce à l'attention de tous les visiteurs entrant dans les bases. <p> Nous proposerons une récompense pour chacun de nos ennemis abattus. Celui qui nous apportera des ennemis abattus ici, recevra beaucoup de cristaux d'énergie. La liste de nos ennemis est également incluse dans l'annonce. Apportez-ce message toutes les bases de ce secteur et dans les autres, Marécages et Highlands. Si vous parvenez à le faire dans le temps imparti, revenez ici pour recevoir votre récompense de 20000 points d'énergie."
+   "TEXT": "Vous n'êtes pas seulement un excellent guerrier, mais aussi un bon coursier. Si vous acceptez de livrer des infopacks, vous serez récompensés. Il y en a 7, et ils contiennent cet annonce à l'attention de tous les visiteurs entrant dans les bases. <p> Nous proposerons une récompense pour chaque ennemi abattu. Celui qui nous les apportera ici, recevra beaucoup de cristaux d'énergie. La liste de nos ennemis est également incluse dans l'annonce. Apportez-ce message toutes les bases de ce secteur et dans les autres, Marécages et Highlands. Si vous parvenez à le faire dans le temps imparti, revenez ici pour recevoir votre récompense de 20000 points d'énergie."
   },
   "T_L5_CARR_4_INCT": {
    "NAME": "Toutes les annonces n'ont pas été apportées",
@@ -9550,7 +9550,7 @@
   },
   "T_L6_CARR_1": {
    "NAME": "Remplir les conditions des Transporteurs",
-   "TEXT": "Pour devenir le messager des Transporteurs, vous devrez remplir plusieurs conditions."
+   "TEXT": "Pour devenir le coursier des Transporteurs, vous devrez remplir plusieurs conditions."
   },
   "T_L6_CARR_1.X1": {
    "NAME": "Infopack apporté",
@@ -9561,8 +9561,8 @@
    "TEXT": "Le message des Transporteurs est apporté dans le Secteur Arctique."
   },
   "T_L6_CARR_1.X3": {
-   "NAME": "Infopack apporté",
-   "TEXT": "Le messager des Transporteurs est apporté dans le Secteur des Volcans."
+   "NAME": "Infopack livré",
+   "TEXT": "Le courrier des Transporteurs est livré au Secteur des Volcans."
   },
   "T_L6_CARR_1_BC": {
    "NAME": "Remplir les conditions des Transporteurs",
@@ -9577,16 +9577,16 @@
    "TEXT": "Mission de la base des Chercheurs : apporter les infopacks aux bases principales des secteurs Volcan, Arctique et Toundra. Après cela, je dois revenir vers les Transporteurs dans le Secteur Highlands."
   },
   "T_L6_CARR_1_COMPLETE": {
-   "NAME": "Infopacks apportés",
-   "TEXT": "Excellent. Vous avez été rapide. Installez maintenant un nouveau moteur. Je vous donne le statut de messager. Il y a toujours du travail pour les messagers dans les bases des Transporteurs."
+   "NAME": "Infopacks livrés",
+   "TEXT": "Excellent. Vous avez fait le travail rapidement. Maintenant, installez un nouveau moteur. Je vous attribue le statut de coursier. Il y a toujours du travail pour les coursiers dans toutes les bases des Transporteurs."
   },
   "T_L6_CARR_1_FAIL": {
-   "NAME": "Informations non apportées à temps",
-   "TEXT": "La durée de stockage des données est limitée dans les infopacks. Si vous échouez dans la livraison d'un infopack, les données seront perdues. Et vous avez pris trop de temps. Je dois envoyer un autre messager. J'espère qu'il sera plus rapide."
+   "NAME": "Informations non livrés dans les temps",
+   "TEXT": "La durée de stockage des données est limitée dans les infopacks. Si vous échouez dans la livraison d'un infopack, les données sont perdues. Et vous étiez en retard. J'ai dû envoyer un autre coursier, j'espère qu'il sera plus rapide."
   },
   "T_L6_CARR_1_GET": {
-   "NAME": "Détails sur la mission",
-   "TEXT": "Vous êtes fort et rapide, %NAME. Et nous avons besoin de messagers comme vous. Il n'est pas avantageux d'envoyer un convoi entier pour délivrer un infopack. C'est un bon moyen d'économiser rapidement. Apportez les infopacks aux bases principales des Secteurs Volcan, Arctique, et Toundra. Vous prendrez leurs réponses et vous me les ramènerez. Après, vous obtiendrez le statut de messager, et vous aurez un bon moteur."
+   "NAME": "Détails de la mission",
+   "TEXT": "Nous avons besoin de coursier comme vous, vous qui êtes fort et rapide, %NAME. Vous savez que ce n'est pas rentable d'envoyer tout un convoi pour livrer un infopack et nous avons besoin de moyen de gagner rapidement de l'argent. Livrez les infopacks aux bases principales des Secteurs Volcan, Arctique, et Toundra. Vous recevrez leurs réponses et vous me les apporterez. Lorsque vous aurez terminé, vous obtiendrez le statut de coursier et vous aurez un moteur à annihilation."
   },
   "T_L6_CARR_1_INCT": {
    "NAME": "Pas de réponses des trois bases principales des différents secteurs",
@@ -9634,7 +9634,7 @@
   },
   "T_L6_CARR_2_FAIL": {
    "NAME": "La déclaration de guerre a expiré",
-   "TEXT": "Lorsque vous preniez votre temps avec l'infopack destiné aux Chercheurs, j'ai dû envoyer un autre messager. Attendons le commencement de la guerre."
+   "TEXT": "Pendant que vous trainiez avec l'infopack pour les Chercheurs, j'ai dû envoyer un autre coursier. Il nous reste plus qu'à attendre le commencement de la guerre."
   },
   "T_L6_CARR_2_GET": {
    "NAME": "Détails de la mission details",
@@ -9997,8 +9997,8 @@
    "TEXT": "Il semble que les Créateurs n'avaient pas sondé les profondeurs de la planète, ou alors, cette menace a dû apparaitre plus tard. Les informations que nous avons demandé sont introuvables. Nous allons devoir augmenter la protection du bouclier d'énergie."
   },
   "T_L7_KA_1_FAIL": {
-   "NAME": "Requête à l'Ultime non apportée à temps",
-   "TEXT": "Vous n'avez pas apporté l'infopack à temps. J'ai envoyé un autre messager vers l'Ultime."
+   "NAME": "Requête à l'Ultime non livré dans les temps",
+   "TEXT": "Vous n'avez pas livré l'infopack dans le temps imparti. J'ai dû envoyer un autre courrier à l'Ultime."
   },
   "T_L7_KA_1_GET": {
    "NAME": "Informations détaillées",
@@ -10077,8 +10077,8 @@
    "TEXT": "Je me demande pourquoi les Reckoners ont refusé ? Je pense que quelqu'un nous a devancé."
   },
   "T_L7_REST_2_FAIL": {
-   "NAME": "Infopack non apporté à temps",
-   "TEXT": "L'alliance n'est plus possible. Un messager a apporté la réponse des Reckoners. Quelqu'un nous a devancé."
+   "NAME": "Infopack non livré dans les temps",
+   "TEXT": "L'alliance ne peut plus être possible. Un coursier a livré la réponse des Reckoners. Quelqu'un l'a fait avant nous."
   },
   "T_L7_REST_2_GET": {
    "NAME": "Détails sur le travail",
@@ -10122,7 +10122,7 @@
   },
   "T_L7_REST_3_FAIL": {
    "NAME": "Duel avec le guerrier Sinigre",
-   "TEXT": "Vous n'avez pas réussi à accomplir la tâche à temps. J'ai envoyé un autre messager."
+   "TEXT": "Vous n'avez pas réussi à accomplir la tâche à temps. J'ai envoyé un autre coursier."
   },
   "T_L7_REST_3_GET": {
    "NAME": "Détails sur la mission",
