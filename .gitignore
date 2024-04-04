@@ -1,3 +1,5 @@
 *.tab
 *.ind
 *.dat
+
+*.exe
