@@ -74,7 +74,7 @@
   },
   "ANGMAR-26_TALK": {
    "NAME": "",
-   "TEXT": "Ca fait longtemps que j'essaye de m'affranchir de l'influence de ce clan. Bientôt, je reviendrai vers ceux avec qui j'ai commencé."
+   "TEXT": "Ça fait un moment que j'essaye de m'affranchir de l'influence de ce clan. Bientôt, je reviendrai vers ceux avec qui j'ai commencé."
   },
   "ARENA3": {
    "NAME": "Arène",
@@ -154,7 +154,7 @@
   },
   "B_L2_BASE1": {
    "NAME": "Base principale",
-   "TEXT": "<image:MOD_BLD_MAIN_BASE>Ce complexe se compose d'un centre d'informations, de plusieurs ateliers d'assemblages et d'entrepôts. Les informations sont collectées et traitées, et les engins et toutes sortes d'armes sont développés. De plus, c'est ici que les mécanoïdes viennent reçevoir leurs ordres de missions, commercer, réparer leurs engins et faire le plein de munitions."
+   "TEXT": "<image:MOD_BLD_MAIN_BASE>Ce complexe se compose d'un centre d'informations, de plusieurs ateliers d'assemblages et d'entrepôts. Les informations sont collectées et traitées, et les engins et toutes sortes d'armes sont développés. De plus, c'est ici que les mécanoïdes viennent recevoir leurs ordres de missions, commercer, réparer leurs engins et faire le plein de munitions."
   },
   "B_L2_BASE2": {
    "NAME": "Base secondaire",
@@ -201,7 +201,7 @@
    "TEXT": "<image:MOD_BLD_ZRM>Elle produit en grande quantité et en permanence tout ce qui est prêt pour l'usage. Ces usines fournissent également de l'énergie pour tout le Territoire."
   },
   "B_L2_SC": {
-   "NAME": "Base principale des Mutants",
+   "NAME": "Base principale de la Structure de Reconversion",
    "TEXT": "<image:ORG_PANZER.tga><image:MOD_BLD_MAIN_BASE>Comparée à une base ordinaire, la base appartenant à un clan possède un bon nombre de fonctions supplémentaires spécifiques. Il arrive que l'accès à la base de tel ou tel clan soit limité pour des raisons particulières. Ici, vous pouvez vous familiariser avec la Voie de la Mutation dans le but d'entrer dans ce clan."
   },
   "B_L2_SPHERE": {
@@ -226,7 +226,7 @@
   },
   "B_L3_BASE1": {
    "NAME": "Base principale",
-   "TEXT": "<image:MOD_BLD_MAIN_BASE>Ce complexe se compose d'un centre d'informations, de plusieurs ateliers d'assemblages et d'entrepôts. Les informations sont collectées et traitées, et les engins et toutes sortes d'armes sont développés. De plus, c'est ici que les mécanoïdes viennent reçevoir leurs ordres de missions, commercer, réparer leurs engins et faire le plein de munitions."
+   "TEXT": "<image:MOD_BLD_MAIN_BASE>Ce complexe se compose d'un centre d'informations, de plusieurs ateliers d'assemblages et d'entrepôts. Les informations sont collectées et traitées, et les engins et toutes sortes d'armes sont développés. De plus, c'est ici que les mécanoïdes viennent recevoir leurs ordres de missions, commercer, réparer leurs engins et faire le plein de munitions."
   },
   "B_L3_BPAN": {
    "NAME": "Base secondaire des Panzers",
@@ -370,7 +370,7 @@
   },
   "B_L5_BASE1": {
    "NAME": "Base principale",
-   "TEXT": "<image:MOD_BLD_MAIN_BASE>Ce complexe se compose d'un centre d'informations, de plusieurs ateliers d'assemblages et d'entrepôts. Les informations sont collectées et traitées, et les engins et toutes sortes d'armes sont développés. De plus, c'est ici que les mécanoïdes viennent reçevoir leurs ordres de missions, commercer, réparer leurs engins et faire le plein de munitions."
+   "TEXT": "<image:MOD_BLD_MAIN_BASE>Ce complexe se compose d'un centre d'informations, de plusieurs ateliers d'assemblages et d'entrepôts. Les informations sont collectées et traitées, et les engins et toutes sortes d'armes sont développés. De plus, c'est ici que les mécanoïdes viennent recevoir leurs ordres de missions, commercer, réparer leurs engins et faire le plein de munitions."
   },
   "B_L5_BLACKGAMERS": {
    "NAME": "Base principale des Joueurs Noirs",
@@ -442,7 +442,7 @@
   },
   "B_L6_CARRIERS": {
    "NAME": "Base secondaire des Transporteurs",
-   "TEXT": "<image:ORG_CARRIERS.tga><image:MOD_BLD_MAIN_BASE>C'est de là que les Transporteurs commençèrent à exercer leur influence sur les autres secteurs."
+   "TEXT": "<image:ORG_CARRIERS.tga><image:MOD_BLD_MAIN_BASE>C'est de là que les Transporteurs commencèrent à exercer leur influence sur les autres secteurs."
   },
   "B_L6_ENTRANCE": {
    "NAME": "Système de ventilation",
@@ -606,7 +606,7 @@
   },
   "EQP_ANTIROCKET_SYSTEM": {
    "NAME": "Système de défense anti-missile",
-   "TEXT": "Dispositif automatique qui réagit aux émissions des têtes chercheuses des missiles. Génère alors des interférences destabilisant le système de visée de ces appareils. Consomme de l'énergie quand il est activé. <p>Fonctionne manuellement."
+   "TEXT": "Dispositif automatique qui réagit aux émissions des têtes chercheuses des missiles. Génère alors des interférences déstabilisant le système de visée de ces appareils. Consomme de l'énergie quand il est activé. <p>Fonctionne manuellement."
   },
   "EQP_BOOSTER": {
    "NAME": "Booster",
@@ -621,7 +621,7 @@
    "TEXT": "Dispositif permettant d'utiliser le système antigravitation des engins pour améliorer la manoeuvrabilité de l'engin. <p>Fonctionne automatiquement."
   },
   "EQP_CRYOGENERATOR": {
-   "NAME": "Cryogénérateur",
+   "NAME": "Cryo-générateur",
    "TEXT": "Système de refroidissement supplémentaire avec régénération à contours jumelés. Conçu pour refroidir le fuselage de l'engin dans les zones à haute température. <p>Fonctionne automatiquement."
   },
   "EQP_DISPERSE_SHIELD": {
@@ -637,7 +637,7 @@
    "TEXT": "Ce dispositif fonctionne avec l'armure à énergie P-Zéro. Convertit partiellement la charge énergétique consommée en énergie complémentaire pouvant être ré-utilisée par l'engin. <p> Fonctionne automatiquement."
   },
   "EQP_FUEL_EXPANDER": {
-   "NAME": "Enrichisseur de carburant",
+   "NAME": "Économiseur de carburant",
    "TEXT": "Système permettant de réduire la consommation d'énergie tout en conservant ses capacités. <p> Fonctionne automatiquement."
   },
   "EQP_GLUON_REACTOR": {
@@ -717,23 +717,23 @@
    "TEXT": "Un mobilisateur permet d'éviter les pertes de puissance générée par le réacteur, ce qui augmente le rendement global. <p> Fonctionne automatiquement."
   },
   "EQP_MULTIORGANIC_ARMOR": {
-   "NAME": "Armure multiorganique",
+   "NAME": "Armure multi-organique",
    "TEXT": "Constituée de cellules vivantes, cette armure dispose d'une faculté de régénération. Plusieurs couches de cellules assurent une protection contre différents types d'impacts, ce qui rend cette armure tout aussi efficace, quel que soit le type d'arme."
   },
   "EQP_MULTIORGANIC_ARMOR_S1": {
-   "NAME": "Armure multiorganique",
+   "NAME": "Armure multi-organique",
    "TEXT": "Constituée de cellules vivantes, cette armure dispose d'une faculté de régénération. Plusieurs couches de cellules assurent une protection contre différents types d'impacts, ce qui rend cette armure tout aussi efficace, quel que soit le type d'arme."
   },
   "EQP_MULTIORGANIC_ARMOR_S2": {
-   "NAME": "Armure multiorganique",
+   "NAME": "Armure multi-organique",
    "TEXT": "Constituée de cellules vivantes, cette armure dispose d'une faculté de régénération. Plusieurs couches de cellules assurent une protection contre différents types d'impacts, ce qui rend cette armure tout aussi efficace, quel que soit le type d'arme."
   },
   "EQP_MULTIORGANIC_ARMOR_S3": {
-   "NAME": "Armure multiorganique",
+   "NAME": "Armure multi-organique",
    "TEXT": "Constituée de cellules vivantes, cette armure dispose d'une faculté de régénération. Plusieurs couches de cellules assurent une protection contre différents types d'impacts, ce qui rend cette armure tout aussi efficace, quel que soit le type d'arme."
   },
   "EQP_MULTIORGANIC_ARMOR_S4": {
-   "NAME": "Armure multiorganique",
+   "NAME": "Armure multi-organique",
    "TEXT": "Constituée de cellules vivantes, cette armure dispose d'une faculté de régénération. Plusieurs couches de cellules assurent une protection contre différents types d'impacts, ce qui rend cette armure tout aussi efficace, quel que soit le type d'arme."
   },
   "EQP_NUCLON_REACTOR": {
@@ -901,23 +901,23 @@
    "TEXT": "Indicateur de vitesse standard de l'engin. Un dispositif de haute précision.<p> Fonctionne automatiquement."
   },
   "EQP_TETRAMOLECULAR_ARMOR": {
-   "NAME": "Armure tétramoléculaire",
+   "NAME": "Armure tétra-moléculaire",
    "TEXT": "Les segments de monocristaux de cette armure, qui ont poussé sous vide, peuvent résister à des charges très élevées en raison des liaisons moléculaires très solides."
   },
   "EQP_TETRAMOLECULAR_ARMOR_S1": {
-   "NAME": "Armure tétramoléculaire",
+   "NAME": "Armure tétra-moléculaire",
    "TEXT": "Les segments de monocristaux de cette armure, qui ont poussé sous vide, peuvent résister à des charges très élevées en raison des liaisons moléculaires très solides."
   },
   "EQP_TETRAMOLECULAR_ARMOR_S2": {
-   "NAME": "Armure tétramoléculaire",
+   "NAME": "Armure tétra-moléculaire",
    "TEXT": "Les segments de monocristaux de cette armure, qui ont poussé sous vide, peuvent résister à des charges très élevées en raison des liaisons moléculaires très solides."
   },
   "EQP_TETRAMOLECULAR_ARMOR_S3": {
-   "NAME": "Armure tétramoléculaire",
+   "NAME": "Armure tétra-moléculaire",
    "TEXT": "Les segments de monocristaux de cette armure, qui ont poussé sous vide, peuvent résister à des charges très élevées en raison des liaisons moléculaires très solides."
   },
   "EQP_TETRAMOLECULAR_ARMOR_S4": {
-   "NAME": "Armure tétramoléculaire",
+   "NAME": "Armure tétra-moléculaire",
    "TEXT": "Les segments de monocristaux de cette armure, qui ont poussé sous vide, peuvent résister à des charges très élevées en raison des liaisons moléculaires très solides."
   },
   "EQP_TITANIUM_ARMOR": {
@@ -1130,11 +1130,11 @@
   },
   "GL_S4_C_TRANSPORTER": {
    "NAME": "Gros Porteur",
-   "TEXT": "Cet engin cargo, qui a été conçu à partir de technologies arlings, a la plus grande soute. Cela nuit considérablement à ses caractéristiques dynamiques et c'est pourquoi il est uniquement utilisé par les Porteurs qui, eux-mêmes, préfèrent recruter des gardes supplémentaires."
+   "TEXT": "Cet engin cargo, qui a été conçu à partir de technologies Arlings, a la plus grande soute. Cela nuit considérablement à ses caractéristiques dynamiques et c'est pourquoi il est uniquement utilisé par les Porteurs qui, eux-mêmes, préfèrent recruter des gardes supplémentaires."
   },
   "GL_S4_S_SINYGR": {
    "NAME": "Ailes de l'ombre",
-   "TEXT": "Le meilleur des engins lourds basés sur la technologie arling. La corrélation optimale de ses principales caractéristiques, l'énorme capacité de son moteur et sa longévité impressionnante permettent au clan des Sinigres qui pilote les Ailes de l'ombre de résister aux Premiers."
+   "TEXT": "Le meilleur des engins lourds basés sur la technologie Arling. La corrélation optimale de ses principales caractéristiques, l'énorme capacité de son moteur et sa longévité impressionnante permettent au clan des Sinigres qui pilote les Ailes de l'ombre de résister aux Premiers."
   },
   "GUN_3_BARRELED_ATOMIC_GUN": {
    "NAME": "Canon nucléaire 4 tubes",
@@ -1205,7 +1205,7 @@
    "TEXT": "Monté sur des systèmes pare-feu stationnaires, cet émetteur associé à un système de refroidissement à double contours a été adapté pour une utilisation sur les engins."
   },
   "GUN_INFRAATOMIC_PLASMA_GUN": {
-   "NAME": "Lanceur plasma infranucléaire",
+   "NAME": "Lanceur plasma infra-nucléaire",
    "TEXT": "Unité générant un plasma à ultra haute température. La cadence de tir extrêmement basse est compensée par la puissance destructrice élevée de chaque caillot de plasma. Inconvénient : faible portée de tir."
   },
   "GUN_MEZON_DISCHARGER": {
@@ -1306,7 +1306,7 @@
   },
   "INFO_BUILDINGS": {
    "NAME": "Protection des bâtiments",
-   "TEXT": "Tous les bâtiments, ainsi que d'autres installations artificielles, que l'on peut rencontrer dans le Territoire, remplissent des fonctions précises. C'est pourquoi les Créateurs ont conçu le système de blocage automatique des armes quand elles sont pointées vers les bâtiments ainsi que d'autres objets qui pourraient être endommagés. La protection contre les bombes et missiles, qui pourraient endommager un batiment en l'atteignant accidentellement, est assurée par le système de contre-mesures des tourelles. Par ailleurs, ce dernier a été reprogrammé récemment et désormais, en plus de l'interception de missiles, il assure aussi des fonctions de sécurité. Il est interdit de tirer à proximité des bâtiments dans le périmètre de surveillance des tourelles. Les contrevenants recevront un premier avertissement et, en cas de récidive, leur engin sera détruit."
+   "TEXT": "Tous les bâtiments, ainsi que d'autres installations artificielles, que l'on peut rencontrer dans le Territoire, remplissent des fonctions précises. C'est pourquoi les Créateurs ont conçu le système de blocage automatique des armes quand elles sont pointées vers les bâtiments ainsi que d'autres objets qui pourraient être endommagés. La protection contre les bombes et missiles, qui pourraient endommager un bâtiment en l'atteignant accidentellement, est assurée par le système de contre-mesures des tourelles. Par ailleurs, ce dernier a été reprogrammé récemment et désormais, en plus de l'interception de missiles, il assure aussi des fonctions de sécurité. Il est interdit de tirer à proximité des bâtiments dans le périmètre de surveillance des tourelles. Les contrevenants recevront un premier avertissement et, en cas de récidive, leur engin sera détruit."
   },
   "INFO_BUILDINGS_SHIELD": {
    "NAME": "Protection des bâtiments",
@@ -1366,7 +1366,7 @@
   },
   "INFO_GENERATION5": {
    "NAME": "Cinquième génération de mécanoïdes",
-   "TEXT": "<image:MOD_TOV_MECHMIND>Aucune information précise n'est disponible sur cette génération. Le seule chose que je sache est que, dorénavant, vous êtes le seul et unique représentant de cette génération. Vous pouvez choisir un nombre illimité de cibles et les utiliser selon votre bon vouloir. Techniquement, c'est un système très souple, construit en se basant sur les propres recherches et développements de l'Ultime, en utilisant uniquement des biotechnologies arlings et certaines recherches autrefois secrètes menées par les Créateurs dans ce domaine."
+   "TEXT": "<image:MOD_TOV_MECHMIND>Aucune information précise n'est disponible sur cette génération. Le seule chose que je sache est que, dorénavant, vous êtes le seul et unique représentant de cette génération. Vous pouvez choisir un nombre illimité de cibles et les utiliser selon votre bon vouloir. Techniquement, c'est un système très souple, construit en se basant sur les propres recherches et développements de l'Ultime, en utilisant uniquement des biotechnologies Arlings et certaines recherches autrefois secrètes menées par les Créateurs dans ce domaine."
   },
   "INFO_JUMP_NOENERGY": {
    "NAME": "Pas assez d'énergie pour passer",
@@ -1382,7 +1382,7 @@
   },
   "INFO_L1_CONTAINER_THROW": {
    "NAME": "",
-   "TEXT": "Biocontainer déchargé dans le lac."
+   "TEXT": "Bio-container déchargé dans le lac."
   },
   "INFO_L1_CONTAINER_THROW_END": {
    "NAME": "",
@@ -1406,11 +1406,11 @@
   },
   "INFO_LET_JUMP": {
    "NAME": "Franchir le Passage",
-   "TEXT": "C'est ici que vous pouvez<link: passer=LINKPEREHOD> pour atteindre tous les secteurs qui vous sont accessibles. N'oubliez pas que vous devez avoir au minimum 1 000 unités d'energie pour assurer votre sécurité dans l'espace P-Zéro."
+   "TEXT": "C'est ici que vous pouvez<link: passer=LINKPEREHOD> pour atteindre tous les secteurs qui vous sont accessibles. N'oubliez pas que vous devez avoir au minimum 1 000 unités d’énergie pour assurer votre sécurité dans l'espace P-Zéro."
   },
   "INFO_MECH": {
    "NAME": "Les mécanoïdes",
-   "TEXT": "<image:MOD_TOV_MECHMIND>Les Mécanoïdes ont été créés pour tester l'artillerie et contrôler les procédés technologiques sur tous les territoires. D'après les informations que nous avons, il y avait autrefois plusieurs territoires. Il est probable qu'il ait d'autres domaines d'utilisation des Mécanoïdes, mais nous n'en savons rien. <p>Les Créateurs ne sont plus là depuis longtemps et personne ne sait s'ils vont revenir. Il est peu probable qu'ils soient au courant de l'avènement de l'Osmose. C'est ce qui a changé les Mécanoïdes et, même si chacun d'entre eux a conservé son objectif principal de perfectionnement personnel, ils ont commencé à agir un peu différemment. <p>De part son essence, un Mécanoïde est un système très complexe, et c'est l'aboutissement des idées techniques des Créateurs planifiés dans l'évolution en matière de molectronique et d'intelligence artificielle. Leurs alliés, les Arlings avaient également des avancées dans ce sens et ont créé un système similaire basé sur les technologies organiques. Ce n'est que récemment que l'Ultime s'est finalement résolu à utiliser et à déveloper les symbiotes. <p>Les mécanoïdes et les symbiotes se ressemblent beaucoup et, à leur stade actuel de développement, ils ont des procédés et objectifs identiques. Dans le même temps, ils sont très différents, à la fois dans leur structure interne, que dans leur soit-disant comportement, mais cela ne peut pas être décrit en deux mots. C'est quelque chose qui est apparu après l'Osmose. Il est fort probable que nul ne connaisse réellement les différences, ni l'ampleur que cela a pu occasionner. Je suppose que si vous viviez dans ce monde suffisamment longtemps, vous finirez par comprendre le reste vous-même."
+   "TEXT": "<image:MOD_TOV_MECHMIND>Les Mécanoïdes ont été créés pour tester l'artillerie et contrôler les procédés technologiques sur tous les territoires. D'après les informations que nous avons, il y avait autrefois plusieurs territoires. Il est probable qu'il ait d'autres domaines d'utilisation des Mécanoïdes, mais nous n'en savons rien. <p>Les Créateurs ne sont plus là depuis longtemps et personne ne sait s'ils vont revenir. Il est peu probable qu'ils soient au courant de l'avènement de l'Osmose. C'est ce qui a changé les Mécanoïdes et, même si chacun d'entre eux a conservé son objectif principal de perfectionnement personnel, ils ont commencé à agir un peu différemment. <p>De part son essence, un Mécanoïde est un système très complexe, et c'est l'aboutissement des idées techniques des Créateurs planifiés dans l'évolution en matière de molectronique et d'intelligence artificielle. Leurs alliés, les Arlings avaient également des avancées dans ce sens et ont créé un système similaire basé sur les technologies organiques. Ce n'est que récemment que l'Ultime s'est finalement résolu à utiliser et à développer les symbiotes. <p>Les mécanoïdes et les symbiotes se ressemblent beaucoup et, à leur stade actuel de développement, ils ont des procédés et objectifs identiques. Dans le même temps, ils sont très différents, à la fois dans leur structure interne, que dans leur soit-disant comportement, mais cela ne peut pas être décrit en deux mots. C'est quelque chose qui est apparu après l'Osmose. Il est fort probable que nul ne connaisse réellement les différences, ni l'ampleur que cela a pu occasionner. Je suppose que si vous viviez dans ce monde suffisamment longtemps, vous finirez par comprendre le reste vous-même."
   },
   "INFO_NOREPAIRMODUL": {
    "NAME": "Modules de réparation disponibles",
@@ -1438,11 +1438,11 @@
   },
   "INFO_POLYGON": {
    "NAME": "Le Territoire",
-   "TEXT": "Le Territoire se compose de plusieurs régions artificielles, aux conditions géo-climatiques variées et qui sont reliées entre elles par des tunnels de passage. Toutes les régions, communément nommées secteurs, sont isolées du monde extérieur par des barrières de champs de force (aussi appelés isohypse), qui protègent le secteur contre tout contact avec les éléments indésirables de l'environnement de la planète, tels que le type d'air, la météo, les radiations etc. <p>L'objectif des Créateurs du Territoire est simple : développer et tester des engins, qui seraient parfaitement adaptés à tous les types d'environnement, dans la mesure où ces conditions sont également favorables à l'existence des Créateurs eux-mêmes. L'environnement de la planète étant trop agressif pour la race biologique.<p> Les frontières du secteur sont délimitées par des barrières de champs de force, ou par de hautes chaînes de montagnes, ce qui réduit les dépenses énergétiques. La stabilité de nombreuses conditions dans le secteur est maintenue à l'aide des régulateurs climatiques. Par mesure de réduction de la consomation énergétique, le climat des secteurs implantés devait être proche des conditions climatiques extérieures au même lattitude. Par exemple, le secteur Arctique se situe à proximité du pôle Sud de la planète, tandis que le Secteur Marécages se trouve près de l'équateur."
+   "TEXT": "Le Territoire se compose de plusieurs régions artificielles, aux conditions géo-climatiques variées et qui sont reliées entre elles par des tunnels de passage. Toutes les régions, communément nommées secteurs, sont isolées du monde extérieur par des barrières de champs de force (aussi appelés isohypse), qui protègent le secteur contre tout contact avec les éléments indésirables de l'environnement de la planète, tels que le type d'air, la météo, les radiations etc. <p>L'objectif des Créateurs du Territoire est simple : développer et tester des engins, qui seraient parfaitement adaptés à tous les types d'environnement, dans la mesure où ces conditions sont également favorables à l'existence des Créateurs eux-mêmes. L'environnement de la planète étant trop agressif pour la race biologique.<p> Les frontières du secteur sont délimitées par des barrières de champs de force, ou par de hautes chaînes de montagnes, ce qui réduit les dépenses énergétiques. La stabilité de nombreuses conditions dans le secteur est maintenue à l'aide des régulateurs climatiques. Par mesure de réduction de la consommation énergétique, le climat des secteurs implantés devait être proche des conditions climatiques extérieures au même latitude. Par exemple, le secteur Arctique se situe à proximité du pôle Sud de la planète, tandis que le Secteur Marécages se trouve près de l'équateur."
   },
   "INFO_RATING": {
    "NAME": "Le score",
-   "TEXT": "Quand un engin est détruit, le mécanoïde est récupéré par un engin de secours ou par d'autres mécanoïdes. Vous perdez alors un point. Si vous perdez tous vos points pour atteindre zéro, une réinitialisation aura lieu. Évidemment, un mécanoïde peut vivre pendant quelques temps avec un score à zéro. Une ou deux fois, le perdant reçevra encore un engin standard, mais s'il ne gagne rien et qu'il est constamment détruit, il sera réinitialisé. Sa mémoire est donc effacée et le mécanoïde lui-même retourne au premier secteur, d'où partent toutes les nouvelles recrues. <p>Parfois, il arrive que la mémoire peut être restaurée. Par exemple, si le mécanoïde appartient à un clan et qui a été trouvé par l'un des siens, une partie de sa mémoire lui sera rendue. Maintenir les expériences combatives est particulièrement utile pour un clan, car cela permet de tenir élevé son score. C'est pourquoi les clans partent souvent vite à la recherche de leurs membres dans les premiers secteurs."
+   "TEXT": "Quand un engin est détruit, le mécanoïde est récupéré par un engin de secours ou par d'autres mécanoïdes. Vous perdez alors un point. Si vous perdez tous vos points pour atteindre zéro, une réinitialisation aura lieu. Évidemment, un mécanoïde peut vivre pendant quelques temps avec un score à zéro. Une ou deux fois, le perdant recevra encore un engin standard, mais s'il ne gagne rien et qu'il est constamment détruit, il sera réinitialisé. Sa mémoire est donc effacée et le mécanoïde lui-même retourne au premier secteur, d'où partent toutes les nouvelles recrues. <p>Parfois, il arrive que la mémoire peut être restaurée. Par exemple, si le mécanoïde appartient à un clan et qui a été trouvé par l'un des siens, une partie de sa mémoire lui sera rendue. Maintenir les expériences combatives est particulièrement utile pour un clan, car cela permet de tenir élevé son score. C'est pourquoi les clans partent souvent vite à la recherche de leurs membres dans les premiers secteurs."
   },
   "INFO_REPAIRMODUL": {
    "NAME": "",
@@ -1518,7 +1518,7 @@
   },
   "INFO_TARG_BLACKGAMERS": {
    "NAME": "L'objectif des Joueurs Noirs",
-   "TEXT": "La victoire sur les plus forts en tout temps, en tout lieu - voilà ce qu'est notre objectif. On ne sait pas ce que nous ferons quand nous seronts les plus forts. Mais, ce temps n'est pas encore venu."
+   "TEXT": "La victoire sur les plus forts en tout temps, en tout lieu - voilà ce qu'est notre objectif. On ne sait pas ce que nous ferons quand nous serons les plus forts. Mais, ce temps n'est pas encore venu."
   },
   "INFO_TARG_CARRIERS": {
    "NAME": "L'objectif des Tranporteurs",
@@ -1538,7 +1538,7 @@
   },
   "INFO_TARG_HUNTERS": {
    "NAME": "L'objectif des Chasseurs",
-   "TEXT": "Chaque membre des Libres qui attaque des cibles isolées est un Chasseur. Pouquoi affronter une bande si c'est pour se faire détruire ? Voyager en groupe à la recherche d'une cible n'est pas très productif - seul un membre du groupe peut améliorer son score. Mieux vaut être un Chasseur. Cela signifie liberté d'action et score élevé, si tout se passe bien."
+   "TEXT": "Chaque membre des Libres qui attaque des cibles isolées est un Chasseur. Pourquoi affronter une bande si c'est pour se faire détruire ? Voyager en groupe à la recherche d'une cible n'est pas très productif - seul un membre du groupe peut améliorer son score. Mieux vaut être un Chasseur. Cela signifie liberté d'action et score élevé, si tout se passe bien."
   },
   "INFO_TARG_INVADERS": {
    "NAME": "L'objectif des Envahisseurs",
@@ -1561,8 +1561,8 @@
    "TEXT": "Nous voulons atteindre le score le plus élevé possible, voilà le plus grand objectif des Restricteurs. Notre clan n'est pas le plus grand, mais c'est l'un des plus forts. Nous ne permettons à personne de dominer qui que ce soit de notre clan."
   },
   "INFO_TARG_SC": {
-   "NAME": "Les Mutants",
-   "TEXT": "Il existe de nombreuses opportunités de développement, mais les clans ne proposent généralement une seule. Chez les Mutants, vous pouvez agir comme bon vous semble. Tout Mécanoïde qui est membre des Mutants, reçoit de l'énergie à chaque fois que son score augmente. L'énergie est prélevée dans le stock qui est constitué par tous les membres du clan. Une petite quantité d'énergie est prélevée à chaque fois que vous entrez dans la base. C'est peu de chose pour un mécanoïde, mais le montant qui récompense le changement de score est très important."
+   "NAME": "La Structure de Reconversion",
+   "TEXT": "Il existe de nombreuses opportunités de développement, mais les clans ne proposent généralement une seule. Dans la Structure de Reconversion, vous pouvez agir comme bon vous semble. Tout Mécanoïde qui est en est membre, reçoit de l'énergie à chaque fois que son score augmente. L'énergie est prélevée dans le stock qui est constitué par tous les membres du clan. Une petite quantité d'énergie est prélevée à chaque fois que vous entrez dans la base. C'est peu de chose pour un mécanoïde, mais le montant qui récompense le changement de score est très important."
   },
   "INFO_TARG_SINIGR": {
    "NAME": "'objectif des Sinigres",
@@ -1570,7 +1570,7 @@
   },
   "INFO_TARG_TRANSES": {
    "NAME": "L'objectif des Trances",
-   "TEXT": "Notre objectif est similaire à la plupart des autres, c'est à dire, atteinde le plus haut score. Mais en évitant les combats, car cela nécessite beaucoup d'énergie et de ressources. Nous préférons acheminer les marchandises. Lentement mais sûrement ! Nous ne travaillons que dans les régions où il n'y a pas de clans agressifs. Il s'agit surtout des Secteurs Roche et Toundra. Nous évitons les combats, c'est pourquoi n'allons pas plus loin."
+   "TEXT": "Notre objectif est similaire à la plupart des autres, c'est à dire, atteindre le plus haut score. Mais en évitant les combats, car cela nécessite beaucoup d'énergie et de ressources. Nous préférons acheminer les marchandises. Lentement mais sûrement ! Nous ne travaillons que dans les régions où il n'y a pas de clans agressifs. Il s'agit surtout des Secteurs Roche et Toundra. Nous évitons les combats, c'est pourquoi n'allons pas plus loin."
   },
   "INFO_TARG_TROOPS": {
    "NAME": "L'objectif de la Horde de chasseurs",
@@ -1598,7 +1598,7 @@
   },
   "INT_ABSORB_INFO": {
    "NAME": "Absorption",
-   "TEXT": "Caractérise le nombre de points de dégats absorbés par le champ d'énergie."
+   "TEXT": "Caractérise le nombre de points de dégâts absorbés par le champ d'énergie."
   },
   "INT_ACCEPTTASK_QUESTION": {
    "NAME": "",
@@ -1670,7 +1670,7 @@
   },
   "INT_DAMAGE_INFO": {
    "NAME": "Dommages",
-   "TEXT": "Nombre de points de dégats infligés par l'arme. Une partie des dégats peut être absorbée par le bouclier d'énergie, avant d'impacter l'armure et l'engin."
+   "TEXT": "Nombre de points de dégâts infligés par l'arme. Une partie des dégâts peut être absorbée par le bouclier d'énergie, avant d'impacter l'armure et l'engin."
   },
   "INT_DAMAGE_IS": {
    "NAME": "",
@@ -1698,7 +1698,7 @@
   },
   "INT_EMPTY_SHIELD": {
    "NAME": "[Pas de bouclier d'énergie]",
-   "TEXT": "Le générateur de bouclier d'énergie crée autour de l'engin un champ qui le préserve d'une partie des dommages infligés. L'avantage du bouclier d'énergie est qu'il ne demande pas de réparations, et se regénère en puisant de l'énergie depuis le générateur."
+   "TEXT": "Le générateur de bouclier d'énergie crée autour de l'engin un champ qui le préserve d'une partie des dommages infligés. L'avantage du bouclier d'énergie est qu'il ne demande pas de réparations, et se régénère en puisant de l'énergie depuis le générateur."
   },
   "INT_EXP_RADIUS": {
    "NAME": "",
@@ -1890,7 +1890,7 @@
   },
   "INT_NET_FAIL": {
    "NAME": "",
-   "TEXT": "<color=red>Connection échouée."
+   "TEXT": "<color=red>Connexion échouée."
   },
   "INT_NET_FOUND_GAMES": {
    "NAME": "",
@@ -2329,7 +2329,7 @@
    "TEXT": ""
   },
   "INT_TT_EQP": {
-   "NAME": "Equipement et upgrades.",
+   "NAME": "Équipement et upgrades.",
    "TEXT": ""
   },
   "INT_TT_EXIT": {
@@ -2398,7 +2398,7 @@
   },
   "INT_UPGRADE_CHANGE": {
    "NAME": "",
-   "TEXT": "<icon:POINT> Coût de l'échange : %d cristaux.  <link:Echanger.=LINKCHANGEITEM>"
+   "TEXT": "<icon:POINT> Coût de l'échange : %d cristaux.  <link:Échanger.=LINKCHANGEITEM>"
   },
   "INT_UPGRADE_FAIL": {
    "NAME": "",
@@ -2545,7 +2545,7 @@
    "TEXT": "Maintenant, tu es avec nous. Beaucoup te craindront, mais fais gaffe au Trances quand ils se regroupent au même endroit. Ils ne sont pas aussi pacifiques qu'ils ne laissent paraître."
   },
   "MSG_AFTER_ENTER_NARGOONS": {
-   "NAME": "%NAME a été accepté dans le clan des Nargons",
+   "NAME": "%NAME a été accepté dans le clan des Nargoons",
    "TEXT": "Avec toi, notre clan est plus fort. D'une certaine manière, j'ai le sentiment que tu ne resteras pas longtemps parmi nous, mais tant qu'on sera ensemble, on sera très forts !"
   },
   "MSG_AFTER_ENTER_PANZERS": {
@@ -2561,7 +2561,7 @@
    "TEXT": "Maintenant que tu es avec nous... on verra bien ce qui va en ressortir."
   },
   "MSG_AFTER_ENTER_SOC": {
-   "NAME": "%NAME a été accepté dans le clan des Mutants",
+   "NAME": "%NAME a été accepté dans la Structure de Reconversion",
    "TEXT": "Tu es parmis nous maintenant. Choisis ta voie, et persévère jusqu'à atteindre le plus haut score... jusqu'à la perfection ! Nous serons là pour t'aider... ou du moins... nous ne ferons rien qui puisse te gêner."
   },
   "MSG_AFTER_ENTER_TRANSES": {
@@ -2586,7 +2586,7 @@
   },
   "MSG_AFTER_OUT_BLACKGAMERS": {
    "NAME": "%NAME a quitté le clan des Joueurs Noirs",
-   "TEXT": "Tu n'es plus des notres maintenant. Va... suis ton chemin, et tiens toi loin des Joueurs Noirs !"
+   "TEXT": "Tu n'es plus des nôtres maintenant. Va... suis ton chemin, et tiens toi loin des Joueurs Noirs !"
   },
   "MSG_AFTER_OUT_CARRIERS": {
    "NAME": "%NAME a quitté le clan des Transporteurs",
@@ -2609,8 +2609,8 @@
    "TEXT": "Tu es devenu un ennemi des Envahisseurs. On te traquera partout où tu iras, tu sera anéanti à la première occasion."
   },
   "MSG_AFTER_OUT_NARGOONS": {
-   "NAME": "%NAME a quitté le clan des Nargons",
-   "TEXT": "Alors, tu as finalement décidé de quitter le clan des Nargons. Vaut mieux pour toi de quitter également ce secteur."
+   "NAME": "%NAME a quitté le clan des Nargoons",
+   "TEXT": "Alors, tu as finalement décidé de quitter le clan des Nargoons. Vaut mieux pour toi de quitter également ce secteur."
   },
   "MSG_AFTER_OUT_PANZERS": {
    "NAME": "%NAME a quitté le clan des Panzers",
@@ -2625,7 +2625,7 @@
    "TEXT": "Tu es le premier Sinigre à quitter le clan... on verra bien dans quoi cela va te mener."
   },
   "MSG_AFTER_OUT_SOC": {
-   "NAME": "%NAME a quitté le clan de la Structure de Reconversion",
+   "NAME": "%NAME a quitté la Structure de Reconversion",
    "TEXT": "A partir de maintenant, la Structure de Reconversion n'est plus à tes côtés. Il n'appartient maintenant qu'à toi seul de trouver ta voie."
   },
   "MSG_AFTER_OUT_TRANSES": {
@@ -2662,7 +2662,7 @@
   },
   "MSG_ATTACKED.5": {
    "NAME": "",
-   "TEXT": "Ton engin me fait pitié. Bientôt il n'existera plus."
+   "TEXT": "Ton engin me fait pitié, et bientôt il n'existera plus."
   },
   "MSG_ATTACKED.6": {
    "NAME": "",
@@ -2705,7 +2705,7 @@
    "TEXT": "Quel intérêt d'aller à l'usine, puis à la base, et recommencer... Quel gaspillage d'énergie. Laisse ça aux Trances. Nous, les Envahisseurs, leur volons leurs cargaisons, et s'ils ne se soumettent pas, nous détruisons leurs engins. De cette manière, tu peux gagner beaucoup de points et d'énergie. Es-tu d'accord ? Alors joins-toi à nous !"
   },
   "MSG_BEFORE_ENTER_NARGOONS": {
-   "NAME": "Entrée dans le clan des Nargons",
+   "NAME": "Entrée dans le clan des Nargoons",
    "TEXT": "Nous avons beaucoup d'ennemis de longue date. Notre principale tâche est de les détruire. Es-tu des notres ?"
   },
   "MSG_BEFORE_ENTER_PANZERS": {
@@ -2721,12 +2721,12 @@
    "TEXT": "Quand cela s'avérait nécessaire, les Créateurs pouvaient se déplacer sans être dépendant des systèmes de soutien. Ils pouvaient accroître leur population sans usines, de manière naturelle. Nous voulons réaliser tout ce que Créateurs pouvaient faire. Tu es un jeune mécanoïde, %NAME. Ce serait bénéfique pour le clan si tu décides de te joindre à nous."
   },
   "MSG_BEFORE_ENTER_SOC": {
-   "NAME": "Entrée dans le clan des Mutants",
+   "NAME": "Entrée dans la Structure de Reconversion",
    "TEXT": "Ici, chacun peut choisir son propre mode de développement. Si une voie ne fonctionne pas, tu peux en essayer une autre. Mais les membres de ton clan t'aideront toujours."
   },
   "MSG_BEFORE_ENTER_SOC_FAIL": {
    "NAME": "%NAME est encore dans le clan",
-   "TEXT": "Tu es encore trop loin de la voie des Mutants, %ORGMEMBER. Nous rejetons tous ceux qui refusent de changer de voie. Affranchis-toi d'abord, puis rejoins-nous."
+   "TEXT": "Tu es encore trop loin de la voie de la Reconversion, %ORGMEMBER. Nous rejetons tous ceux qui refusent de changer de voie. Affranchis-toi d'abord, puis rejoins-nous."
   },
   "MSG_BEFORE_ENTER_TRANSES": {
    "NAME": "Entrée dans le clan des Trances",
@@ -2926,7 +2926,7 @@
   },
   "MSG_CLASH_1.3": {
    "NAME": "",
-   "TEXT": "C'est ma route ! Sois plus prudent, la prochaîne fois !"
+   "TEXT": "C'est ma route ! Sois plus prudent, la prochaine fois !"
   },
   "MSG_CLASH_1.4": {
    "NAME": "",
@@ -3198,7 +3198,7 @@
   },
   "MSG_ENEMY_SOC": {
    "NAME": "",
-   "TEXT": "Tu es un ennemi des Mutants et tu vas être détruit."
+   "TEXT": "Tu es un ennemi de la Reconversion et tu vas être détruit."
   },
   "MSG_ENEMY_SOC.1": {
    "NAME": "",
@@ -3406,7 +3406,7 @@
   },
   "MSG_FEAR_HUNTERS.3": {
    "NAME": "",
-   "TEXT": "Je reviendrai et je te retrouverai. Et alors, tu regrettras ce que tu as fait !"
+   "TEXT": "Je reviendrai et je te retrouverai. Et alors, tu regretteras ce que tu as fait !"
   },
   "MSG_FEAR_HUNTERS.4": {
    "NAME": "",
@@ -3554,7 +3554,7 @@
   },
   "MSG_FEAR_SOC.4": {
    "NAME": "",
-   "TEXT": "Tu peux me tuer, mais tu ne vaincras pas la Structure !"
+   "TEXT": "Tu peux me tuer, mais tu ne vaincras pas la Reconversion !"
   },
   "MSG_FEAR_TRANSES": {
    "NAME": "",
@@ -3638,11 +3638,11 @@
   },
   "MSG_FRIEND_ FINDERS": {
    "NAME": "",
-   "TEXT": "Rappellez-vous toujours tout ce que vous avez à faire."
+   "TEXT": "Rappelle-toi sans cesse tout ce que tu as à faire."
   },
   "MSG_FRIEND_ FINDERS.1": {
    "NAME": "",
-   "TEXT": "Les Chercheurs sont avec vous, %NAME!"
+   "TEXT": "Les Chercheurs sont avec toi, %NAME!"
   },
   "MSG_FRIEND_ FINDERS.2": {
    "NAME": "",
@@ -3650,11 +3650,11 @@
   },
   "MSG_FRIEND_ FINDERS.3": {
    "NAME": "",
-   "TEXT": "Le plus important est : ne fais jamais rien de stupide."
+   "TEXT": "Le plus important est : Ne fait jamais rien de stupide."
   },
   "MSG_FRIEND_ FINDERS.4": {
    "NAME": "",
-   "TEXT": "Nous vous aiderons toujours quand vous aurez des ennuis, %NAME."
+   "TEXT": "Nous t'aiderons quand tu auras des ennuis, %NAME."
   },
   "MSG_FRIEND_BLACKGAMERS": {
    "NAME": "",
@@ -3790,7 +3790,7 @@
   },
   "MSG_FRIEND_INVADERS.3": {
    "NAME": "",
-   "TEXT": "Prend garde aux alentours des grands canons ! Si tu t'avises de chasser un Trance, tu risquerais bien de gouter à leur puissance !"
+   "TEXT": "Prend garde aux alentours des grands canons ! Si tu t'avises de chasser un Trance, tu risquerais bien de goûter à leur puissance !"
   },
   "MSG_FRIEND_INVADERS.4": {
    "NAME": "",
@@ -3810,7 +3810,7 @@
   },
   "MSG_FRIEND_NARGOON.4": {
    "NAME": "",
-   "TEXT": "Ne rompez pas notre trève, %NAME."
+   "TEXT": "Ne rompez pas notre trêve, %NAME."
   },
   "MSG_FRIEND_NARGOONS": {
    "NAME": "",
@@ -3830,7 +3830,7 @@
   },
   "MSG_FRIEND_NARGOONS.4": {
    "NAME": "",
-   "TEXT": "Ne romp pas notre trève, %NAME."
+   "TEXT": "Ne rompt pas notre trêve, %NAME."
   },
   "MSG_FRIEND_PANZERS": {
    "NAME": "",
@@ -3890,7 +3890,7 @@
   },
   "MSG_FRIEND_SOC": {
    "NAME": "",
-   "TEXT": "La voie des Mutants est la meilleure. C'est bien que tu sois avec nous !"
+   "TEXT": "La voie de la Reconversion est la meilleure. C'est bien que tu sois avec nous !"
   },
   "MSG_FRIEND_SOC.1": {
    "NAME": "",
@@ -4342,7 +4342,7 @@
   },
   "MSG_IN_SOC": {
    "NAME": "",
-   "TEXT": "Tu marches avec nous, sur la voie des Mutants !"
+   "TEXT": "Tu marches avec nous, sur la voie de la Reconversion !"
   },
   "MSG_IN_SOC.1": {
    "NAME": "",
@@ -4350,7 +4350,7 @@
   },
   "MSG_IN_SOC.2": {
    "NAME": "",
-   "TEXT": "Si tu échoues dans une entreprise, tu réussiras dans une autre. Souviens-toi de la voie des Mutants, %NAME!"
+   "TEXT": "Si tu échoues dans une entreprise, tu réussiras dans une autre. Souviens-toi de la voie de la Reconversion, %NAME!"
   },
   "MSG_IN_SOC.3": {
    "NAME": "",
@@ -4606,7 +4606,7 @@
   },
   "MSG_NOBODY_PANZERS": {
    "NAME": "",
-   "TEXT": "Si tu ne nous ennuis pas, nous ne t'ennuirons pas non plus."
+   "TEXT": "Si tu ne nous ennuis pas, nous ne t’ennuierons pas non plus."
   },
   "MSG_NOBODY_PANZERS.1": {
    "NAME": "",
@@ -4686,7 +4686,7 @@
   },
   "MSG_NOBODY_SOC": {
    "NAME": "",
-   "TEXT": "Les Mutants te survivront."
+   "TEXT": "La Reconversion te survivra."
   },
   "MSG_NOBODY_SOC.1": {
    "NAME": "",
@@ -4702,7 +4702,7 @@
   },
   "MSG_NOBODY_SOC.4": {
    "NAME": "",
-   "TEXT": "Ne perds pas ton temps, rejoins les Mutants !"
+   "TEXT": "Ne perds pas ton temps, rejoins la Structure de Reconversion !"
   },
   "MSG_NOBODY_TRANSES": {
    "NAME": "",
@@ -4866,7 +4866,7 @@
   },
   "MSG_SOC_PAY": {
    "NAME": "",
-   "TEXT": "Tout mécanoïde de cette organisation arrivant à la base des Mutants doit verser un petit montant en énergie. C'est pour alimenter le fonds des récompenses destinées à ceux qui augmentent leur score."
+   "TEXT": "Tout mécanoïde de cette organisation arrivant à la base de la Structure de Reconversion doit verser un petit montant en énergie. C'est pour alimenter le fonds des récompenses destinées à ceux qui augmentent leur score."
   },
   "MSG_SOC_RATING": {
    "NAME": "Récompense pour votre score",
@@ -4962,7 +4962,7 @@
   },
   "MSG_TERM_SOC": {
    "NAME": "Conditions d'adhésion",
-   "TEXT": "Niveau 4 au minimum.   <p>Conditions spéciales : Tous les mécanoïdes membres des Mutants reçoivent 5000 points d'énergie lorsque leur score augmente. Pour les obtenir, se rendre dans n'importe quelle base du clan."
+   "TEXT": "Niveau 4 au minimum.   <p>Conditions spéciales : Tous les mécanoïdes membres de la Structure de Reconversion reçoivent 5000 points d'énergie lorsque leur score augmente. Pour les obtenir, se rendre dans n'importe quelle base du clan."
   },
   "MSG_TERM_TRANSES": {
    "NAME": "Conditions d'adhésion",
@@ -4974,7 +4974,7 @@
   },
   "MSG_TERM_WATCHSTONES": {
    "NAME": "Conditions d'adhésion",
-   "TEXT": "Vous devez être un ennemi du clan des Sauvages et avoir un score de 5 au minimum.  <p>Conditions spéciales : Tu peux recevoir un engin spécial de type \"Ombre du démon\"."
+   "TEXT": "Vous devez être un ennemi du clan des Sauvages et avoir un score de 5 au minimum.  <p>Conditions spéciales : Tu peux recevoir un engin spécial de type \"Ombre\"."
   },
   "MSG_TERM_WILD": {
    "NAME": "Conditions d'adhésion",
@@ -5130,7 +5130,7 @@
   },
   "ORG_ELIMINATORS": {
    "NAME": "Les Destroyers",
-   "TEXT": "<image:ORG_ELIMINATORS.tga><image:MOD_GL_M3_S_DESTROYER>Le clan des Destroyers est très ancien, c'est l'un des premiers à s'être constitué dans ce secteur. Pour autant que je me souvienne, ils ont commencé à dominer immédiatement jusqu'à l'arrivé des Sauvages. Ces deux clans se battent toujours l'un contre l'autre. Cette guerre a un aspect positif : elle génère un certain équilibre, ainsi les autres peuvent se développer avec une relative facilité. <p>Normalement, les Destroyers attaquent n'importe quel engin qui se trouve dans leur champ de vision. Leur objectif est d'atteindre la pefection en attaque. Les guerriers de ce clan ont de faibles défenses mais des armes extrêmement puissantes. <p>Les Destroyers utilisent exclusivement des engins à grande vitesse de standard 3 et se déplacent par groupes de deux ou trois. Ce sont de puissants guerriers mais si l'un d'eux est détruit, les autres battent généralement en retraite. <p><link:Les rejoindre !=LINKJOIN>"
+   "TEXT": "<image:ORG_ELIMINATORS.tga><image:MOD_GL_M3_S_DESTROYER>Le clan des Destroyers est très ancien, c'est l'un des premiers à s'être constitué dans ce secteur. Pour autant que je me souvienne, ils ont commencé à dominer immédiatement jusqu'à l'arrivé des Sauvages. Ces deux clans se battent toujours l'un contre l'autre. Cette guerre a un aspect positif : elle génère un certain équilibre, ainsi les autres peuvent se développer avec une relative facilité. <p>Normalement, les Destroyers attaquent n'importe quel engin qui se trouve dans leur champ de vision. Leur objectif est d'atteindre la perfection en attaque. Les guerriers de ce clan ont de faibles défenses mais des armes extrêmement puissantes. <p>Les Destroyers utilisent exclusivement des engins à grande vitesse de standard 3 et se déplacent par groupes de deux ou trois. Ce sont de puissants guerriers mais si l'un d'eux est détruit, les autres battent généralement en retraite. <p><link:Les rejoindre !=LINKJOIN>"
   },
   "ORG_ELIMINATORS_MEMBER": {
    "NAME": "Destroyer",
@@ -5178,7 +5178,7 @@
   },
   "ORG_NARGOON": {
    "NAME": "Les Nargoons",
-   "TEXT": "<image:ORG_NARGOON.tga><image:MOD_GL_M2_PA_NARGOON>Les objectifs des Nargoons sont devenus obsolètes et ce clan est à présent en quête d'une nouvelle voie. Leurs fonctions initiales étaient simples : Protéger les spéciaux et fournir les centres de test en ressources. Mais lorsque les symbiotes sont apparus, la situation a évolué de manière radicale, et les spéciaux ne sont plus les mêmes. <p>Etant donné que les centres de tests sont déjà approvisionnés en ressources et que les clans de spéciaux sont devenus suffisamment forts au point de ne plus nécessiter de protections supplémentaires. Je pense que les Nargoons arrivent à un stade où ils seront obligés de trouver un autre objectif viable ou disparaitre. Mais pour le moment, ils subsistent et se battent encore. <p>Leurs engins ont l'air bizarres, mais cela ne les empêche pas d'emporter deux armes légères tout en atteignant une bonne manoeuvrabilité et une vitesse impressionnante. <p>Actuellement, les Nargoons sont présents partout et font toutes sortes de choses, mais l'essentiel de leurs activités est dans la guerre contre leurs ennemis héréditaires."
+   "TEXT": "<image:ORG_NARGOON.tga><image:MOD_GL_M2_PA_NARGOON>Les objectifs des Nargoons sont devenus obsolètes et ce clan est à présent en quête d'une nouvelle voie. Leurs fonctions initiales étaient simples : Protéger les spéciaux et fournir les centres de test en ressources. Mais lorsque les symbiotes sont apparus, la situation a évolué de manière radicale, et les spéciaux ne sont plus les mêmes. <p>Étant donné que les centres de tests sont déjà approvisionnés en ressources et que les clans de spéciaux sont devenus suffisamment forts au point de ne plus nécessiter de protections supplémentaires. Je pense que les Nargoons arrivent à un stade où ils seront obligés de trouver un autre objectif viable ou disparaître. Mais pour le moment, ils subsistent et se battent encore. <p>Leurs engins ont l'air bizarres, mais cela ne les empêche pas d'emporter deux armes légères tout en atteignant une bonne manoeuvrabilité et une vitesse impressionnante. <p>Actuellement, les Nargoons sont présents partout et font toutes sortes de choses, mais l'essentiel de leurs activités est dans la guerre contre leurs ennemis héréditaires."
   },
   "ORG_NARGOON_MEMBER": {
    "NAME": "Nargoon",
@@ -5225,11 +5225,11 @@
    "TEXT": ""
   },
   "ORG_SC": {
-   "NAME": "Les Mutants",
-   "TEXT": "<image:ORG_SC.tga>Les Mutants sont formés de Mécanoïdes et de Symbiotes qui partage le même point de vue. L'objectif des Mutants est la perfection en toutes choses, et les voies choisies sont aussi diverses les unes des autres. Le principe est simple : Si le développement ne peut aboutir dans un sens, alors il est grand temps de changer de direction. Par conséquent, chacun pourra développer équitablement son domaine qu'il aura choisi. <p>Un Mécanoïde qui est membre des Mutants reçoit de l'énergie chaque fois que son score augmente. L'énergie est prélevée dans stock approvisionné par des collectes. À chaque visite à la base, une petite quantité d'énergie est prélevée à tout membre de l'organisation. La quantité prélevée peut sembler dérisoire pour un Mécanoïde, mais lors d'un changement de niveau, la somme rétribuée en retour est relativement importante. <p>Les membres du clan utilisent différentes sortes d'engins, aussi faut-il être bien attentif au logo de l'organisation."
+   "NAME": "La Structure de Reconversion",
+   "TEXT": "<image:ORG_SC.tga>La Structure de Reconversion est formée de Mécanoïdes et de Symbiotes qui partage le même point de vue. Son objectif est la perfection en toutes choses, et les voies choisies sont aussi diverses les unes des autres. Le principe est simple : Si le développement ne peut aboutir dans un sens, alors il est grand temps de changer de direction. Par conséquent, chacun pourra développer équitablement son domaine qu'il aura choisi. <p>Un Mécanoïde qui en est membre reçoit de l'énergie chaque fois que son score augmente. L'énergie est prélevée dans stock approvisionné par des collectes. À chaque visite à la base, une petite quantité d'énergie est prélevée à tout membre de l'organisation. La quantité prélevée peut sembler dérisoire pour un Mécanoïde, mais lors d'un changement de niveau, la somme rétribuée en retour est relativement importante. <p>Les membres du clan utilisent différentes sortes d'engins, aussi faut-il être bien attentif au logo de l'organisation."
   },
   "ORG_SC_MEMBER": {
-   "NAME": "Mutant",
+   "NAME": "La Structure de Reconversion",
    "TEXT": ""
   },
   "ORG_SINIGR": {
@@ -5250,7 +5250,7 @@
   },
   "ORG_TROOPS": {
    "NAME": "La Horde",
-   "TEXT": "<image:ORG_TROOPS.tga><image:MOD_GL_M4_A_TROOPS>La Horde de Chasseurs est composée de Libres qui n'ont aucun but dans la vie. Les Mécanoïdes ou Symbiotes qui les composent peuvent avoir des niveaux de score très variables. Leurs engins peuvent aussi varier, et peuvent même comprendre des engins spéciaux. La Horde regroupe habituellement ceux qui haissent les clans ou ceux qui aiment évoluer en bandes sans trop se soucier des conséquences de leurs actes. <p>Ce sont les ennemis redoutés des convois isolés ou en petits groupes. En groupe, ils attaquent presque systématiquement et vous dérobera tout ce que vos soutes peuvent contenir. Si vous ne leur abandonnez pas votre cargaison, ils vous détruisent. <p>Le butin est partagé entre tous les membres formant le groupe, peut être un petit plus pour le chef et à ceux dont les engins ont été fortement endommagés. Si vous détruisez le leader d'un groupe de Chasseurs, la confusion s'installera parmi eux, ils oublieront d'attaquer l'ennemi, chacun cherchera à sauver sa peau, et le groupe finit par se disloquer. Tous les clans ne les aiment pas, ce qui n'est d'ailleurs pas étonnant. <p><link:Les rejoindre !=LINKJOIN>"
+   "TEXT": "<image:ORG_TROOPS.tga><image:MOD_GL_M4_A_TROOPS>La Horde de Chasseurs est composée de Libres qui n'ont aucun but dans la vie. Les Mécanoïdes ou Symbiotes qui les composent peuvent avoir des niveaux de score très variables. Leurs engins peuvent aussi varier, et peuvent même comprendre des engins spéciaux. La Horde regroupe habituellement ceux qui haïssent les clans ou ceux qui aiment évoluer en bandes sans trop se soucier des conséquences de leurs actes. <p>Ce sont les ennemis redoutés des convois isolés ou en petits groupes. En groupe, ils attaquent presque systématiquement et vous dérobera tout ce que vos soutes peuvent contenir. Si vous ne leur abandonnez pas votre cargaison, ils vous détruisent. <p>Le butin est partagé entre tous les membres formant le groupe, peut être un petit plus pour le chef et à ceux dont les engins ont été fortement endommagés. Si vous détruisez le leader d'un groupe de Chasseurs, la confusion s'installera parmi eux, ils oublieront d'attaquer l'ennemi, chacun cherchera à sauver sa peau, et le groupe finit par se disloquer. Tous les clans ne les aiment pas, ce qui n'est d'ailleurs pas étonnant. <p><link:Les rejoindre !=LINKJOIN>"
   },
   "ORG_TROOPS_MEMBER": {
    "NAME": "Chasseur de la Horde",
@@ -5258,7 +5258,7 @@
   },
   "ORG_WATCHSTONES": {
    "NAME": "Les Pierres de garde",
-   "TEXT": "<image:ORG_WATCHSTONES.tga><image:MOD_GL_M3_PA_EYESTONE>Le clan des Pierres de garde utilise la stratégie de l'embuscade. Ils recherchent un endroit favorable pour une attaque et se tiennent prêts à bondir. Ils sont capables de patienter longtemps. Leurs engins sont grands et massifs mais ils peuvent emporter deux armes lourdes en même temps. <p> L'embuscade est généralement tendue par un groupe de deux ou trois engins. Si un Mécanoïde peu méfiant passe par là, ils fondent sur lui de deux côtés à la fois. Se débarasser d'eux n'est pas une tâche facile, mieux vaut donc se méfier des passages dans les canyons par exemple. <p>À ma connaissance, on ne rencontre les Pierres de garde que dans le Secteur Volcan. Ils sont apparus ici il y a quelque temps déjà. Ils utilisent le centre de test en guise de base. Leur objectif est d'éliminer l'ennemi le plus efficacement et le plus rapidement. S'ils n'arrivent pas à vous détruire au premier assaut, ils cessent le feu et se retirent pour réfléchir à leurs erreurs. Les Pierres de garde ont beaucoup d'ennemis. Mais personne n'a le courage de les débusquer de leurs lieux d'embuscades favoris et eux-mêmes ne se rendent que rarement en terrain découvert. Quand ils sont endommagés, tout le groupe quitte le lieu et se précipite vers le centre de test pour effectuer des réparations. Dans ce cas, ils deviennent alors une cible facile pour ceux qui sont en guerre contre eux."
+   "TEXT": "<image:ORG_WATCHSTONES.tga><image:MOD_GL_M3_PA_EYESTONE>Le clan des Pierres de garde utilise la stratégie de l'embuscade. Ils recherchent un endroit favorable pour une attaque et se tiennent prêts à bondir. Ils sont capables de patienter longtemps. Leurs engins sont grands et massifs mais ils peuvent emporter deux armes lourdes en même temps. <p> L'embuscade est généralement tendue par un groupe de deux ou trois engins. Si un Mécanoïde peu méfiant passe par là, ils fondent sur lui de deux côtés à la fois. Se débarrasser d'eux n'est pas une tâche facile, mieux vaut donc se méfier des passages dans les canyons par exemple. <p>À ma connaissance, on ne rencontre les Pierres de garde que dans le Secteur Volcan. Ils sont apparus ici il y a quelque temps déjà. Ils utilisent le centre de test en guise de base. Leur objectif est d'éliminer l'ennemi le plus efficacement et le plus rapidement. S'ils n'arrivent pas à vous détruire au premier assaut, ils cessent le feu et se retirent pour réfléchir à leurs erreurs. Les Pierres de garde ont beaucoup d'ennemis. Mais personne n'a le courage de les débusquer de leurs lieux d'embuscades favoris et eux-mêmes ne se rendent que rarement en terrain découvert. Quand ils sont endommagés, tout le groupe quitte le lieu et se précipite vers le centre de test pour effectuer des réparations. Dans ce cas, ils deviennent alors une cible facile pour ceux qui sont en guerre contre eux."
   },
   "ORG_WATCHSTONES_MEMBER": {
    "NAME": "Pierre de garde",
@@ -5266,7 +5266,7 @@
   },
   "ORG_WILD": {
    "NAME": "Les Sauvages",
-   "TEXT": "<image:ORG_WILD.tga><image:MOD_GL_S3_A_WILD>Les Sauvages ne sont pas nommés comme cela sans raisons. Je me souviens du temps où ils s'appelaient autrement. Mais depuis cette histoire dans le Secteur Arctique, ils ont pris ce nouveau nom qui leur va à la perfection. C'est à ce moment aussi que tout le monde a compris que les Symbiotes pouvaient aimer des comportements peu orthodoxes. Plusieurs Sauvages ont attaqué un groupe de Trances. Le truc habituel : Votre cargaison ou la vie! Les Trances ont accepté, laissé leur chargement, plus ils sont partis. Les Sauvages ont tout ramassé, puis ont poursuivi les Trances, et les ont tous tué. Ce genre de choses ne se fait pas, et c'est pour cela qu'ils ont mérité le qualificatif de Sauvages. En fait, ils ne sont pas très forts lorsqu'ils sont seuls, ils constituent une menace sérieuse quand ils se déplacent en groupes. En ce moment, tout le clan est en guerre contre les Destroyers et cela arrange en fait tout le monde. Je ne saurais vous dire quel est l'objectif des Sauvages, si du moins, ils en aient un. Ils errent à travers le monde et atttaquent quiconque se trouve sur leur chemin. Tôt ou tard, ils tomberont sur les Sinigres et ils finiront totalement éliminés. Mais ce jour n'est pas encore arrivé. <p>\r\n<link:Les rejoindre !=LINKJOIN>"
+   "TEXT": "<image:ORG_WILD.tga><image:MOD_GL_S3_A_WILD>Les Sauvages ne sont pas nommés comme cela sans raisons. Je me souviens du temps où ils s'appelaient autrement. Mais depuis cette histoire dans le Secteur Arctique, ils ont pris ce nouveau nom qui leur va à la perfection. C'est à ce moment aussi que tout le monde a compris que les Symbiotes pouvaient aimer des comportements peu orthodoxes. Plusieurs Sauvages ont attaqué un groupe de Trances. Le truc habituel : Votre cargaison ou la vie! Les Trances ont accepté, laissé leur chargement, plus ils sont partis. Les Sauvages ont tout ramassé, puis ont poursuivi les Trances, et les ont tous tué. Ce genre de choses ne se fait pas, et c'est pour cela qu'ils ont mérité le qualificatif de Sauvages. En fait, ils ne sont pas très forts lorsqu'ils sont seuls, ils constituent une menace sérieuse quand ils se déplacent en groupes. En ce moment, tout le clan est en guerre contre les Destroyers et cela arrange en fait tout le monde. Je ne saurais vous dire quel est l'objectif des Sauvages, si du moins, ils en aient un. Ils errent à travers le monde et attaquent quiconque se trouve sur leur chemin. Tôt ou tard, ils tomberont sur les Sinigres et ils finiront totalement éliminés. Mais ce jour n'est pas encore arrivé. <p>\r\n<link:Les rejoindre !=LINKJOIN>"
   },
   "ORG_WILD_MEMBER": {
    "NAME": "Sauvage",
@@ -5402,7 +5402,7 @@
   },
   "STNAR-97_TALK": {
    "NAME": "",
-   "TEXT": "Ca fait un moment que j'appelle les autres à venir me rejoindre dans ce secteur. Ca grouille de Trances ici ! C'est trop facile, et ça rapporte gros ! Mais aprés m'avoir tué, j'aurai l'air de quoi ?"
+   "TEXT": "Ca fait un moment que j'appelle les autres à venir me rejoindre dans ce secteur. Ça grouille de Trances ici ! C'est trop facile, et ça rapporte gros ! Mais, j'aurais l'air de quoi, maintenant que tu m'as tué ?"
   },
   "STOK-19_TALK": {
    "NAME": "",
@@ -5642,7 +5642,7 @@
   },
   "TOV_BIOKONTAINER": {
    "NAME": "Container biologique",
-   "TEXT": "Biocontainer à déverser dans le lac."
+   "TEXT": "Bio-container à déverser dans le lac."
   },
   "TOV_BUILDMODUL": {
    "NAME": "Module de constructions",
@@ -5742,7 +5742,7 @@
   },
   "TOV_MECHANOID": {
    "NAME": "Mécanoïde",
-   "TEXT": "La capsule ultra-solide est conçue pour protèger les mécanoïdes contre tous types d'impacts externes, ce qui les rend pratiquement invulnérables."
+   "TEXT": "La capsule ultra-solide est conçue pour protéger les mécanoïdes contre tous types d'impacts externes, ce qui les rend pratiquement invulnérables."
   },
   "TOV_MECHANOID_L1_1": {
    "NAME": "TEGARI-11",
@@ -5757,16 +5757,16 @@
    "TEXT": ""
   },
   "TOV_MEMOCRYSTAL_T_L5_RECK_3": {
-   "NAME": "Mémocristal à long-terme",
+   "NAME": "Mémo-cristal à long-terme",
    "TEXT": "Mémorise automatiquement tout ce qui se produit autour de l'engin en utilisant les capteurs."
   },
   "TOV_MULTIMASSE": {
-   "NAME": "Multimasse",
+   "NAME": "Multi-masse",
    "TEXT": "Type : <color:green>Matières premières. <p><color>Composée d'un grand nombre d'hydrocarbures différents, la masse sert de base pour diverses compositions utilisées dans la production de polymères."
   },
   "TOV_MULTIORGANIC": {
-   "NAME": "Multiorganique",
-   "TEXT": "Type : <color:green>Produits semi-finis. <p><color>Structure organique cultivée artificiellement et constituée de cellules modulées. Enfermée dans une capsule fermée qui la maintient en vie pendant très longtemps. Utilisée pour faire pousser les fuselages des engins biomécaniques et les armures multiorganiques, mais aussi employé dans la production de symbiotes."
+   "NAME": "Multi-organique",
+   "TEXT": "Type : <color:green>Produits semi-finis. <p><color>Structure organique cultivée artificiellement et constituée de cellules modulées. Enfermée dans une capsule fermée qui la maintient en vie pendant très longtemps. Utilisée pour faire pousser les fuselages des engins biomécaniques et les armures multi-organiques, mais aussi employé dans la production de symbiotes."
   },
   "TOV_NAV_MOLECTRONIC": {
    "NAME": "Molectronique de navigation",
@@ -5826,7 +5826,7 @@
   },
   "TOV_PAKET_L7_REST_3": {
    "NAME": "Infopack",
-   "TEXT": "Proposition des restricteurs. <p>Destinataire : Base principale des Sinigres, secteur Marécages."
+   "TEXT": "Proposition des Restricteurs. <p>Destinataire : Base principale des Sinigres, secteur Marécages."
   },
   "TOV_PAKET_SBUNKER1": {
    "NAME": "Plans technique",
@@ -5853,16 +5853,16 @@
    "TEXT": "Contient un rapport des Premiers et une demande concernant les nouvelles armes.  Destinataire : Bunker de l'Ultime, Secteur Désert."
   },
   "TOV_PAKET_TS_L6_B_FIR01_BACK": {
-   "NAME": "Process Instruction",
-   "TEXT": "Instruction sur la création d'un module de défense haute puissance.  Destinataire : Base principale des Premiers, Secteur Highlands."
+   "NAME": "Instructions de fabrication",
+   "TEXT": "Instructions sur la création d'un module de défense haute puissance.  Destinataire : Base principale des Premiers, Secteur Highlands."
   },
   "TOV_PAKET_TS_L6_B_FIR02": {
    "NAME": "2",
    "TEXT": "2"
   },
   "TOV_PAKET_TS_L6_B_FIR02 ": {
-   "NAME": "Instruction de traitement",
-   "TEXT": "Instruction sur la création de types d'armes expérimentales.  <p>Destinataire : Base principale des Premiers, Secteur Highlands."
+   "NAME": "Instructions de fabrication",
+   "TEXT": "Instructions sur la création de types d'armes expérimentales.  <p>Destinataire : Base principale des Premiers, Secteur Highlands."
   },
   "TOV_PAKET_TS_L7_B_SIN00": {
    "NAME": "",
@@ -5921,8 +5921,8 @@
    "TEXT": "Container enfermant toutes les informations techniques nécessaires sur le développement d'un nouveau type d'arme. Destinataire : Complexe de tests des Nargoons, Secteur Arctique."
   },
   "TOV_PAKET_T_L2_B2_1": {
-   "NAME": "Émetteur du superchargeur à plasma",
-   "TEXT": "Remplacement de l'émetteur du superchargeur à plasma. Destinataire : Système d'extraction 1, Secteur Toundra."
+   "NAME": "Émetteur du super-chargeur à plasma",
+   "TEXT": "Remplacement de l'émetteur du super-chargeur à plasma. Destinataire : Système d'extraction 1, Secteur Toundra."
   },
   "TOV_PAKET_T_L2_B2_2": {
    "NAME": "Infopack",
@@ -6181,7 +6181,7 @@
    "TEXT": "Demande des Panzers.  <p>Destinataire : Obélisque de l'Ultime, Secteur Toundra."
   },
   "TOV_T_L4_BASE_2": {
-   "NAME": "Appareil géopositionneur",
+   "NAME": "Appareil géo-positionneur",
    "TEXT": "Signale la position une fois activé. Doit être placé dans la zone d'éboulement dans le souterrain de communication du Secteur Volcan."
   },
   "TOV_VACUUM_CATALYZER": {
@@ -6189,12 +6189,12 @@
    "TEXT": "Type : <color:green>Produits de consommation. <p><color>Composition chimique complexe emballée dans des containers hermétiquement clos avec une protection active contre tous les types d'impacts externes. Nécessaire pour la synthèse sous vide."
   },
   "TOV_VIDEOCRYSTAL": {
-   "NAME": "Mémocristal vidéo",
-   "TEXT": "Mémocristal activé automatiquement. Peut être activé deux fois dans les zones d'anomalie. Aucun retour possible."
+   "NAME": "Mémo-cristal vidéo",
+   "TEXT": "Mémo-cristal activé automatiquement. Peut être activé deux fois dans les zones d'anomalie. Aucun retour possible."
   },
   "TOV_VIDEOCRYSTAL2": {
-   "NAME": "Mémocristal",
-   "TEXT": "Mémocristal conçu pour l'enregistrement d'informations provenant de tous les capteurs de l'engin."
+   "NAME": "Mémo-cristal",
+   "TEXT": "Mémo-cristal conçu pour l'enregistrement d'informations provenant de tous les capteurs de l'engin."
   },
   "TOV_ZERO_REACTOR": {
    "NAME": "Réacteur Énergie-zéro",
@@ -6214,14 +6214,14 @@
   },
   "TS_L1_B1_ANCHOR_2": {
    "NAME": "Point d'ancrage reçu",
-   "TEXT": "J'utiliserai cet appareil. Ca peut être dangereux. Les Créateurs pouvaient par exemple programmer le vecteur sur la recherche et la direction par rapport au point de départ. Auquel cas, l'objet se trouve lui-même à son propre emplacement, et le secteur entier risquerait d'être détruit."
+   "TEXT": "J'utiliserai cet appareil. Ça peut être dangereux. Les Créateurs pouvaient par exemple programmer le vecteur sur la recherche et la direction par rapport au point de départ. Auquel cas, l'objet se trouve lui-même à son propre emplacement, et le secteur entier risquerait d'être détruit."
   },
   "TS_L1_B1_ANCHOR_2_BRIEF": {
-   "NAME": "Point d'ancrage de transfert-zero utilisé",
+   "NAME": "Point d'ancrage de Transfert-Zéro utilisé",
    "TEXT": "Cet appareil est considéré comme dangereux. Je l'ai confié à la base dans le Secteur Highlands pour qu'il soit utilisé."
   },
   "TS_L1_B1_ANCHOR_INCT": {
-   "NAME": "Activateur du point d'ancrage de transfert-zero non terminé",
+   "NAME": "Activateur du point d'ancrage de Transfert-Zéro non achevé",
    "TEXT": "Les travaux sont en cours. Revenez plus tard."
   },
   "TS_L1_B1_ANCHOR_NOMONEY": {
@@ -6229,11 +6229,11 @@
    "TEXT": "Vous n'avez pas 50000 cristaux d'énergie. Je ne vais pas gaspiller mes ressources car je pense qu'il est préférable d'utiliser ce dangereux appareil. Si vous en avez tant besoin, revenez avec plus de cristaux d'énergie."
   },
   "TS_L1_B1_ANCHOR_READY": {
-   "NAME": "Point d'ancrage de transfert-zero",
+   "NAME": "Point d'ancrage de Transfert-Zéro",
    "TEXT": "Votre engin va être envoyé via le tunnel de passage vers le point représentant le point d'ancrage. J'espère que ce trajet ne vous anéantira pas."
   },
   "TS_L1_B1_ANCHOR_READY_BRIEF": {
-   "NAME": "Point d'ancrage de transfert-zero installé",
+   "NAME": "Point d'ancrage de Transfert-Zéro installé",
    "TEXT": "Mon engin est équipé d'un appareil unique qui peut m'envoyer vers une destination inconnue. Il peut être activé dans le tunnel de passage."
   },
   "TS_L1_CEH": {
@@ -6250,7 +6250,7 @@
   },
   "TS_L1_INFO_SUPER": {
    "NAME": "Message des Premiers",
-   "TEXT": "Tu es le seul représentant de la cinquième génération, la plus aboutie des Mécanoïdes. Libre des directives des Créateurs et libre de choisir entre plusieurs objectifs, ce que tes prédécesseurs ne pouvaient pas. Tous les autres n'ont que ce seul objectif : Atteindre la perfection. La seule difference réside dans leur perception de la perfection. Toi, en revanche, tu n'as pas de limites. Cela t'aidera probablement à accomplir les tâches que l'Ultime a réservé pour toi. Ces missions nécessitent une approche inatteignable aux autres mécanoïdes, mais elles nécessitent également une certaine connaissance de ce monde. Pour pouvoir comprendre ce monde et ses problèmes, tu dois y vivre un certain temps, mais, tôt ou tard, tu rencontreras l'<reference:Ultime.=INFO_SUPER> Ce n'est pas pour tout de suite, mais avant cela, va voir l'Obélisque de l'Ultime dans le <reference:Secteur Toundra=INFO_SECTOR2>. Tu dois d'abord trouver un tunnel de passage pour y accéder. C'est quelque chose que tu peux faire par toi-même."
+   "TEXT": "Tu es le seul représentant de la cinquième génération, la plus aboutie des Mécanoïdes. Libre des directives des Créateurs et libre de choisir entre plusieurs objectifs, ce que tes prédécesseurs ne pouvaient pas. Tous les autres n'ont que ce seul objectif : Atteindre la perfection. La seule différence réside dans leur perception de la perfection. Toi, en revanche, tu n'as pas de limites. Cela t'aidera probablement à accomplir les tâches que l'Ultime a réservé pour toi. Ces missions nécessitent une approche inatteignable aux autres mécanoïdes, mais elles nécessitent également une certaine connaissance de ce monde. Pour pouvoir comprendre ce monde et ses problèmes, tu dois y vivre un certain temps, mais, tôt ou tard, tu rencontreras l'<reference:Ultime.=INFO_SUPER> Ce n'est pas pour tout de suite, mais avant cela, va voir l'Obélisque de l'Ultime dans le <reference:Secteur Toundra=INFO_SECTOR2>. Tu dois d'abord trouver un tunnel de passage pour y accéder. C'est quelque chose que tu peux faire par toi-même."
   },
   "TS_L1_INFO_SUPER_BRIEF": {
    "NAME": "Message des Premiers",
@@ -6270,7 +6270,7 @@
   },
   "TS_L1_TUNNEL_JUMP": {
    "NAME": "Conditions du tunnel de passage",
-   "TEXT": "Vous souhaitez passer dans un autre secteur, %NAME ? Etes-vous prêt ? Personne n'est arrivé si tôt ici depuis longtemps, avec tous ces perdants qui se font réinitialiser. Peu importe de toute façon. Une seule exigence : Etre de niveau trois et avoir 1000 cristaux d'énergie. J'en prendrai une petite partie pour que vous soyez en sécurité durant votre trajet. Le restant que vous aurez besoin se trouvera dans le Secteur Toundra. Si vous les avez déjà, vous pouvez y aller maintenant."
+   "TEXT": "Vous souhaitez passer dans un autre secteur, %NAME ? Êtes-vous prêt ? Personne n'est arrivé si tôt ici depuis longtemps, avec tous ces perdants qui se font réinitialiser. Peu importe de toute façon. Une seule exigence : Être de niveau trois et avoir 1000 cristaux d'énergie. J'en prendrai une petite partie pour que vous soyez en sécurité durant votre trajet. Le restant que vous aurez besoin se trouvera dans le Secteur Toundra. Si vous les avez déjà, vous pouvez y aller maintenant."
   },
   "TS_L1_TUNNEL_JUMP_ACCESS": {
    "NAME": "Condition du tunnel de passage remplie",
@@ -6278,7 +6278,7 @@
   },
   "TS_L1_TUNNEL_JUMP_CONDITION": {
    "NAME": "Conditions du tunnel de passage",
-   "TEXT": "Conditions du tunnel de passage : Avoir 1000 cristaux d'énergie minimum et un niveau 3. Dès que j'ai tout ça, je reviendrai au tunnel et j'accèderai au Secteur Toundra."
+   "TEXT": "Conditions du tunnel de passage : Avoir 1000 cristaux d'énergie minimum et un niveau 3. Dès que j'ai tout ça, je reviendrai au tunnel et j’accéderai au Secteur Toundra."
   },
   "TS_L1_TUNNEL_JUMP_ENERGY": {
    "NAME": "",
@@ -6310,7 +6310,7 @@
   },
   "TS_L2_BUNKER_QT_BRIEF": {
    "NAME": "Convertisseur quantique",
-   "TEXT": "Un traducteur quantique se trouve dans le bunker des Premiers. Cet appareil me permetra de communiquer avec les Premiers. J'espère qu'ils pourront m'aider, mais cela n'est pas sûr."
+   "TEXT": "Un traducteur quantique se trouve dans le bunker des Premiers. Cet appareil me permettra de communiquer avec les Premiers. J'espère qu'ils pourront m'aider, mais cela n'est pas sûr."
   },
   "TS_L2_BUNKER_QT_GET": {
    "NAME": "Obtenir le convertisseur quantique",
@@ -6414,7 +6414,7 @@
   },
   "TS_L3_GRP_RECK01_COMPLETE.1": {
    "NAME": "Requête des Reckoners",
-   "TEXT": "Ca fait un moment que nous cherchions à obtenir cet appareil, mais seuls les Pierres de Garde la possèdaient jusqu'à présent. Ils refusent de nous recevoir dans leur centre. Mais vous êtes venu jusqu'à notre base et nous avez amené l'analyseur. Je vais devoir faire une réplique pour l'améliorer plus tard. Vous pouvez à présent consulter les informations que je vous avais promis.  Les Reckoners ont identifié une intelligence étrangère qui se trouve dans le Territoire depuis longtemps. Cependant, toutes nos tentatives d'entrer en contact avec elle ont échoué. Nous savons que l'intelligence se trouve physiquement quelque part dans le Secteur Désert, mais personne ne sait exactement où. Les modules principaux de l'Ultime s'y trouvent également, mais l'intelligence non identifiée n'a rien a voir avec cela.  Il semble que l'Ultime n'en sait pas plus, car il a d'autres préoccupations. Il a problablement préparé des missions pour vous, mais elles auront guère de rapports avec l'intelligence inconnue. Nous ne connaissons cependant pas tous les objectifs de l'Ultime et on peut se tromper.  L'heure de votre rencontre avec lui approche. Mais souvenez-vous de ce que nous vous avons dit. Si vous entrez en contact avec l'intelligence inconnue ou, tout du moins, si vous la trouvez, faites-le nous savoir. Notre base principale se trouve dans le même secteur que celle de l'Ultime."
+   "TEXT": "Ca fait un moment que nous cherchions à obtenir cet appareil, mais seuls les Pierres de Garde la possédaient jusqu'à présent. Ils refusent de nous recevoir dans leur centre. Mais vous êtes venu jusqu'à notre base et nous avez amené l'analyseur. Je vais devoir faire une réplique pour l'améliorer plus tard. Vous pouvez à présent consulter les informations que je vous avais promis.  Les Reckoners ont identifié une intelligence étrangère qui se trouve dans le Territoire depuis longtemps. Cependant, toutes nos tentatives d'entrer en contact avec elle ont échoué. Nous savons que l'intelligence se trouve physiquement quelque part dans le Secteur Désert, mais personne ne sait exactement où. Les modules principaux de l'Ultime s'y trouvent également, mais l'intelligence non identifiée n'a rien a voir avec cela.  Il semble que l'Ultime n'en sait pas plus, car il a d'autres préoccupations. Il a probablement préparé des missions pour vous, mais elles auront guère de rapports avec l'intelligence inconnue. Nous ne connaissons cependant pas tous les objectifs de l'Ultime et on peut se tromper.  L'heure de votre rencontre avec lui approche. Mais souvenez-vous de ce que nous vous avons dit. Si vous entrez en contact avec l'intelligence inconnue ou, tout du moins, si vous la trouvez, faites-le nous savoir. Notre base principale se trouve dans le même secteur que celle de l'Ultime."
   },
   "TS_L3_GRP_RECK01_C_BRIEF": {
    "NAME": "L'analyseur fourni aux Reckoners",
@@ -6594,7 +6594,7 @@
   },
   "TS_L5_B_RECONER1_COMPLETE": {
    "NAME": "L'Observateur",
-   "TEXT": "Vous en savez plus sur l'Observateur que nous. Vous êtes le premier à entrer en contact avec l'entité. Contrairement aux Mécanoïdes des Mutants, vous êtes le seul à apporter de réels changements à ce monde. Le monde change et nous pensons que ceux qui l'occupent actuellement n'y auront plus leur place. Ceux comme vous viendront et chasseront facilement tous les autres."
+   "TEXT": "Vous en savez plus sur l'Observateur que nous. Vous êtes le premier à entrer en contact avec l'entité. Contrairement aux Mécanoïdes de la Structure de Reconversion, vous êtes le seul à apporter de réels changements à ce monde. Le monde change et nous pensons que ceux qui l'occupent actuellement n'y auront plus leur place. Ceux comme vous viendront et chasseront facilement tous les autres."
   },
   "TS_L5_B_SBUNK00": {
    "NAME": "Félicitations de l'Ultime",
@@ -6649,7 +6649,7 @@
    "TEXT": "Portez le message à la base principale des Premiers dans le Secteur Highlands. Un module puissant de compensation du bouclier devra y être assemblé, ce qui vous aidera à atteindre le monde extérieur. Le laboratoire des Créateurs doit être situé à l'extérieur non loin de la sortie. Je pense qu'ils ont créé la sortie pour une certaine raison, mais je n'ai pas plus d'informations à ce propos... et à vrai dire, ce n'est pas très important."
   },
   "TS_L5_B_SBUNK03_BRIEF": {
-   "NAME": "Assembage du module de compensation du bouclier",
+   "NAME": "Assemblage du module de compensation du bouclier",
    "TEXT": "Pour traverser le bouclier d'énergie vers le monde extérieur, un module de protection spécial est nécessaire. La base principale des Premiers l'assemblera dès que j'y aurai donné le message de l'Ultime."
   },
   "TS_L5_B_SBUNK03_COMPLETE": {
@@ -6662,7 +6662,7 @@
   },
   "TS_L5_B_SBUNK04": {
    "NAME": "Objectif principal",
-   "TEXT": "Il y a une navette spatiale dans le laboratoire. Elle permet d'envoyer des informations aux Créateurs. Vous seul pouvez faire ce que je propose. Trouvez le laboratoire et cherchez si la navette spatiale est opérationnelle. Si c'est le cas, vous devrez aller sur la Terre. Il s'agit de la planète des Créateurs ; tous leurs vaisseaux ont ses coordonnées et vous y parviendrez automatiquement. <p>Etant donné que je ne sais pas ce qui est arrivé aux Créateurs, ni le genre d'informations ils ont besoin, je vous donne un infopack contenant le rapport complet sur la situation actuelle du Territoire-4. Ce sont eux qui prendront les autres décisions. J'attendrai les résultats. <p>Autre chose : vous recevrez, dans la base des Premiers, un point d'ancrage-zéro avec le module de protection. Lorsque la navette aura décollé, activez-le. Il est équipé d'un émetteur automatique. Je saurai alors que vous avez accompli une partie de la mission et que vous la poursuivez. Une fois arrivé sur Terre, donnez le point d'ancrage aux Créateurs. Grâce à ce point d'ancrage, je peux transférer n'importe quelles données à n'importe quel point dans l'espace où il se trouve. Il est également possible de recevoir quoi que ce soit dans nos tunnels de passage, si le point d'ancrage est utilisé dans le générateur d'espace P-Zéro. Il est probable que les Créateurs en auront besoin."
+   "TEXT": "Il y a une navette spatiale dans le laboratoire. Elle permet d'envoyer des informations aux Créateurs. Vous seul pouvez faire ce que je propose. Trouvez le laboratoire et cherchez si la navette spatiale est opérationnelle. Si c'est le cas, vous devrez aller sur la Terre. Il s'agit de la planète des Créateurs ; tous leurs vaisseaux ont ses coordonnées et vous y parviendrez automatiquement. <p>Étant donné que je ne sais pas ce qui est arrivé aux Créateurs, ni le genre d'informations ils ont besoin, je vous donne un infopack contenant le rapport complet sur la situation actuelle du Territoire-4. Ce sont eux qui prendront les autres décisions. J'attendrai les résultats. <p>Autre chose : vous recevrez, dans la base des Premiers, un point d'ancrage-zéro avec le module de protection. Lorsque la navette aura décollé, activez-le. Il est équipé d'un émetteur automatique. Je saurai alors que vous avez accompli une partie de la mission et que vous la poursuivez. Une fois arrivé sur Terre, donnez le point d'ancrage aux Créateurs. Grâce à ce point d'ancrage, je peux transférer n'importe quelles données à n'importe quel point dans l'espace où il se trouve. Il est également possible de recevoir quoi que ce soit dans nos tunnels de passage, si le point d'ancrage est utilisé dans le générateur d'espace P-Zéro. Il est probable que les Créateurs en auront besoin."
   },
   "TS_L5_B_SBUNK04_BRIEF": {
    "NAME": "Objectif principal",
@@ -6690,7 +6690,7 @@
   },
   "TS_L5_GRP_RECK1_IN_B_L5_RECK": {
    "NAME": "Les Reckoners savent qu'il y a eu un contact",
-   "TEXT": "Vous en savez plus sur l'Observateur que nous. Vous êtes le premier à avoir pu entrer en contact avec lui. Contrairement aux Mécanoïdes des Mutants, vous seul apportez de réels changements à ce monde. Le monde change et nous pensons que ceux qui l'occupent actuellement n'y auront plus leur place. De nouveaux Mécanoïdes de votre génération viendront et chasseront tous les autres."
+   "TEXT": "Vous en savez plus sur l'Observateur que nous. Vous êtes le premier à avoir pu entrer en contact avec lui. Contrairement aux Mécanoïdes de la Structure de Reconversion, vous seul apportez de réels changements à ce monde. Le monde change et nous pensons que ceux qui l'occupent actuellement n'y auront plus leur place. De nouveaux Mécanoïdes de votre génération viendront et chasseront tous les autres."
   },
   "TS_L5_GRP_RECK2_BRIEF": {
    "NAME": "Les Reckoners savent qu'il y a eu un contact",
@@ -6782,7 +6782,7 @@
   },
   "TS_L6_B_FIR02": {
    "NAME": "Livraison de l'infopack",
-   "TEXT": "Puisque vous allez dans le Secteur Désert, apportez un infopack à l'Ultime contenant le rapport sur notre guerre contre les Sinigres et des informations concernat l'efficacité de nos équipements. L'Ultime offrira probablement de nouvelles armes."
+   "TEXT": "Puisque vous allez dans le Secteur Désert, apportez un infopack à l'Ultime contenant le rapport sur notre guerre contre les Sinigres et des informations concernant l'efficacité de nos équipements. L'Ultime offrira probablement de nouvelles armes."
   },
   "TS_L6_B_FIR02_1": {
    "NAME": "Assemblage d'une nouvelle arme",
@@ -6826,7 +6826,7 @@
   },
   "TS_L6_B_FIR03": {
    "NAME": "Les Premiers sont prêts",
-   "TEXT": "Les Premiers se sont rassemblés et vont vous couvrir à proximité du passage vers l'extérieur. Le module de protection est assemblé et installé dans votre engin. Nous vous avons équipé d'un mémocristal vidéo à long terme pour tout enregistrer autour de vous. Allez-y ! Une fois que vous aurez trouvé le laboratoire des Créateurs, suivez les instructions de l'Ultime."
+   "TEXT": "Les Premiers se sont rassemblés et vont vous couvrir à proximité du passage vers l'extérieur. Le module de protection est assemblé et installé dans votre engin. Nous vous avons équipé d'un mémo-cristal vidéo à long terme pour tout enregistrer autour de vous. Allez-y ! Une fois que vous aurez trouvé le laboratoire des Créateurs, suivez les instructions de l'Ultime."
   },
   "TS_L6_B_FIR03_1": {
    "NAME": "Assemblage du module de protection",
@@ -6854,7 +6854,7 @@
   },
   "TS_L7_B_SIN00.1": {
    "NAME": "Assemblage de la protection",
-   "TEXT": "Je vais créer un module de protection contre l'anomalie en fonction des instructions de l'Ultime. Pendant l'assemblage, allez à la base des Reckoners dans le Secteur Désert et apportez-leur un infopack. Les Sinigres connaissent nos actions grâce aux Reckoners et ils seront à l'affut. Une fois l'infopack transmis, revenez ici."
+   "TEXT": "Je vais créer un module de protection contre l'anomalie en fonction des instructions de l'Ultime. Pendant l'assemblage, allez à la base des Reckoners dans le Secteur Désert et apportez-leur un infopack. Les Sinigres connaissent nos actions grâce aux Reckoners et ils seront à l’affût. Une fois l'infopack transmis, revenez ici."
   },
   "TS_L7_B_SIN00.1_BRIEF": {
    "NAME": "Livrer l'annonce",
@@ -6958,7 +6958,7 @@
   },
   "TS_L7_B_SIN04": {
    "NAME": "Exécution de la tâche principale.",
-   "TEXT": "L'Ultime est sûr que vous allez vers les Créateurs dans la navette spatiale. Ce serait stupide. Et s'ils décidaient de nous détruire ? Ils en sont bien capables. <p> Vous feriez mieux de détruire le vaisseau. L'Observateur n'a accepté que vous, ce qui signifie que vous pouvez accomplir la mission.<p>Allez dans le Secteur du Désert vers la sortie vers le monde extérieur. Vous disposez maintenant de tous les éléments pour accomplir la tâche. Les membres de notre clan n'interviendront pas.<p>Je vous ai installé le mémocristal à long terme. Il enregistrera tout."
+   "TEXT": "L'Ultime est sûr que vous allez vers les Créateurs dans la navette spatiale. Ce serait stupide. Et s'ils décidaient de nous détruire ? Ils en sont bien capables. <p> Vous feriez mieux de détruire le vaisseau. L'Observateur n'a accepté que vous, ce qui signifie que vous pouvez accomplir la mission.<p>Allez dans le Secteur du Désert vers la sortie vers le monde extérieur. Vous disposez maintenant de tous les éléments pour accomplir la tâche. Les membres de notre clan n'interviendront pas.<p>Je vous ai installé le mémo-cristal à long terme. Il enregistrera tout."
   },
   "TS_L7_B_SIN04_BRIEF": {
    "NAME": "Exécution de la tâche principale.",
@@ -6994,7 +6994,7 @@
   },
   "T_L1_B1_1_COMPLETE": {
    "NAME": "Conteneur livré",
-   "TEXT": "Je savais que vous pouviez gérer des missions. Les <reference:Trances=ORG_TRANCES> peuvent le faire aussi, mais ils ne sont pas très fiables. Les autres sont tellements trop engagés dans le combat que cela ne les intéresse pas. Au fait, J'ai d'autres missions à vous confier."
+   "TEXT": "Je savais que vous pouviez gérer des missions. Les <reference:Trances=ORG_TRANCES> peuvent le faire aussi, mais ils ne sont pas très fiables. Les autres sont tellement trop engagés dans le combat que cela ne les intéresse pas. Au fait, J'ai d'autres missions à vous confier."
   },
   "T_L1_B1_1_FAIL": {
    "NAME": "Conteneur non livré à temps",
@@ -7010,7 +7010,7 @@
   },
   "T_L1_B1_1_IN_B_L1_PLANT_PF": {
    "NAME": "Conteneur livré",
-   "TEXT": "Excellent, %NAME! J'ai enfin ces multiplicateurs. Ca fait la troisième fois que la base tente de me les envoyer, mais à chaque fois, les Trances se font attaquer par les Envahisseurs et leur abandonent le chargement. Après coup, ces assaillants les ramènent à la base contre paiement. Voici 200 points d'énergie pour ce travail. Vous pourrez en avoir plus si vous achetez des marchandises ici et que vous les vendez à la base principale. <link:Voir ce que j'ai en stock.=LINKTRADE>"
+   "TEXT": "Excellent, %NAME! J'ai enfin ces multiplicateurs. Ca fait la troisième fois que la base tente de me les envoyer, mais à chaque fois, les Trances se font attaquer par les Envahisseurs et leur abandonnent le chargement. Après coup, ces assaillants les ramènent à la base contre paiement. Voici 200 points d'énergie pour ce travail. Vous pourrez en avoir plus si vous achetez des marchandises ici et que vous les vendez à la base principale. <link:Voir ce que j'ai en stock.=LINKTRADE>"
   },
   "T_L1_B1_2": {
    "NAME": "Réparations du monte-charge à gravitation",
@@ -7025,7 +7025,7 @@
    "TEXT": "J'ai acheté trois modules de réparations. Ils doivent maintenant être livrés à la base."
   },
   "T_L1_B1_2_BRIEF": {
-   "NAME": "Réparations du système de gravité de l'ascenceur",
+   "NAME": "Réparations du système de gravité de l’ascenseur",
    "TEXT": "La <reference:base principale=B_L1_BASE1> a besoin immédiatement de trois <reference:modules de réparations=TOV_REPAIR_MODUL>. La façon la plus rapide de les obtenir, serait de les acheter directement au <reference:centre des matières premières=B_L1_FEEDSTOCK>."
   },
   "T_L1_B1_2_COMPLETE": {
@@ -7033,7 +7033,7 @@
    "TEXT": "Excellent, les réparations sont terminées. Les <reference:Trances=ORG_TRANCES> pourront enfin reprendre leur activités commerciales normalement. Fini les problèmes de transport entre les magasins!"
   },
   "T_L1_B1_2_FAIL": {
-   "NAME": "Echec de la mission",
+   "NAME": "Échec de la mission",
    "TEXT": "Les modules sont été commandés par le réseau souterrain de communications. Je voulais éviter de l'utiliser, mais je n'ai pas eu le choix à cause de vous !"
   },
   "T_L1_B1_2_GET": {
@@ -7058,7 +7058,7 @@
   },
   "T_L1_B1_3_COMPLETE": {
    "NAME": "Intrus détruit",
-   "TEXT": "Je suis content de savoir que vous en êtes venu à bout. J'essaye de comprendre ses motivations, il y a quelque chose qui ne va pas car il n'y a rien de logique. Personne de l'ancienne génération n'oserait éliminer des Mécanoïdes sans raison ou juste par plaisir. NASP-013 doit être simplement disfonctionnel. Quoi qu'il en soit, c'est désormais mon problème. Tenez, vous avez mérité votre récompense."
+   "TEXT": "Je suis content de savoir que vous en êtes venu à bout. J'essaye de comprendre ses motivations, il y a quelque chose qui ne va pas car il n'y a rien de logique. Personne de l'ancienne génération n'oserait éliminer des Mécanoïdes sans raison ou juste par plaisir. NASP-013 doit être simplement dysfonctionnel. Quoi qu'il en soit, c'est désormais mon problème. Tenez, vous avez mérité votre récompense."
   },
   "T_L1_B1_3_FAIL": {
    "NAME": "Quelqu'un a été plus rapide que vous...",
@@ -7133,7 +7133,7 @@
    "TEXT": "Bien, ce combustible suffira pour un bon moment. Vous avez réussi la mission mais vous êtes en retard, la récompense sera donc moins élevée."
   },
   "T_L1_B1_5_FAIL": {
-   "NAME": "Echec de la mission",
+   "NAME": "Échec de la mission",
    "TEXT": "Tout ce que vous aviez à faire : Transporter les déchets à l'usine de transformation, prendre le combustible, me le ramener ici! Je ne pensais pas que c'était si compliqué pour vous."
   },
   "T_L1_B1_5_GET": {
@@ -7201,7 +7201,7 @@
    "TEXT": "Il aurait été plus simple d'envoyer cette antenne au recyclage plutôt que de la faire réparer. Mais bon, puisque vous l'avez amenée ici, je pense qu'il me reste plus qu'a la réparer. Je vous donne 2000 points d'énergie pour la livraison."
   },
   "T_L1_B1_7_FAIL": {
-   "NAME": "Echec de la mission",
+   "NAME": "Échec de la mission",
    "TEXT": "_DEFAULT_"
   },
   "T_L1_B1_7_GET": {
@@ -7326,7 +7326,7 @@
   },
   "T_L1_B1_8_IN_RECYCLE": {
    "NAME": "Expérience en cours",
-   "TEXT": "L'expérience conduite par la base principale est très intéressante. Je pense que s'il existe une possibilité de liver un infopack (qui ne pèse rien) pour un bon prix, de nombreux mécanoïdes seraient intéressés de faire le travail de coursier. Je pense particulièrement aux <reference:Trances=ORG_TRANSES> qui pourraient transporter simultanément des cargaisons et des messages. Cela sera très utile. Je l'approuve!"
+   "TEXT": "L'expérience conduite par la base principale est très intéressante. Je pense que s'il existe une possibilité de livrer un infopack (qui ne pèse rien) pour un bon prix, de nombreux mécanoïdes seraient intéressés de faire le travail de coursier. Je pense particulièrement aux <reference:Trances=ORG_TRANSES> qui pourraient transporter simultanément des cargaisons et des messages. Cela sera très utile. Je l'approuve!"
   },
   "T_L1_B1_8_IN_RM": {
    "NAME": "Expérience en cours",
@@ -7358,7 +7358,7 @@
   },
   "T_L1_B1_9_INCT": {
    "NAME": "Infopack non livré dans le Secteur Toundra",
-   "TEXT": "La mise en place de la correspondance par coursier est le premier changement au monde depuis que le réseau de communications a été mis sous terre. Vous avez été directement impliqué à ce projet, et maintenant, il faut continuer dans le même esprit! Est-ce tant difficile d'aller dans le Secteur Toundra? Vous n'êtes pas obligé de revenir, c'est vous qui dédidez."
+   "TEXT": "La mise en place de la correspondance par coursier est le premier changement au monde depuis que le réseau de communications a été mis sous terre. Vous avez été directement impliqué à ce projet, et maintenant, il faut continuer dans le même esprit! Est-ce tant difficile d'aller dans le Secteur Toundra? Vous n'êtes pas obligé de revenir, c'est vous qui décidez."
   },
   "T_L1_B1_9_IN_B_L2_BASE1": {
    "NAME": "Infopack livré",
@@ -7461,7 +7461,7 @@
    "TEXT": "Module de réparation livrée. Récupérez votre récompense."
   },
   "T_L1_B2_4": {
-   "NAME": "Correction de l'équilibre biomchimique du lac",
+   "NAME": "Correction de l'équilibre biochimique du lac",
    "TEXT": "Déversez 4 conteneurs dans le lac."
   },
   "T_L1_B2_4.X1": {
@@ -7498,7 +7498,7 @@
   },
   "T_L1_B2_4_INCT": {
    "NAME": "L'équilibre biomécanique du lac n'est pas stabilisé",
-   "TEXT": "Si vous attendez encore, les créatures vont mourrir. Je vais devoir en élever d'autres encore et cela me prend du temps."
+   "TEXT": "Si vous attendez encore, les créatures vont mourir. Je vais devoir en élever d'autres encore et cela me prend du temps."
   },
   "T_L1_B2_5": {
    "NAME": "Livraison d'une cargaison spéciale à la base principale",
@@ -7510,19 +7510,19 @@
   },
   "T_L1_B2_5_BRIEF": {
    "NAME": "Livraison d'une cargaison spéciale à la base principale",
-   "TEXT": "Il est nécessaire d'apporter une cargaison extrêmement fragile à la <reference:base principale.=B_L1_BASE1> Je préfèrerai ne pas combattre et je dois avancer avec précaution car le contenu du conteneur peut se casser facilement."
+   "TEXT": "Il est nécessaire d'apporter une cargaison extrêmement fragile à la <reference:base principale.=B_L1_BASE1> Je préférerai ne pas combattre et je dois avancer avec précaution car le contenu du conteneur peut se casser facilement."
   },
   "T_L1_B2_5_COMPLETE": {
    "NAME": "Cargaison spéciale apportée à la base",
    "TEXT": "La cargaison a été apportée à temps. Excellent. Je pense que je peux vous confier une tâche plus intéressante maintenant."
   },
   "T_L1_B2_5_FAIL": {
-   "NAME": "Echec de la mission",
+   "NAME": "Échec de la mission",
    "TEXT": "Cargaison détruite."
   },
   "T_L1_B2_5_GET": {
    "NAME": "Détails",
-   "TEXT": "Un accumulateur de phase a été cassé à la <reference:base principale=B_L1_BASE1>. Un module de réparation standard ne sera pas suffisant, nous devons remplacer le convertisseur de phase. J'en ai un en stock. Prenez-le et allez à la <reference:base principale.=B_L1_BASE1> Il est emballé dans une boîte mais ne doit pas être soumis à de fortes contraintes mécaniques. Il s'agit d'une structure très complexe et fragile. Si vous êtes touché par un missile ou si l'engin chute de trop haut, le convertisseur sera détruit. Vous devez apporter le déphaseur intact aussi vite que possible, et après vous pourrez faire vos combats et sauter du haut des falaises. En rétribution d'une livraison à temps, la base principale vous paiera 2000 points d'énergie. Etes-vous partant ?"
+   "TEXT": "Un accumulateur de phase a été cassé à la <reference:base principale=B_L1_BASE1>. Un module de réparation standard ne sera pas suffisant, nous devons remplacer le convertisseur de phase. J'en ai un en stock. Prenez-le et allez à la <reference:base principale.=B_L1_BASE1> Il est emballé dans une boîte mais ne doit pas être soumis à de fortes contraintes mécaniques. Il s'agit d'une structure très complexe et fragile. Si vous êtes touché par un missile ou si l'engin chute de trop haut, le convertisseur sera détruit. Vous devez apporter le déphaseur intact aussi vite que possible, et après vous pourrez faire vos combats et sauter du haut des falaises. En rétribution d'une livraison à temps, la base principale vous paiera 2000 points d'énergie. Êtes-vous partant ?"
   },
   "T_L1_B2_5_INCT": {
    "NAME": "Cargaison spéciale non apportée à la base",
@@ -7629,12 +7629,12 @@
    "TEXT": "La nouvelle méthode de communication me convient. Il est plus efficace que la communication gravitationnelle."
   },
   "T_L2_B1_2": {
-   "NAME": "Possible accident à la base des Mutants",
-   "TEXT": "Nous devons savoir pourquoi la <reference:base des Mutants=B_L2_SC> ne répond pas."
+   "NAME": "Possible accident à la base de la Structure de Reconversion",
+   "TEXT": "Nous devons savoir pourquoi la <reference:base de la Structure de Reconversion=B_L2_SC> ne répond pas."
   },
   "T_L2_B1_2.X1": {
    "NAME": "Informations reçues",
-   "TEXT": "C'était une panne d'émetteur gravitationnel à la base des Mutants. Avec cette information, je dois retourner à la base principale et recevoir ma récompense."
+   "TEXT": "C'était une panne d'émetteur gravitationnel à la base de la Structure de Reconversion. Avec cette information, je dois retourner à la base principale et recevoir ma récompense."
   },
   "T_L2_B1_2.X1_GET": {
    "NAME": "",
@@ -7642,11 +7642,11 @@
   },
   "T_L2_B1_2_BC": {
    "NAME": "",
-   "TEXT": "L'émetteur gravitationnel à la base des Mutants était en panne, il est impossible de les contacter."
+   "TEXT": "L'émetteur gravitationnel à la base de la Structure de Reconversion était en panne, il est impossible de les contacter."
   },
   "T_L2_B1_2_BRIEF": {
-   "NAME": "Possible accident à la base des Mutants",
-   "TEXT": "Mission de la base principale : aller à la <reference:base des Mutants=B_L2_SC> et découvrir pourquoi elle ne répond pas. La base principale vous paie 4000 points d'énergie pour ce service."
+   "NAME": "Possible accident à la base de la Structure de Reconversion",
+   "TEXT": "Mission de la base principale : aller à la <reference:base de la Structure de Reconversion=B_L2_SC> et découvrir pourquoi elle ne répond pas. La base principale vous paie 4000 points d'énergie pour ce service."
   },
   "T_L2_B1_2_COMPLETE": {
    "NAME": "La raison du silence est révélée",
@@ -7654,11 +7654,11 @@
   },
   "T_L2_B1_2_GET": {
    "NAME": "Détails sur la situation",
-   "TEXT": "Nous n'arrivons pas à établir de communication avec la <reference:base des Mutants. =B_L2_SC> C'est peut-être un accident. J'ai envoyé trois mécanoïdes, mais ils ne sont pas revenus. En échange d'une rémunération , allez voir ce qu'il s'est passé. Inutile de vous dire d'être prudent. Dès que vous en connaîtrez la raison, revenez et je vous paierai 4000 points d'énergie."
+   "TEXT": "Nous n'arrivons pas à établir de communication avec la <reference:base de la Structure de Reconversion. =B_L2_SC> C'est peut-être un accident. J'ai envoyé trois mécanoïdes, mais ils ne sont pas revenus. En échange d'une rémunération , allez voir ce qu'il s'est passé. Inutile de vous dire d'être prudent. Dès que vous en connaîtrez la raison, revenez et je vous paierai 4000 points d'énergie."
   },
   "T_L2_B1_2_INCT": {
-   "NAME": "Toujours pas de nouvelles de la base des Mutants",
-   "TEXT": "Je dois savoir pourquoi la base des Mutants garde le silence."
+   "NAME": "Toujours pas de nouvelles de la base de la Structure de Reconversion",
+   "TEXT": "Je dois savoir pourquoi la base de la Structure de Reconversion garde le silence."
   },
   "T_L2_B1_2_IN_B_L2_SC": {
    "NAME": "Informations pour la base principale",
@@ -7785,7 +7785,7 @@
    "TEXT": "Récemment, j'ai essayé d'introduire un nouveau mode de paiement. La réussite d'une mission permettra d'augmenter votre score personnel. Si vous échouez, votre score sera réduit. Les Mécanoïdes pourront être plus précis dans leur choix des missions. Les bases principales des secteurs 1 et 3 doivent être informées de ce nouveau procédé. <p>Allez-y et transmettez-leur ces informations. Je vous suggère de vous rendre tout d'abord dans le Secteur 1, ensuite dans le secteur 3. Vous recevrez 3000 points d'énergie dans chacune des deux bases ainsi qu'une augmentation de votre score."
   },
   "T_L2_B1_4_INCT": {
-   "NAME": "Infopacks pas encore livrés aux autres secteurs",
+   "NAME": "Infopacks non livrés aux autres secteurs",
    "TEXT": "Livrez les infopacks. Ce sera utile pour tous les Mécanoïdes... et pour vous."
   },
   "T_L2_B1_4_IN_B_L1_BASE1": {
@@ -7878,7 +7878,7 @@
   },
   "T_L2_B1_9_COMPLETE": {
    "NAME": "",
-   "TEXT": "Je suppose que vous ne voulez pas rester longtemps dans le Secteur Toundra, vu que vous vous intéressez au secteur suivant. Là encore, c'est vous qui décidez. Au Secteur Arctique suivant, outre ceux qui vous sont déjà familiers, comme les Reckoners, les Trances et les Mutants, vous rencontrerez d'autres clans. Il n'y existe que deux clans là bas : les Nargoons et les Panzers. Ils sont en guerre l'un contre l'autre, même s'ils sont tous deux composés de mécanoïdes spéciaux. On ignore la raison de cette hostilité. Mais, tant que vous ne les attaquez pas ils vous laisseront tranquille. Vous pouvez rejoindre l'un ou l'autre des deux clans si vous êtes d'accord avec leurs opinions, leurs objectifs et leur voie. Vous pouvez en savoir plus sur cela dans les centre de tests. Nous vous fournirons plus d'informations sur ceux-ci ultérieurement."
+   "TEXT": "Je suppose que vous ne voulez pas rester longtemps dans le Secteur Toundra, vu que vous vous intéressez au secteur suivant. Là encore, c'est vous qui décidez. Au Secteur Arctique suivant, outre ceux qui vous sont déjà familiers, comme les Reckoners, les Trances et la Structure de Reconversion, vous rencontrerez d'autres clans. Il n'y existe que deux clans là bas : les Nargoons et les Panzers. Ils sont en guerre l'un contre l'autre, même s'ils sont tous deux composés de mécanoïdes spéciaux. On ignore la raison de cette hostilité. Mais, tant que vous ne les attaquez pas ils vous laisseront tranquille. Vous pouvez rejoindre l'un ou l'autre des deux clans si vous êtes d'accord avec leurs opinions, leurs objectifs et leur voie. Vous pouvez en savoir plus sur cela dans les centre de tests. Nous vous fournirons plus d'informations sur ceux-ci ultérieurement."
   },
   "T_L2_B1_9_INCT": {
    "NAME": "",
@@ -7918,7 +7918,7 @@
   },
   "T_L2_B2_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Récemment, nous avons reçu une requête du système d'extraction 1. Leur superchargeur plasma est cassé et ne dispose plus de combustible nucléaire. L'extraction a été stoppée. Nous devons leur fournir du combustible et des pièces détachées le plus vite possible. Allez-y dès que vous le pouvez. Si vous arrivez à temps, vous recevrez 3000 points d'énergie."
+   "TEXT": "Récemment, nous avons reçu une requête du système d'extraction 1. Leur super-chargeur plasma est cassé et ne dispose plus de combustible nucléaire. L'extraction a été stoppée. Nous devons leur fournir du combustible et des pièces détachées le plus vite possible. Allez-y dès que vous le pouvez. Si vous arrivez à temps, vous recevrez 3000 points d'énergie."
   },
   "T_L2_B2_1_INCT": {
    "NAME": "Système d'extraction en manque de combustible et de pièces détachées",
@@ -7926,7 +7926,7 @@
   },
   "T_L2_B2_1_IN_B_L2_MINE1": {
    "NAME": "Mission accomplie",
-   "TEXT": "Combustible et pièces détachées bien reçus. Nous allons redémarrer le Superchargeur. Cependant, je crains que la trancheuse soit bientôt en panne, mais je ne sais pas dans combien de temps."
+   "TEXT": "Combustible et pièces détachées bien reçus. Nous allons redémarrer le Super-chargeur. Cependant, je crains que la trancheuse soit bientôt en panne, mais je ne sais pas dans combien de temps."
   },
   "T_L2_B2_1_IN_B_L2_MINE1_FAIL": {
    "NAME": "Travail inachevé",
@@ -7954,7 +7954,7 @@
   },
   "T_L2_B2_2_FAIL": {
    "NAME": "Communication gravitationnelle utilisée",
-   "TEXT": "Vous n'avez pas réussi à livrerr l'infopack à l'Obélisque de l'Ultime. J'ai dû utiliser la communication gravitationnelle. Une quantité considérable d'énergie a été utilisée à cause de votre retard !"
+   "TEXT": "Vous n'avez pas réussi à livrer l'infopack à l'Obélisque de l'Ultime. J'ai dû utiliser la communication gravitationnelle. Une quantité considérable d'énergie a été utilisée à cause de votre retard !"
   },
   "T_L2_B2_2_GET": {
    "NAME": "Détails sur la mission",
@@ -8054,7 +8054,7 @@
   },
   "T_L2_BSC_1.X1": {
    "NAME": "Travail non achevé",
-   "TEXT": "J'ai livré les pièces de l'émetteur cassées à l'usine et j'ai reçu des pièces de rechanges. Je dois maintenant les retourner à la base des Mutants et recevoir ma récompense."
+   "TEXT": "J'ai livré les pièces de l'émetteur cassées à l'usine et j'ai reçu des pièces de rechanges. Je dois maintenant les retourner à la base de la Structure de Reconversion et recevoir ma récompense."
   },
   "T_L2_BSC_1_BC": {
    "NAME": "",
@@ -8066,7 +8066,7 @@
   },
   "T_L2_BSC_1_BRIEF": {
    "NAME": "Réparer l'émetteur gravitationnel",
-   "TEXT": "A la base des Mutants, j'ai reçu un conteneur avec des pièces endommagées de l'émetteur. Je dois l'apporter à l'usine de produits semi-finis. Je recevrai un autre conteneur que je devrai rapporter à la base."
+   "TEXT": "A la base de la Structure de Reconversion, j'ai reçu un conteneur avec des pièces endommagées de l'émetteur. Je dois l'apporter à l'usine de produits semi-finis. Je recevrai un autre conteneur que je devrai rapporter à la base."
   },
   "T_L2_BSC_1_COMPLETE": {
    "NAME": "Transmetteur gravitationnel réparé",
@@ -8078,15 +8078,15 @@
   },
   "T_L2_BSC_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Certaines parties du transmetteur gravitationnel se sont détériorés, ne fonctionnement plus, et je ne peux plus communiquer. Je vais vous confie le conteneur avec les éléments défectueux. Amenez-les à l'usine et ramenez les pieces de rechange que vous recevrez en retour. Rien de bien compliqué, mais attention, le conteneur est encombrant. Pour ce travail, je vous paierai 2500 points d'énergie."
+   "TEXT": "Certaines parties du transmetteur gravitationnel se sont détériorés, ne fonctionnement plus, et je ne peux plus communiquer. Je vais vous confie le conteneur avec les éléments défectueux. Amenez-les à l'usine et ramenez les pièces de rechange que vous recevrez en retour. Rien de bien compliqué, mais attention, le conteneur est encombrant. Pour ce travail, je vous paierai 2500 points d'énergie."
   },
   "T_L2_BSC_1_INCT": {
-   "NAME": "Transmetteur gravitionnel en panne",
+   "NAME": "Transmetteur gravitationnel en panne",
    "TEXT": "Je ne peux toujours pas contacter les autres bases. Rapportez-moi les pièces détachées de l'usine de produits semi-finis."
   },
   "T_L2_BSC_1_IN_B_L2_PLANT_PF": {
-   "NAME": "Emetteur gravitionnel en stock",
-   "TEXT": "Oui, j'ai les pièces nécessaires. Il en reste de la dernière fois, un dysfonctionnement similaire s'était déjà produit. Prenez-les et apportez-les à la base des Mutants."
+   "NAME": "Emetteur gravitationnel en stock",
+   "TEXT": "Oui, j'ai les pièces nécessaires. Il en reste de la dernière fois, un dysfonctionnement similaire s'était déjà produit. Prenez-les et apportez-les à la base de la Structure de Reconversion."
   },
   "T_L2_B_8_COMPLETE": {
    "NAME": "Informations apportées",
@@ -8130,7 +8130,7 @@
   },
   "T_L2_B_SC_1_BRIEF": {
    "NAME": "Réparations du commutateur gravitationnel.",
-   "TEXT": "J'ai reçu un conteneur avec des pièces de commutateur défectueux à la base des Mutants. Il doit être livrés à l'usine de produits semi-finis. Je recevrai alors un autre conteneur que je devrais rapporter à la base."
+   "TEXT": "J'ai reçu un conteneur avec des pièces de commutateur défectueux à la base de la Structure de Reconversion. Il doit être livrés à l'usine de produits semi-finis. Je recevrai alors un autre conteneur que je devrais rapporter à la base."
   },
   "T_L2_B_SC_1_COMPLETE": {
    "NAME": "Réparations du commutateur gravitationnel.",
@@ -8138,14 +8138,14 @@
   },
   "T_L2_B_SC_1_GET": {
    "NAME": "",
-   "TEXT": "Certains éléments de l'émetteur à gravitation se sont usés avec le temps et ne fonctionnent plus, et je n'ai plus de moyens de communication. Je vais vous confier un conteneur avec les pièces défectueuses. Apportez-les à l'usine et en échange, vous recevrez des pieces neuves en échange. Rien de bien compliqué si ce n'est le poids du conteneur qui est relativement lourd. Je vous paierai 1600 points d'énergie pour ce travail."
+   "TEXT": "Certains éléments de l'émetteur à gravitation se sont usés avec le temps et ne fonctionnent plus, et je n'ai plus de moyens de communication. Je vais vous confier un conteneur avec les pièces défectueuses. Apportez-les à l'usine et en échange, vous recevrez des pièces neuves en échange. Rien de bien compliqué si ce n'est le poids du conteneur qui est relativement lourd. Je vous paierai 1600 points d'énergie pour ce travail."
   },
   "T_L2_B_SC_1_INCT": {
    "NAME": "Réparations du commutateur gravitationnel",
    "TEXT": "Je ne peux toujours pas contacter les autres bases. Allez chercher les pièces détachées à l'usine de produits semi-finis."
   },
   "T_L2_B_SC_1_IN_B_L2_PLANT_PF": {
-   "NAME": "Eléments de réparation",
+   "NAME": "Éléments de réparation",
    "TEXT": "Oui, j'ai les pièces nécessaires. Il en reste encore de la dernière fois. Vous savez, on a déjà eu ce genre de problème. Prenez-les et rapportez-les à la base."
   },
   "T_L2_B_SC_2_GET": {
@@ -8181,12 +8181,12 @@
    "TEXT": "La température de l'autre coté de la barrière est trop variable. Les capacités de régulations n'ont pas toujours été suffisantes pour stabiliser la température à l'intérieur de la barrière. Je pense que l'équilibre thermique va maintenant être rétabli."
   },
   "T_L2_KA_1_FAIL": {
-   "NAME": "Echec de l'activation de la plate-forme",
+   "NAME": "Échec de l'activation de la plate-forme",
    "TEXT": "La plate-forme s'est activée au mauvais endroit ! Il faut vraiment être le stupide des méchanoïdes pour faire un truc pareil. Je vais devoir dépenser beaucoup de ressources pour rattraper votre bourde."
   },
   "T_L2_KA_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "J'ai l'impression que tout le Territoire tombe en ruines ! Notre chargeur est en panne et pourtant c'est un équipement très fiable. De plus, il est tombé en panne juste au moment où nous en avions vraiment besoin ! Ca faisait un moment que je prévoyais d'installer un modulateur thermique supplémentaire et maintenant que c'est vraiment nécessaire, nous ne pouvons pas le livrer sur place. Bien, procédons ainsi : je vais placer le modulateur sur une plate-forme de vol stationnaire et je vous indiquerai le lieu d'activation sur la carte. Allez-y et la plate-forme vous suivra. Veillez à ce qu'elle soit proche de vous. Si le système vous perd de vue, elle s'activera. Vous devrez être capable de la voir grâce à la jauge d'alerte. Dès que vous serez en place, attendez la plate-forme, puis quittez le lieu rapidement. Si tout se passe bien, revenez ici pour récupérer votre montant d'énergie. Je pense que 5000 points sera un prix raisonnable."
+   "TEXT": "J'ai l'impression que tout le Territoire tombe en ruines ! Notre chargeur est en panne et pourtant c'est un équipement très fiable. De plus, il est tombé en panne juste au moment où nous en avions vraiment besoin ! Ça faisait un moment que je prévoyais d'installer un modulateur thermique supplémentaire et maintenant que c'est vraiment nécessaire, nous ne pouvons pas le livrer sur place. Bien, procédons ainsi : je vais placer le modulateur sur une plate-forme de vol stationnaire et je vous indiquerai le lieu d'activation sur la carte. Allez-y et la plate-forme vous suivra. Veillez à ce qu'elle soit proche de vous. Si le système vous perd de vue, elle s'activera. Vous devrez être capable de la voir grâce à la jauge d'alerte. Dès que vous serez en place, attendez la plate-forme, puis quittez le lieu rapidement. Si tout se passe bien, revenez ici pour récupérer votre montant d'énergie. Je pense que 5000 points sera un prix raisonnable."
   },
   "T_L2_KA_1_INCT": {
    "NAME": "Escorte du module inachevé",
@@ -8250,7 +8250,7 @@
   },
   "T_L3_B1_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Il y a eu une bataille récemment. Les Sinigres étaient en train d'exterminer les derniers guerriers du clan des Forward. Ces derniers ont voulu chercher refuge dans cette base. Une roquette a atteint la tour du bâtiment qui contient toutes les données et j'ai perdu beaucoup d'informations. J'ai toutefois réussi a restaurer une partie.<p> Allez à la base des Reckoners dans le Secteur Volcan pour m'apporter les données restantes. Je vous donnerai un infopack pour que les Reckoners puissent enregistrer ce qu'ils ont dessus. A votre retour, je vous donnerai 8000 points d'énergie."
+   "TEXT": "Il y a eu une bataille récemment. Les Sinigres étaient en train d'exterminer les derniers guerriers du clan des Forwards. Ces derniers ont voulu chercher refuge dans cette base. Une roquette a atteint la tour du bâtiment qui contient toutes les données et j'ai perdu beaucoup d'informations. J'ai toutefois réussi a restaurer une partie.<p> Allez à la base des Reckoners dans le Secteur Volcan pour m'apporter les données restantes. Je vous donnerai un infopack pour que les Reckoners puissent enregistrer ce qu'ils ont dessus. A votre retour, je vous donnerai 8000 points d'énergie."
   },
   "T_L3_B1_1_INCT": {
    "NAME": "Informations pour la base principale non fournies",
@@ -8374,7 +8374,7 @@
   },
   "T_L3_BPAN_2_COMPLETE": {
    "NAME": "Réponse de l'Ultime obtenue",
-   "TEXT": "Les informations sont très intéressantes mais nous ne comprenons pas beaucoup. Qu'est-ce qu'une aîle gravitationnelle par exemple ? Mais nous comprenons certaines choses, nous avons entendu parler du clan des Transporteurs par exemple. Nous devrons envoyé certains d'entre nous dans les secteurs supérieurs pour leur parler."
+   "TEXT": "Les informations sont très intéressantes mais nous ne comprenons pas beaucoup. Qu'est-ce qu'une aile gravitationnelle par exemple ? Mais nous comprenons certaines choses, nous avons entendu parler du clan des Transporteurs par exemple. Nous devrons envoyé certains d'entre nous dans les secteurs supérieurs pour leur parler."
   },
   "T_L3_BPAN_2_FAIL": {
    "NAME": "Informations non apportées dans les temps",
@@ -8426,11 +8426,11 @@
   },
   "T_L3_BPAN_3_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Un autre clan vivait dans ce secteur, les Forward. Ils se battaient contre tout le monde, même s'ils n'étaient pas très puissants. Un jour, un petit groupe de Sinigres est venu ici et les Forward les ont attaqués. Plus tard, le clan des Forward a cessé d'exister. De nombreux Libres sont alors apparus et nous souhaitons qu'ils nous rejoignent. <p>Amenez l'infopack à la base principale, faites que notre annonce soit lue par tous les Libres. Pour ce travail, vous recevrez 3000 points d'énergie à la base principale."
+   "TEXT": "Un autre clan vivait dans ce secteur, les Forwards. Ils se battaient contre tout le monde, même s'ils n'étaient pas très puissants. Un jour, un petit groupe de Sinigres est venu ici et les Forwards les ont attaqués. Plus tard, le clan des Forwards a cessé d'exister. De nombreux Libres sont alors apparus et nous souhaitons qu'ils nous rejoignent. <p>Amenez l'infopack à la base principale, faites que notre annonce soit lue par tous les Libres. Pour ce travail, vous recevrez 3000 points d'énergie à la base principale."
   },
   "T_L3_BPAN_3_INCT": {
    "NAME": "Informations pour les Libres",
-   "TEXT": "Il y a beaucoup de Libres maintenant, mais ils rejoindront plus tard les Envahisseurs ou les Mutants. Cela n'est pas très bon pour nous, nous devons donc faire en sorte qu'ils rejoignent notre clan."
+   "TEXT": "Il y a beaucoup de Libres maintenant, mais ils rejoindront plus tard les Envahisseurs ou la Structure de Reconversion. Ce n'est pas très bon pour nous, nous devons donc faire en sorte qu'ils rejoignent notre clan."
   },
   "T_L3_BPAN_3_IN_B_L3_BASE1": {
    "NAME": "Informations pour les Libres",
@@ -8486,19 +8486,19 @@
   },
   "T_L3_BSC_1_BC": {
    "NAME": "Devenir un Libre",
-   "TEXT": "J'ai rempli les conditions des Mutants, je peux les rejoindre maintenant."
+   "TEXT": "J'ai rempli les conditions de la Structure de Reconversion, je peux la rejoindre maintenant."
   },
   "T_L3_BSC_1_BRIEF": {
    "NAME": "Devenir un Libre",
-   "TEXT": "La base des Mutants pense que la voie de tous les autres clans mènent à une mort certaine et suggère que je quitte ces clans pour les rejoindre."
+   "TEXT": "La base de la Structure de Reconversion pense que la voie de tous les autres clans mènent à une mort certaine et suggère que je quitte ces clans pour les rejoindre."
   },
   "T_L3_BSC_1_COMPLETE": {
-   "NAME": "Conditions des Mutants remplies",
-   "TEXT": "Vous êtes libre maintenant et vous le resterez. Les Mutants ne vous dominent pas, ils ne vous aident que dans votre développement. Vous pouvez les rejoindre."
+   "NAME": "Conditions de la Structure de Reconversion remplies",
+   "TEXT": "Tu es libre maintenant et tu le resteras. La Structure de Reconversion ne te domine pas, elle ne t'aide que dans ton développement. Tu peux la rejoindre."
   },
   "T_L3_BSC_1_GET": {
    "NAME": "Détails sur les conditions d'admission",
-   "TEXT": "Revoyez de nouveau avec soin la voie de votre clan et réalisez qu'elle conduit à une mort certaine. Elle n'implique pas un développement souhaitable et universel. Seuls les Mutants peuvent l'offrir. Quittez le clan et revenez ici."
+   "TEXT": "Revoyez de nouveau avec soin la voie de votre clan et réalisez qu'elle conduit à une mort certaine. Elle n'implique pas un développement souhaitable et universel. Seuls la Structure de Reconversion peut l'offrir. Quittez le clan et revenez ici."
   },
   "T_L3_BSC_1_INCT": {
    "NAME": "Conditions d'admission non remplies",
@@ -8518,7 +8518,7 @@
   },
   "T_L3_BSC_2_BRIEF": {
    "NAME": "Convoquer les Libres",
-   "TEXT": "Mission des Mutants : apporter les annonces à la base des Panzers et au complexe de test des Nargoons. J'obtiendrai 5000 points d'énergie pour cela une fois que je serai revenu à la base des Mutants."
+   "TEXT": "Mission de la Structure de Reconversion : apporter les annonces à la base des Panzers et au complexe de test des Nargoons. J'obtiendrai 5000 points d'énergie pour cela, une fois que je serai revenu à la base de la Structure."
   },
   "T_L3_BSC_2_COMPLETE": {
    "NAME": "Annonces apportées",
@@ -8530,7 +8530,7 @@
   },
   "T_L3_BSC_2_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "De nombreux Libres visitent la base des Panzers et le centre de tests des Nargoons. Certains d'entre eux acceptent leur sort. Ils ne savent pas que ces voies conduisent à une mort certaine, et alors, il est trop tard. <p>Je veux que vous apportiez les infopacks aux bases de ces clans. Faites que tous les Libres sachent qu'il existe une meilleure voie que celles proposées par ces clans. C'est la voie des Mutants ! Une fois les infopacks transmis, revenez ici pour recevoir votre récompense, je vous donnerai 5000 points d'énergie."
+   "TEXT": "De nombreux Libres visitent la base des Panzers et le centre de tests des Nargoons. Certains d'entre eux acceptent leur sort. Ils ne savent pas que ces voies conduisent à une mort certaine, et alors, il est trop tard. <p>Je veux que vous apportiez les infopacks aux bases de ces clans. Faites que tous les Libres sachent qu'il existe une meilleure voie que celles proposées par ces clans. C'est la voie de la Reconversion ! Une fois les infopacks transmis, revenez ici pour recevoir votre récompense, je vous donnerai 5000 points d'énergie."
   },
   "T_L3_BSC_2_INCT": {
    "NAME": "Toutes les annonces aux Libres n'ont pas été délivrées",
@@ -8542,7 +8542,7 @@
   },
   "T_L3_BSC_2_IN_B_L3_IKN": {
    "NAME": "La réponse des Nargoons",
-   "TEXT": "Les Nargoons sont suffisamment forts pour ne pas avoir peur des Mutants. Bien, je vais délivrer l'annonce aux Libres... Ceux qui décideront d'accepter la voie des Mutants sont trop faibles et ne méritent pas de faire partie des Nargoons."
+   "TEXT": "Les Nargoons sont suffisamment forts pour ne pas avoir peur de la Structure de Reconversion. Bien, je vais afficher l'annonce aux Libres... Ceux qui décideront d'accepter la voie de la Structure sont trop faibles et ne méritent pas de faire partie des Nargoons."
   },
   "T_L3_BSC_2__": {
    "NAME": "_DEFAULT_",
@@ -8550,7 +8550,7 @@
   },
   "T_L3_B_10_COMPLETE": {
    "NAME": "Annonce reçue",
-   "TEXT": "Nous avons annoncé que la base des Premiers a besoin d'être ravitaillé régulièrement. Bien qu'ils préférent que les fournitures soient livrés par les Premiers eux-même, ils peuvent peut bien accepter de recevoir par d'autres sources. Sans ravitaillement, la base leur sera perdue. Ce n'est pas une tâche aisée pour vous."
+   "TEXT": "Nous avons annoncé que la base des Premiers a besoin d'être ravitaillé régulièrement. Bien qu'ils préfèrent que les fournitures soient livrés par les Premiers eux-même, ils peuvent peut bien accepter de recevoir par d'autres sources. Sans ravitaillement, la base leur sera perdue. Ce n'est pas une tâche aisée pour vous."
   },
   "T_L3_B_10_INCT": {
    "NAME": "Annonce non reçue",
@@ -8622,10 +8622,10 @@
   },
   "T_L3_B_8_COMPLETE": {
    "NAME": "Les conditions d'admission sont remplies",
-   "TEXT": "Tu es maintenant libre et tu peux nous rejoindre ! Les Mutants ne te lie à aucune condition, tu es libre de te développer comme bon te semble."
+   "TEXT": "Tu es maintenant libre et tu peux nous rejoindre ! La Structure de Reconversion ne te lie à aucune condition, tu te développes comme bon te semble."
   },
   "T_L3_B_8_INCT": {
-   "NAME": "Conditions des Mutants",
+   "NAME": "Conditions de la Structure de Reconversion",
    "TEXT": "Quittez les clans ! C'est le seul moyen pour accomplir la Voie du Véritable Développement !"
   },
   "T_L3_B_9_COMPLETE": {
@@ -8650,7 +8650,7 @@
   },
   "T_L3_FIRST1_INCT": {
    "NAME": "Approvisionnement d'énergie non effectué",
-   "TEXT": "Vous n'avez pas réussi à apporter deux consendateurs d'énergie. Dépêchez-vous, vous le ne regretterez pas. L'arme des Premiers n'est pas facile à obtenir. Hormis les Premiers eux-mêmes, rares sont ceux qui l'ont."
+   "TEXT": "Vous n'avez pas réussi à livrer deux condensateurs d'énergie. Dépêchez-vous, vous le ne regretterez pas. L'arme des Premiers n'est pas facile à obtenir. Hormis les Premiers eux-mêmes, rares sont ceux qui l'ont."
   },
   "T_L3_FIRST1__": {
    "NAME": "_DEFAULT_",
@@ -8686,7 +8686,7 @@
   },
   "T_L3_IKN_1": {
    "NAME": "Les conditions des Nargoons",
-   "TEXT": "Eliminez plusieurs ennemis des Nargoons pour prouver votre loyauté."
+   "TEXT": "Éliminez plusieurs ennemis des Nargoons pour prouver votre loyauté."
   },
   "T_L3_IKN_1_BC": {
    "NAME": "Les conditions des Nargoons",
@@ -8782,7 +8782,7 @@
   },
   "T_L3_IKN_3_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "La confrontation est sur le point de commencer. Nos guerriers intercepteront les Panzers lorsqu'ils se déplaceront avec leur cargaison de l'usine vers la base. Allez au point de rendez-vous. Vous avez une occasion de prouver que vous n'êtes pas seulement un bon coursier, mais également un guerrier ! Lorsque les Panzers apparaitront, essayez d'en détruire autant que vous le pouvez."
+   "TEXT": "La confrontation est sur le point de commencer. Nos guerriers intercepteront les Panzers lorsqu'ils se déplaceront avec leur cargaison de l'usine vers la base. Allez au point de rendez-vous. Vous avez une occasion de prouver que vous n'êtes pas seulement un bon coursier, mais également un guerrier ! Lorsque les Panzers apparaîtront, essayez d'en détruire autant que vous le pouvez."
   },
   "T_L3_IKN_3_INCT": {
    "NAME": "Nos guerriers se tiennent en embuscade",
@@ -8837,7 +8837,7 @@
    "TEXT": "score +100, 1 heure aller et retour"
   },
   "T_L4_BASE_1": {
-   "NAME": "Evacuer la cargaison de la zone dangereuse",
+   "NAME": "Évacuer la cargaison de la zone dangereuse",
    "TEXT": "Allez dans l'infrastructure souterraine et évacuez la cargaison de la zone dangereuse."
   },
   "T_L4_BASE_1.X1": {
@@ -8845,15 +8845,15 @@
    "TEXT": "J'ai trouvé la cargaison dangereuse dans l'infrastructure souterraine. Je dois l'apporter d'urgence à la base principale dans le Secteur des Volcans."
   },
   "T_L4_BASE_1_BC": {
-   "NAME": "Evacuer la cargaison de la zone dangereuse",
+   "NAME": "Évacuer la cargaison de la zone dangereuse",
    "TEXT": "J'ai réussi à évacuer la cargaison dangereuse des tunnels souterrains avant qu'elle n'explose."
   },
   "T_L4_BASE_1_BF": {
-   "NAME": "Evacuer la cargaison de la zone dangereuse",
+   "NAME": "Évacuer la cargaison de la zone dangereuse",
    "TEXT": "Je n'ai pas réussi à arriver à la zone de l'accident à temps. Le système de compression n'était plus opérationnel et la cargaison a explosé en détruisant une partie des tunnels souterrains."
   },
   "T_L4_BASE_1_BRIEF": {
-   "NAME": "Evacuer la cargaison de la zone dangereuse",
+   "NAME": "Évacuer la cargaison de la zone dangereuse",
    "TEXT": "Mission urgente de la base principale : aller dans les tunnels souterrains et trouver les conteneurs contenant de l'anti-matière. La durée est très courte : l'explosion peut détruire les tunnels et tout le secteur sera coupé des ressources."
   },
   "T_L4_BASE_1_COMPLETE": {
@@ -8886,7 +8886,7 @@
   },
   "T_L4_BASE_2": {
    "NAME": "Indiquer la zone pour le système de réparation",
-   "TEXT": "Pour réparer les tunnels souterrains, activez le géopositionneur dans la zone d'effondrement."
+   "TEXT": "Pour réparer les tunnels souterrains, activez le géo-positionneur dans la zone d'effondrement."
   },
   "T_L4_BASE_2.X1": {
    "NAME": "Effondrement localisé",
@@ -8898,11 +8898,11 @@
   },
   "T_L4_BASE_2_BC": {
    "NAME": "Indiquer la zone pour le système de réparation",
-   "TEXT": "Le géopositionneur a été activé avec succès au bon endroit."
+   "TEXT": "Le géo-positionneur a été activé avec succès au bon endroit."
   },
   "T_L4_BASE_2_BF": {
    "NAME": "Indiquer la zone pour le système de réparation",
-   "TEXT": "Je n'ai pas réussi à atteindre la zone et à activer le géopositionneur."
+   "TEXT": "Je n'ai pas réussi à atteindre la zone et à activer le géo-positionneur."
   },
   "T_L4_BASE_2_BRIEF": {
    "NAME": "Indiquer la zone pour le système de réparation",
@@ -8913,12 +8913,12 @@
    "TEXT": "Mission accomplie. Il est temps d'informer l'Ultime des récents événements afin qu'il puisse prendre des mesures adéquates."
   },
   "T_L4_BASE_2_FAIL": {
-   "NAME": "Géopositionneur non placé à temps",
-   "TEXT": "Vous n'avez pas réussi à placer le géopositionneur dans la zone demandée, %NAME. J'ai envoyé un autre Mécanoïde, en espérant qu'il soit plus rapide que vous."
+   "NAME": "Géo-positionneur non placé à temps",
+   "TEXT": "Vous n'avez pas réussi à placer le géo-positionneur dans la zone demandée, %NAME. J'ai envoyé un autre Mécanoïde, en espérant qu'il soit plus rapide que vous."
   },
   "T_L4_BASE_2_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Même si vous n'aimez pas les tunnels souterrains, vous allez devoir y retourner. <p>Atteignez l'endroit où l'un des tunnels de maintenance s'est effondré. Je pense que vous pouvez le trouver rapidement, il suffit de suivre des conduites en acier avec des grilles de sécurtié en bas du tunnel. <p>Je vais vous donner un émetteur de géopositionnement. Activez-le au niveau du passage éboulée puis quittez les lieux. Plus tard, un tunnelier viendra pour réparer la zone endommagée. A votre retour, vous recevrez 6000 points d'énergie."
+   "TEXT": "Même si vous n'aimez pas les tunnels souterrains, vous allez devoir y retourner. <p>Atteignez l'endroit où l'un des tunnels de maintenance s'est effondré. Je pense que vous pouvez le trouver rapidement, il suffit de suivre des conduites en acier avec des grilles de sécurité en bas du tunnel. <p>Je vais vous donner un émetteur de géopositionnement. Activez-le au niveau du passage éboulée puis quittez les lieux. Plus tard, un tunnelier viendra pour réparer la zone endommagée. A votre retour, vous recevrez 6000 points d'énergie."
   },
   "T_L4_BASE_2_INCT": {
    "NAME": "En attente de réparations des tunnels",
@@ -9021,83 +9021,83 @@
    "TEXT": "score +200 , 1 heure aller"
   },
   "T_L4_STONES2": {
-   "NAME": "Eliminer le chef",
+   "NAME": "Éliminer le chef",
    "TEXT": "Recherchez et détruisez le chef des Sauvages."
   },
   "T_L4_STONES2_BC": {
-   "NAME": "Eliminer le chef",
+   "NAME": "Éliminer le chef",
    "TEXT": "L'engin de ANGMAR-26 a été détruit et doit être amené au centre de tests."
   },
   "T_L4_STONES2_BRIEF": {
-   "NAME": "Eliminer le chef",
-   "TEXT": "La mission des Pierres de garde est d'éliminer l'un des chefs des Sauvages. Il s'agit de Angmar-26, et on l'a souvent aperçu à proximité du régulateur climatique. Lorsque son engin sera détruit, Angmar-26 devra être amené au centre de test."
+   "NAME": "Éliminer le chef",
+   "TEXT": "La mission des Pierres de garde est d'éliminer l'un des chefs des Sauvages. Il s'agit de ANGMAR-26, et on l'a souvent aperçu à proximité du régulateur climatique. Lorsque son engin sera détruit, ANGMAR-26 devra être amené au centre de test."
   },
   "T_L4_STONES2_COMPLETE": {
-   "NAME": "Engin de Angmar-26 détruit",
-   "TEXT": "Nous avons un problème. Angmar-26 est en fait le Sinigre perdu."
+   "NAME": "Engin de ANGMAR-26 détruit",
+   "TEXT": "Nous avons un problème. ANGMAR-26 est en fait le Sinigre perdu."
   },
   "T_L4_STONES2_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Vous êtes assez efficace en terre des Sauvages. Vous leur ressembleriez presque! Cela signifie que vous pouvez exécuter ma mission. Bien entendu, les Sauvages pourraient vous tuer ensuite mais c'est votre problème. Vous devez détruire un de leurs chefs, Angmar-26, ennemi juré du clan des Pierres de garde. Vous pouvez le trouver à proximité du régulateur climatique. <p>Je ne sais pas où il se trouve exactement puisque les Sauvages se déplacent continuellement. Vous n'avez rien d'autre à faire? Alors allez-y, trouvez-le et détruisez-le! Il est possible qu'il ne soit pas seul mais cela ne présentera aucun problème pour un guerrier fort et rapide comme vous. Une fois l'engin détruit, ramenez ici Angmar-26."
+   "TEXT": "Vous êtes assez efficace en terre des Sauvages. Vous leur ressembleriez presque! Cela signifie que vous pouvez exécuter ma mission. Bien entendu, les Sauvages pourraient vous tuer ensuite mais c'est votre problème. Vous devez détruire un de leurs chefs, ANGMAR-26, ennemi juré du clan des Pierres de garde. Vous pouvez le trouver à proximité du régulateur climatique. <p>Je ne sais pas où il se trouve exactement puisque les Sauvages se déplacent continuellement. Vous n'avez rien d'autre à faire? Alors allez-y, trouvez-le et détruisez-le! Il est possible qu'il ne soit pas seul mais cela ne présentera aucun problème pour un guerrier fort et rapide comme vous. Une fois l'engin détruit, ramenez ici ANGMAR-26."
   },
   "T_L4_STONES2_INCT": {
-   "NAME": "Angmar-26 toujours actif",
-   "TEXT": "Cet Angmar-26 a gâché de nombreux combats contre nous. Tant que quelque fois je pensais qu'il appartenait au clan des Sinigres. C'est un trop bon guerrier pour le clan des Sauvages."
+   "NAME": "ANGMAR-26 toujours actif",
+   "TEXT": "Cet ANGMAR-26 a gâché de nombreux combats contre nous. Tant que quelque fois je pensais qu'il appartenait au clan des Sinigres. C'est un trop bon guerrier pour le clan des Sauvages."
   },
   "T_L4_STONES2__": {
    "NAME": "_DEFAULT_",
    "TEXT": "score +150, durée illimitée"
   },
   "T_L4_STONES3": {
-   "NAME": "Ramener Angmar-26",
-   "TEXT": "Ramenez Angmar-26 à la base des Sinigres."
+   "NAME": "Ramener ANGMAR-26",
+   "TEXT": "Ramenez ANGMAR-26 à la base des Sinigres."
   },
   "T_L4_STONES3_BC": {
-   "NAME": "Ramener Angmar-26",
-   "TEXT": "J'ai ramené Angmar-26 à la base des Sinigres juste à temps."
+   "NAME": "Ramener ANGMAR-26",
+   "TEXT": "J'ai ramené ANGMAR-26 à la base des Sinigres juste à temps."
   },
   "T_L4_STONES3_BF": {
-   "NAME": "Ramener Angmar-26",
-   "TEXT": "Je n'ai pas réussi à ramener Angmar-26 à la base des Sinigres. Cela peut conduire à des conséquences néfastes."
+   "NAME": "Ramener ANGMAR-26",
+   "TEXT": "Je n'ai pas réussi à ramener ANGMAR-26 à la base des Sinigres. Cela peut conduire à des conséquences néfastes."
   },
   "T_L4_STONES3_BRIEF": {
-   "NAME": "Ramener Angmar-26",
-   "TEXT": "Je ne veux pas que les Pierres de garde soient détruits comme le clan des Forward. Vous devrez ramener ce Sinigre à sa base. Allez-y maintenant !"
+   "NAME": "Ramener ANGMAR-26",
+   "TEXT": "Je ne veux pas que les Pierres de garde soient détruits comme le clan des Forwards. Vous devrez ramener ce Sinigre à sa base. Allez-y maintenant !"
   },
   "T_L4_STONES3_COMPLETE": {
-   "NAME": "Angmar-26 ramené à la base des Sinigres",
+   "NAME": "ANGMAR-26 ramené à la base des Sinigres",
    "TEXT": "Nous avons évité la menace d'un conflit avec les Sinigres. Excellent. Vous ne pouvez même pas imaginer à quel point ils sont dangereux !"
   },
   "T_L4_STONES3_FAIL": {
    "NAME": "L'engin biomécanique n'a pas été apporté à temps à la base des Sinigres",
-   "TEXT": "Vous avez pris trop de temps pour ramener Angmar-26 à la base des Sinigres. Vous pouvez rencontrer des problèmes avec son clan à cause de cela. Vous n'avez rien d'autre à faire, partez !"
+   "TEXT": "Vous avez pris trop de temps pour ramener ANGMAR-26 à la base des Sinigres. Vous pouvez rencontrer des problèmes avec son clan à cause de cela. Vous n'avez rien d'autre à faire, partez !"
   },
   "T_L4_STONES3_GET": {
    "NAME": "Détails sur le mission",
-   "TEXT": "Angmar-26 est en fait un ancien Sinigre et son clan le recherche. Je ne veux pas que les Pierres de garde soient détruits comme le clan des Forward. Vous devrez l'amener à la base des Sinigres mais uniquement à la base secondaire des Sinigres ! Ne vous approchez pas des autres bases et du tunnel de passage avant d'avoir ramené Andmar-26 à son clan. Allez-y maintenant !"
+   "TEXT": "ANGMAR-26 est en fait un ancien Sinigre et son clan le recherche. Je ne veux pas que les Pierres de garde soient détruits comme le clan des Forwards. Vous devrez l'amener à la base des Sinigres mais uniquement à la base secondaire des Sinigres ! Ne vous approchez pas des autres bases et du tunnel de passage avant d'avoir ramené ANGMAR-26 à son clan. Allez-y maintenant !"
   },
   "T_L4_STONES3_INCT": {
-   "NAME": "Angmar-26 n'est pas encore arrivé à la base des Sinigres",
-   "TEXT": "Dépêchez-vous et amenez Angmar-26 à la base des Sinigres. Je ne veux aucun problème avec ces Symbiotes."
+   "NAME": "ANGMAR-26 n'est pas encore arrivé à la base des Sinigres",
+   "TEXT": "Dépêchez-vous et amenez ANGMAR-26 à la base des Sinigres. Je ne veux aucun problème avec ces Symbiotes."
   },
   "T_L4_STONES3_IN_B_L4_B_SINIGR": {
    "NAME": "Renforts pour le clan",
-   "TEXT": "Angmar-26 faisait partie de notre clan mais nous l'avions perdu. Il ne se rappelle de rien après le transfert. C'est une bonne chose de l'avoir ramené. Notre clan s'est renforcé avec un autre guerrier."
+   "TEXT": "ANGMAR-26 faisait partie de notre clan mais nous l'avions perdu. Il ne se rappelle de rien après le transfert. C'est une bonne chose de l'avoir ramené. Notre clan s'est renforcé avec un autre guerrier."
   },
   "T_L4_STONES3__": {
    "NAME": "_DEFAULT_",
    "TEXT": "30 minutes aller"
   },
   "T_L4_STONES4": {
-   "NAME": "Ecraser les Sauvages",
+   "NAME": "Écraser les Sauvages",
    "TEXT": "Détruisez les Sauvages jusqu'à ce que le niveau de leur clan soit inférieur à 3."
   },
   "T_L4_STONES4_BC": {
-   "NAME": "Ecraser les Sauvages",
+   "NAME": "Écraser les Sauvages",
    "TEXT": "J'ai détruit le clan des Sauvages."
   },
   "T_L4_STONES4_BRIEF": {
-   "NAME": "Ecraser les Sauvages",
+   "NAME": "Écraser les Sauvages",
    "TEXT": "C'est une mission compliquée des Pierres de garde : écraser le clan des Sauvages et réduire le niveau pour qu'il soit inférieur à 3. Mission difficile mais qui me permettra d'obtenir un score bien supérieur rapidement."
   },
   "T_L4_STONES4_COMPLETE": {
@@ -9161,12 +9161,12 @@
    "TEXT": "Vous pensez que nous n'avons personne pour les missions ? Un travail est de toute façon fait pour vous. <p>Un groupe de Sauvages se trouve à proximité de l'usine de produits semi-finis. La zone est dégagée et nos forces ne peuvent pas les éliminer sans subir de pertes. Votre mission consiste à trouver ces Sauvages et à les conduire vers l'embuscade. Nos guerriers attendront à l'endroit spécifié.  Ils sont prévenus de votre présence. Si vous réussissez, revenez vers moi."
   },
   "T_L4_TRAIN_STONES2_GET": {
-   "NAME": "Eliminer le chef des Sauvages",
-   "TEXT": "Vous êtes assez efficace sur le sol des Sauvages. Vous leur ressemblez presque ! Cela signifie que vous pouvez exécuter ma mission. Bien entendu, les Sauvages vous tueront ensuite mais c'est votre problème. Vous devez détruire un de leurs chefs, Angmar-26, ennemi juré du clan des Pierres de garde. Vous pouvez le trouver à proximité du régulateur climatique. <p>Je ne sais où il se trouve exactement puisque les Sauvages se déplacent continuellement. Vous n'avez rien d'autre à faire alors allez-y, trouvez-le et détruisez-le.  Il est possible qu'il ne soit pas seul mais cela ne présentera aucun problème pour un guerrier fort et rapide comme vous. Une fois l'engin détruit, ramenez Angmar-26 ici."
+   "NAME": "Éliminer le chef des Sauvages",
+   "TEXT": "Vous êtes assez efficace sur le sol des Sauvages. Vous leur ressemblez presque ! Cela signifie que vous pouvez exécuter ma mission. Bien entendu, les Sauvages vous tueront ensuite mais c'est votre problème. Vous devez détruire un de leurs chefs, ANGMAR-26, ennemi juré du clan des Pierres de garde. Vous pouvez le trouver à proximité du régulateur climatique. <p>Je ne sais où il se trouve exactement puisque les Sauvages se déplacent continuellement. Vous n'avez rien d'autre à faire alors allez-y, trouvez-le et détruisez-le.  Il est possible qu'il ne soit pas seul mais cela ne présentera aucun problème pour un guerrier fort et rapide comme vous. Une fois l'engin détruit, ramenez ANGMAR-26 ici."
   },
   "T_L4_TRAIN_STONES3_BRIEF": {
    "NAME": "Amener le Sinigre",
-   "TEXT": "Je ne souhaite pas que les Pierres de garde soient détruits comme le clan des Forward. Vous devez amener ce Sinigre à leur base. Vous êtes libre et ils ne vous feront pas de mal. Allez-y maintenant !"
+   "TEXT": "Je ne souhaite pas que les Pierres de garde soient détruits comme le clan des Forwards. Vous devez amener ce Sinigre à leur base. Vous êtes libre et ils ne vous feront pas de mal. Allez-y maintenant !"
   },
   "T_L4_TRAIN_STONES3_GET": {
    "NAME": "Détruire les Sauvages",
@@ -9222,7 +9222,7 @@
   },
   "T_L5_CARR_2_BF": {
    "NAME": "Accord avec le clan des Sinigres",
-   "TEXT": "J'ai été trop long à apporter l'infopack. Echec de la mission."
+   "TEXT": "J'ai été trop long à apporter l'infopack. Échec de la mission."
   },
   "T_L5_CARR_2_BRIEF": {
    "NAME": "Accord avec le clan des Sinigres",
@@ -9262,7 +9262,7 @@
   },
   "T_L5_CARR_3_BRIEF": {
    "NAME": "Test d'élimination demandé",
-   "TEXT": "Mission des Transporteurs : trouver et détruire l'engin du Chercheur appelé Istar-214. Après cela, le Mécanoïde doit être amené à la base principale des Transporteurs et je recevrai 12000 points d'énergie."
+   "TEXT": "Mission des Transporteurs : trouver et détruire l'engin du Chercheur appelé ISTAR-214. Après cela, le Mécanoïde doit être amené à la base principale des Transporteurs et je recevrai 12000 points d'énergie."
   },
   "T_L5_CARR_3_COMPLETE": {
    "NAME": "Ennemi détruit",
@@ -9274,7 +9274,7 @@
   },
   "T_L5_CARR_3_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Nous avons des ennemis qui attaquent fréquemment nos convois. Puisque les Sinigres ont refusé, nous travaillerons avec vous. Bien entendu, vous n'êtes pas aussi puissant qu'eux mais vous pouvez quand même faire beaucoup. Vous devez tout d'abord trouver et détruire le Chercheur Istar-214. <p>Ils viennent en réalité rarement dans cette région mais celui-ci est spécial. Il attaque nos convois, détériore les engins cargo et s'enfuit. Nous ne comprenons pas pourquoi il fait cela. Mais vous n'avez pas besoin de comprendre. Trouvez et détruisez ce Chercheur. <p>Je ne sais pas où il se trouve à présent. La dernière fois, il a été vu à proximité du tunnel de passage. Lorsque l'engin Istar-214 sera détruit, ramenez le Mécanoïde ici. Je vous récompenserai par 12000 points d'énergie."
+   "TEXT": "Nous avons des ennemis qui attaquent fréquemment nos convois. Puisque les Sinigres ont refusé, nous travaillerons avec vous. Bien entendu, vous n'êtes pas aussi puissant qu'eux mais vous pouvez quand même faire beaucoup. Vous devez tout d'abord trouver et détruire le Chercheur ISTAR-214. <p>Ils viennent en réalité rarement dans cette région mais celui-ci est spécial. Il attaque nos convois, détériore les engins cargo et s'enfuit. Nous ne comprenons pas pourquoi il fait cela. Mais vous n'avez pas besoin de comprendre. Trouvez et détruisez ce Chercheur. <p>Je ne sais pas où il se trouve à présent. La dernière fois, il a été vu à proximité du tunnel de passage. Lorsque l'engin d'ISTAR-214 sera détruit, ramenez le Mécanoïde ici. Je vous récompenserai par 12000 points d'énergie."
   },
   "T_L5_CARR_3_INCT": {
    "NAME": "Le Chercheur est toujours actif",
@@ -9290,7 +9290,7 @@
   },
   "T_L5_CARR_4_BF": {
    "NAME": "Avertissement",
-   "TEXT": "I failed to deliver all of the infopacks on time. Je n'ai pas réussi à apporter tous les infopacks à temps."
+   "TEXT": "Je n'ai pas réussi à apporter tous les infopacks à temps."
   },
   "T_L5_CARR_4_BRIEF": {
    "NAME": "Avertissement",
@@ -9345,48 +9345,48 @@
    "TEXT": "Annonce transmise à la base principale des Sinigres dans le Secteur Marécages."
   },
   "T_L5_CARR_5": {
-   "NAME": "Prendre la base des Joueurs noirs",
+   "NAME": "Prendre la base des Joueurs Noirs",
    "TEXT": "Détruisez le clan des Joueurs noirs."
   },
   "T_L5_CARR_5_BC": {
    "NAME": "Prendre la base des Joueurs noirs",
-   "TEXT": "J'ai détruit le clan des Joueurs noirs. Ils ont perdu leur base. Les Transporteurs vont probablement l'occuper."
+   "TEXT": "J'ai détruit le clan des Joueurs Noirs. Ils ont perdu leur base. Les Transporteurs vont probablement l'occuper."
   },
   "T_L5_CARR_5_BRIEF": {
-   "NAME": "Prendre la base des Joueurs noirs",
-   "TEXT": "Mission des Transporteurs : réduire le score des Joueurs noirs en dessous du niveau d'existence. La récompense est de 90000 points d'énergie."
+   "NAME": "Prendre la base des Joueurs Noirs",
+   "TEXT": "Mission des Transporteurs : réduire le score des Joueurs Noirs en dessous du niveau d'existence. La récompense est de 90000 points d'énergie."
   },
   "T_L5_CARR_5_COMPLETE": {
-   "NAME": "Le clan des Joueurs noirs est détruit",
+   "NAME": "Le clan des Joueurs Noirs est détruit",
    "TEXT": "Vous avez fait du bon boulot. Même les Sinigres n'auraient pas fait mieux. J'espère que vous ne deviendrez jamais ennemi de notre clan..."
   },
   "T_L5_CARR_5_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Il est bien connu que les Joueurs noirs ont de gros problèmes. Ils seront bientôt complètement éliminés. Nous sommes très intéressés par cela car une autre base sera libre. Nous ne voulons pas nous battre, cela nous ferait dépenser trop de ressources. <p>Nous préférons que vous traitiez avec les Joueurs noirs. Lorsque leur niveau sera inférieur à 2, leur insigne sera supprimé de leur base. Vous pouvez contrôler leur score auprès des Reckoners. <p>Allez-y ! Lorsque le clan des Joueurs noirs sera éliminé, revenez ici pour recevoir votre récompense. Je pense que 90000 points d'énergie constituera une récompense correcte pour ce travail."
+   "TEXT": "Il est bien connu que les Joueurs noirs ont de gros problèmes. Ils seront bientôt complètement éliminés. Nous sommes très intéressés par cela car une autre base sera libre. Nous ne voulons pas nous battre, cela nous ferait dépenser trop de ressources. <p>Nous préférons que vous traitiez avec les Joueurs Noirs. Lorsque leur niveau sera inférieur à 2, leur insigne sera supprimé de leur base. Vous pouvez contrôler leur score auprès des Reckoners. <p>Allez-y ! Lorsque le clan des Joueurs Noirs sera éliminé, revenez ici pour recevoir votre récompense. Je pense que 90000 points d'énergie constituera une récompense correcte pour ce travail."
   },
   "T_L5_CARR_5_INCT": {
-   "NAME": "Les Joueurs noirs sont toujours actifs",
-   "TEXT": "Eliminer le clan entier n'est pas chose facile. 90000 unités, c'est beaucoup trop pour un seul mécanoïde. J'espère que vous y parviendrez."
+   "NAME": "Les Joueurs Noirs sont toujours actifs",
+   "TEXT": "Éliminer le clan entier n'est pas chose facile. 90000 unités, c'est beaucoup trop pour un seul mécanoïde. J'espère que vous y parviendrez."
   },
   "T_L5_RECK_1": {
-   "NAME": "Eliminer les enemis",
-   "TEXT": "Eliminez un groupe de Libres qui attaque le clan."
+   "NAME": "Éliminer les ennemis",
+   "TEXT": "Éliminez un groupe de Libres qui attaque le clan."
   },
   "T_L5_RECK_1_BC": {
-   "NAME": "Eliminer les enemis",
+   "NAME": "Éliminer les ennemis",
    "TEXT": "Les ennemis des Reckoners ont été détruits."
   },
   "T_L5_RECK_1_BF": {
-   "NAME": "Eliminer les enemis",
-   "TEXT": "Les ennemis des Reckoners ont été amenés dans une autre base. Echec de la mission."
+   "NAME": "Éliminer les ennemis",
+   "TEXT": "Les ennemis des Reckoners ont été amenés dans une autre base. Échec de la mission."
   },
   "T_L5_RECK_1_BRIEF": {
-   "NAME": "Eliminer les enemis",
-   "TEXT": "Mission des Reckoners : trouver et détruire un groupe de leurs enemis. Un des Reckoners me conduira auprès d'eux. La base des Reckoners me donnera 10000 points d'énergie si je leur amène les trois ennemis."
+   "NAME": "Éliminer les ennemis",
+   "TEXT": "Mission des Reckoners : trouver et détruire un groupe de leurs ennemis. Un des Reckoners me conduira auprès d'eux. La base des Reckoners me donnera 10000 points d'énergie si je leur amène les trois ennemis."
   },
   "T_L5_RECK_1_COMPLETE": {
    "NAME": "Ennemis éliminés",
-   "TEXT": "Nous n'avons plus d'ennemis parmis les Libres et nous pouvons nous concentrer sur d'autres problèmes. Restez un peu, au cas où nous aurions encore besoin de vous..."
+   "TEXT": "Nous n'avons plus d'ennemis parmi les Libres et nous pouvons nous concentrer sur d'autres problèmes. Restez un peu, au cas où nous aurions encore besoin de vous..."
   },
   "T_L5_RECK_1_FAIL": {
    "NAME": "Ennemis amenés dans une autre base",
@@ -9401,7 +9401,7 @@
    "TEXT": "Les ennemis attaquent toujours des membres de notre clan. Nous n'avons pas beaucoup de ressources, dépêchez-vous !"
   },
   "T_L5_RECK_1_X1": {
-   "NAME": "Eliminer les ennemis",
+   "NAME": "Éliminer les ennemis",
    "TEXT": "Les ennemis des Reckoners ont été détruits."
   },
   "T_L5_RECK_2": {
@@ -9434,7 +9434,7 @@
   },
   "T_L5_RECK_2_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Les Libres que vous avez détruit, ont eu le temps de réduire notre score qui n'était pas extrêmement élevé avant. Etant donné que nous ne pouvions pas nous battre, et encore moins, faire du commerce. <p>Certains de nos congénères ont été transférés, et ils se trouvent maintenant dans la base principale au Secteur Roches. Vous devrez les ramener ici, afin que je puisse leur restaurer la mémoire. Allez-y et apportez-les moi, vous aurez 12000 points d'énergie en récompense."
+   "TEXT": "Les Libres que vous avez détruit, ont eu le temps de réduire notre score qui n'était pas extrêmement élevé avant. Étant donné que nous ne pouvions pas nous battre, et encore moins, faire du commerce. <p>Certains de nos congénères ont été transférés, et ils se trouvent maintenant dans la base principale au Secteur Roches. Vous devrez les ramener ici, afin que je puisse leur restaurer la mémoire. Allez-y et apportez-les moi, vous aurez 12000 points d'énergie en récompense."
   },
   "T_L5_RECK_2_INCT": {
    "NAME": "Les Reckoners attendent dans le Secteur Roches.",
@@ -9538,7 +9538,7 @@
   },
   "T_L5_RECK_5_INCT": {
    "NAME": "Appareil non identifié",
-   "TEXT": "Vous n'avez toujours pas trouvéde quoi est composé cet appareil ? Je me demande si vous pourrez y parvenir, c'est vraiment difficile."
+   "TEXT": "Vous n'avez toujours pas trouvé de quoi est composé cet appareil ? Je me demande si vous pourrez y parvenir, c'est vraiment difficile."
   },
   "T_L5_RECK_5_IN_B_L5_SBUNKER": {
    "NAME": "Appareil identifié",
@@ -9634,10 +9634,10 @@
   },
   "T_L6_CARR_2_FAIL": {
    "NAME": "La déclaration de guerre a expiré",
-   "TEXT": "Pendant que vous trainiez avec l'infopack pour les Chercheurs, j'ai dû envoyer un autre coursier. Il nous reste plus qu'à attendre le commencement de la guerre."
+   "TEXT": "Pendant que vous traîniez avec l'infopack pour les Chercheurs, j'ai dû envoyer un autre coursier. Il nous reste plus qu'à attendre le commencement de la guerre."
   },
   "T_L6_CARR_2_GET": {
-   "NAME": "Détails de la mission details",
+   "NAME": "Détails de la mission",
    "TEXT": "Les Chercheurs restent sur notre route. Ils nous perturbent tant qu'ils doivent être éliminés. Les Sinigres s'y s'ont essayés, si vous le ne saviez pas. Nous avons moins de ressources que les Sinigres. Votre tâche est la suivante. Prenez l'infopack et apportez-le au centre de tests des Chercheurs. Cet infopack contient un avertissement. <p>Si le jour suivant votre livraison un Chercheur nous n'attaque, nous entrerons en guerre en utilisant toutes nos ressources. Si les Chercheurs refusent nos conditions, la guerre commencera immédiatement. Dans ce cas, vous devrez partir sur-le-champ. Vous n'êtes pas un Transporteur, mais c'est plus sûr. Si vous en réchappez, revenez vers moi. Vous aurez un appareil intéressant en récompense, je pense qu'il vous sera utile."
   },
   "T_L6_CARR_2_INCT": {
@@ -9662,7 +9662,7 @@
   },
   "T_L6_CARR_3.X2": {
    "NAME": "Fausses informations apportées aux Sinigres",
-   "TEXT": "J'ai apporté linfopack des Transporteurs aux Sinigres. Mais ils ne veulent pas se battre contre les Chercheurs."
+   "TEXT": "J'ai apporté l'infopack des Transporteurs aux Sinigres. Mais ils ne veulent pas se battre contre les Chercheurs."
   },
   "T_L6_CARR_3_BC": {
    "NAME": "Brouiller les Chercheurs et les Sinigres",
@@ -9734,7 +9734,7 @@
   },
   "T_L6_IK_F1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Je ne reçois habituellement de missions que des membres du clan. Nous ne pouvons pas vous accepter comme un des nôtes en raison des différences entre les générations. Mais j'ai un travail pour vous, qui nécessite un guerrier valeureux mais qui ne fait pas partie de notre clan. Il y a un moment, Notre chef, FINDER-01, nous a quitté avec plusieurs autres Chercheurs. Il s'agissaient des guerriers les plus puissants. <p>Ils ont décidé de trouver leur propre voie et ont refusé d'approvisionner le centre. Personne ne sait où ils se trouvent maintenant. Ceux d'entre nous, qui ont localisé le groupe, ont été détruits. Mais vous n'êtes pas un Chercheur. Tentez de les trouver et de leur apporter le message. Si vous réussissez, revenez ici pour recevoir votre récompense. Je vous donnerai 20000 points d'énergie et l'accès à notre équipement."
+   "TEXT": "Je ne reçois habituellement de missions que des membres du clan. Nous ne pouvons pas vous accepter comme un des nôtres en raison des différences entre les générations. Mais j'ai un travail pour vous, qui nécessite un guerrier valeureux mais qui ne fait pas partie de notre clan. Il y a un moment, Notre chef, FINDER-01, nous a quitté avec plusieurs autres Chercheurs. Il s'agissaient des guerriers les plus puissants. <p>Ils ont décidé de trouver leur propre voie et ont refusé d'approvisionner le centre. Personne ne sait où ils se trouvent maintenant. Ceux d'entre nous, qui ont localisé le groupe, ont été détruits. Mais vous n'êtes pas un Chercheur. Tentez de les trouver et de leur apporter le message. Si vous réussissez, revenez ici pour recevoir votre récompense. Je vous donnerai 20000 points d'énergie et l'accès à notre équipement."
   },
   "T_L6_IK_F1_INCT": {
    "NAME": "Chef introuvable",
@@ -9830,7 +9830,7 @@
   },
   "T_L6_IK_F3_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Je ne sais pas où FINDER-01 trouve de nouvelles idées, mais aucune ne sera concrétisée. Il n'en est cependant pas conscient. Après avoir été battu dans l'Arène, il a inventé une nouvelle \" voie de développement \", liée au transport de cargaisons ! Même le clan des Transporteurs ne l'arrêtent pas. FINDER-01 pense que les Chercheurs sont plus rapides et peuvent mieux y parvenir. <p>Vous avez un engin rapide, essayez de le devancer. Je vous donnerai deux infopacks identiques adressés à l'atelier de fabrication. Si vous devancez FINDER-01 et me ramenez la réponse de l'atelier plus rapidement, notre ancien chef se calmera probablement. Ou bien il inventera autre chose mais je règlerai le problème le cas échéant. Ne détruisez pas son engin. Vous ne devez pas l'empêcher d'accomplir la tâche, simplement le devancer. Cela évitera au clan de se diviser."
+   "TEXT": "Je ne sais pas où FINDER-01 trouve de nouvelles idées, mais aucune ne sera concrétisée. Il n'en est cependant pas conscient. Après avoir été battu dans l'Arène, il a inventé une nouvelle \" voie de développement \", liée au transport de cargaisons ! Même le clan des Transporteurs ne l'arrêtent pas. FINDER-01 pense que les Chercheurs sont plus rapides et peuvent mieux y parvenir. <p>Vous avez un engin rapide, essayez de le devancer. Je vous donnerai deux infopacks identiques adressés à l'atelier de fabrication. Si vous devancez FINDER-01 et me ramenez la réponse de l'atelier plus rapidement, notre ancien chef se calmera probablement. Ou bien il inventera autre chose mais je réglerai le problème le cas échéant. Ne détruisez pas son engin. Vous ne devez pas l'empêcher d'accomplir la tâche, simplement le devancer. Cela évitera au clan de se diviser."
   },
   "T_L6_IK_F3_INCT": {
    "NAME": "Le chef des Chercheurs doit être devancé",
@@ -9845,7 +9845,7 @@
    "TEXT": "durée illimitée"
   },
   "T_L6_IK_F4": {
-   "NAME": "Diagnotic de FINDER-01",
+   "NAME": "Diagnostic de FINDER-01",
    "TEXT": "Détruisez FINDER-01 et ramenez-le à la base principale dans le Secteur Roches."
   },
   "T_L6_IK_F4.X1": {
@@ -9898,23 +9898,23 @@
   },
   "T_L7_BASE_1.RUINE": {
    "NAME": "",
-   "TEXT": "<color=green>Mémocristal enregistré. Mission accomplie."
+   "TEXT": "<color=green>Mémo-cristal enregistré. Mission accomplie."
   },
   "T_L7_BASE_1.X1": {
    "NAME": "Exploration des ruines effectuée",
-   "TEXT": "Je suis allé voir les ruines de la base dans le Secteur Marécages. Toutes les informations sont enregistrées dans le mémocristal. Je dois maintenant retourner à la base principale du Secteur Marécage pour recevoir ma récompense."
+   "TEXT": "Je suis allé voir les ruines de la base dans le Secteur Marécages. Toutes les informations sont enregistrées dans le mémo-cristal. Je dois maintenant retourner à la base principale du Secteur Marécage pour recevoir ma récompense."
   },
   "T_L7_BASE_1_BC": {
-   "NAME": "Etude des ruines",
-   "TEXT": "L'enregistrement sur le mémocristal est terminé, je peux retourner à la base principale."
+   "NAME": "Examen des ruines",
+   "TEXT": "L'enregistrement sur le mémo-cristal est terminé, je peux retourner à la base principale."
   },
   "T_L7_BASE_1_BF": {
-   "NAME": "Etude des ruines",
+   "NAME": "Examen des ruines",
    "TEXT": "Le temps imparti par la base est écoulé."
   },
   "T_L7_BASE_1_BRIEF": {
-   "NAME": "Etude des ruines",
-   "TEXT": "Mission de la base principale : aller aux ruines de la base avec un mémocristal et y rester jusqu'à ce que l'enregistrement soit terminé."
+   "NAME": "Examen des ruines",
+   "TEXT": "Mission de la base principale : aller aux ruines de la base avec un mémo-cristal et y rester jusqu'à ce que l'enregistrement soit terminé."
   },
   "T_L7_BASE_1_COMPLETE": {
    "NAME": "Les ruines sont étudiées",
@@ -9926,11 +9926,11 @@
   },
   "T_L7_BASE_1_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Une autre base devait se trouver dans ce secteur. Quelque chose s'est passé, une importante explosion a détruit complètement la base. De puissantes anomalies nous ont empêché d'y aller et de trouver l'origine de l'accident. Un Reckoner est récemment venu et a dit que les effets des anomalies ont diminué et que nous pouvions nous y rendre. <p>Je vais vous donner un mémocristal, allez-y et enregistrez tout ce que vous pouvez avant que la situation ne s'empire. L'enregistrement commencera automatiquement, vous devrez vous déplacer rapidement à l'intérieur de la zone pour enregistrer plus de données. Après cela, revenez ici et vous recevrez 30000 points d'énergie pour ce travail."
+   "TEXT": "Une autre base devait se trouver dans ce secteur. Quelque chose s'est passé, une importante explosion a détruit complètement la base. De puissantes anomalies nous ont empêché d'y aller et de trouver l'origine de l'accident. Un Reckoner est récemment venu et a dit que les effets des anomalies ont diminué et que nous pouvions nous y rendre. <p>Je vais vous donner un mémo-cristal, allez-y et enregistrez tout ce que vous pouvez avant que la situation ne s'empire. L'enregistrement commencera automatiquement, vous devrez vous déplacer rapidement à l'intérieur de la zone pour enregistrer plus de données. Après cela, revenez ici et vous recevrez 30000 points d'énergie pour ce travail."
   },
   "T_L7_BASE_1_INCT": {
    "NAME": "Les ruines n'ont pas été étudiées",
-   "TEXT": "Le mémocristal doit enregistrer tout ce que vos capteurs détectent. Mais il ne commencera l'enregistrement que lorsque vous vous trouverez dans la zone du sinistre. Allez-y."
+   "TEXT": "Le mémo-cristal doit enregistrer tout ce que vos capteurs détectent. Mais il ne commencera l'enregistrement que lorsque vous vous trouverez dans la zone du sinistre. Allez-y."
   },
   "T_L7_BASE_1__": {
    "NAME": "_DEFAULT_",
@@ -9994,7 +9994,7 @@
   },
   "T_L7_KA_1_COMPLETE": {
    "NAME": "Requête formulée à l'Ultime",
-   "TEXT": "Il semble que les Créateurs n'avaient pas sondé les profondeurs de la planète, ou alors, cette menace a dû apparaitre plus tard. Les informations que nous avons demandé sont introuvables. Nous allons devoir augmenter la protection du bouclier d'énergie."
+   "TEXT": "Il semble que les Créateurs n'avaient pas sondé les profondeurs de la planète, ou alors, cette menace a dû apparaître plus tard. Les informations que nous avons demandé sont introuvables. Nous allons devoir augmenter la protection du bouclier d'énergie."
   },
   "T_L7_KA_1_FAIL": {
    "NAME": "Requête à l'Ultime non livré dans les temps",
@@ -10066,7 +10066,7 @@
   },
   "T_L7_REST_2_BF": {
    "NAME": "Alliance",
-   "TEXT": "L'infopack n'a pas été apporté à temps. Echec de la mission."
+   "TEXT": "L'infopack n'a pas été apporté à temps. Échec de la mission."
   },
   "T_L7_REST_2_BRIEF": {
    "NAME": "Alliance",
@@ -10118,7 +10118,7 @@
   },
   "T_L7_REST_3_COMPLETE": {
    "NAME": "Duel avec le guerrier Sinigre",
-   "TEXT": "Excellent, ils acceptent le duel. Mlaheureusement, nos meilleurs guerriers sont absents. Si vous le souhaitez, allez à l'Arène dans le Secteur Arctique et combattez ce Sinigre. Vous êtes un ami de notre clan. Le Sinigre attend sur moi pour choisir quelqu'un de mon clan. Si vous pensez que vous pouvez le battre, allez dans l'Arène."
+   "TEXT": "Excellent, ils acceptent le duel. Malheureusement, nos meilleurs guerriers sont absents. Si vous le souhaitez, allez à l'Arène dans le Secteur Arctique et combattez ce Sinigre. Vous êtes un ami de notre clan. Le Sinigre attend sur moi pour choisir quelqu'un de mon clan. Si vous pensez que vous pouvez le battre, allez dans l'Arène."
   },
   "T_L7_REST_3_FAIL": {
    "NAME": "Duel avec le guerrier Sinigre",
@@ -10166,7 +10166,7 @@
   },
   "T_L7_REST_4_GET": {
    "NAME": "Détails sur la mission",
-   "TEXT": "Nous avons des  projets qui nécessitent la présence de l'ensemble du clan. Mais nous ne pouvons pas les réaliser. Certains de nos guerrriers sont partis en chasse contre un Libre puissant dans un autre secteur et ils ont disparu. Il est important de les retrouver, si vous les voyez, dites leurs de revenir, et si ils ont été abattus, ramenez-les ici.  <p>Vous pouvez prendre un de mes engins pour cette mission, ou recevoir 80000 points d'énergie. A vous de choisir. <p>Vous pouvez essayez de trouver des informations pour les localiser à la base principale des Reckoners au Secteur Désert. Voici la liste de ceux que vous devez rechercher :  <p> MESTR-014 <p> RETRAN-02 <p> RETRAN-08"
+   "TEXT": "Nous avons des  projets qui nécessitent la présence de l'ensemble du clan. Mais nous ne pouvons pas les réaliser. Certains de nos guerriers sont partis en chasse contre un Libre puissant dans un autre secteur et ils ont disparu. Il est important de les retrouver, si vous les voyez, dites leurs de revenir, et si ils ont été abattus, ramenez-les ici.  <p>Vous pouvez prendre un de mes engins pour cette mission, ou recevoir 80000 points d'énergie. A vous de choisir. <p>Vous pouvez essayez de trouver des informations pour les localiser à la base principale des Reckoners au Secteur Désert. Voici la liste de ceux que vous devez rechercher :  <p> MESTR-014 <p> RETRAN-02 <p> RETRAN-08"
   },
   "T_L7_REST_4_INCT": {
    "NAME": "Les Restricteurs perdus ne sont pas retrouvés",
