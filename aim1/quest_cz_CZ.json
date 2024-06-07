@@ -102,7 +102,7 @@
   },
   "B_L1_BASE2": {
    "NAME": "Záložní základna",
-   "TEXT": "<image:BLD_BASE2.JPG> Komplex, který disponuje všemi funkcemi hlavní základny, ovšem plní pouze ty, které jsou nezbytně nutné. Například kluzáky a zbraně se vyrábějí výhradně na hlavní základně, ale v případě potřeby může jejich výroba naběhnout také na základně záložní."
+   "TEXT": "<image:BLD_BASE2.JPG> Komplex, který disponuje všemi funkcemi hlavní základny, ovšem plní pouze ty, které jsou nezbytně nutné. Například kluzáky a zbraně se vyrábějí výhradně na hlavní základně, ale v případě potřeby může jejich výroba naběhnout také na základně záložní.\r\n"
   },
   "B_L1_CEH": {
    "NAME": "Montážní dílna",
@@ -118,7 +118,7 @@
   },
   "B_L1_KA": {
    "NAME": "Regulátor podnebí",
-   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí."
+   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí.\r\n"
   },
   "B_L1_MINE1": {
    "NAME": "Těžební systém 1",
@@ -158,7 +158,7 @@
   },
   "B_L2_BASE2": {
    "NAME": "Záložní základna",
-   "TEXT": "<image:MOD_BLD_MAIN_BASE> Komplex, který disponuje všemi funkcemi hlavní základny, ovšem plní pouze ty, které jsou nezbytně nutné. Například kluzáky a zbraně se vyrábějí výhradně na hlavní základně, ale v případě potřeby může jejich výroba naběhnout také na základně záložní."
+   "TEXT": "<image:MOD_BLD_MAIN_BASE> Komplex, který disponuje všemi funkcemi hlavní základny, ovšem plní pouze ty, které jsou nezbytně nutné. Například kluzáky a zbraně se vyrábějí výhradně na hlavní základně, ale v případě potřeby může jejich výroba naběhnout také na základně záložní.\r\n"
   },
   "B_L2_BUNKER": {
    "NAME": "Bunkr Prvních",
@@ -190,7 +190,7 @@
   },
   "B_L2_PLANT_PF": {
    "NAME": "Závod na polotovary",
-   "TEXT": "<image:MOD_BLD_PFZ> Tento závod vyrábí součástky, které se pak posílají na obchodně-montážní základny, kde se z nich vyrábí plnohodnotné předměty. Velká část polotovarů je dosti rozměrná a nelze je přepravovat kluzáky, musí být proto použito podzemních komunikací."
+   "TEXT": "<image:MOD_BLD_PFZ> Tento závod vyrábí součástky, které se pak posílají na obchodně-montážní základny, kde se z nich vyrábí plnohodnotné předměty. Velká část polotovarů je dosti rozměrná a nelze je přepravovat kluzáky, musí být proto použito podzemních komunikací.\r\n"
   },
   "B_L2_PLANT_RECYCLE": {
    "NAME": "Zpracovatelský závod",
@@ -198,11 +198,11 @@
   },
   "B_L2_PLANT_RM": {
    "NAME": "Továrna na spotřební výrobky",
-   "TEXT": "<image:MOD_BLD_ZRM> Tyto závody vyrábějí neustále vše, co je nezbytné, ve velkém množství. Mimoto zásobují energií celé Pásmo."
+   "TEXT": "<image:MOD_BLD_ZRM> Tyto závody vyrábějí neustále vše, co je nezbytné, ve velkém množství. Mimoto zásobují energií celé Pásmo.\r\n"
   },
   "B_L2_SC": {
    "NAME": "Hlavní základna Změny struktury",
-   "TEXT": "<image:ORG_PANZER.tga><image:MOD_BLD_MAIN_BASE>Na rozdíl od standardní základny poskytuje základna každé organizace další funkce, které jsou pro každou z nich jedinečné. V některých případech může být přístup k této základně či organizaci z nějakého důvodu omezen. Zde se můžete seznámit s cílem Změny struktury a vstoupit do klanu."
+   "TEXT": "<image:ORG_PANZER.tga><image:MOD_BLD_MAIN_BASE>Na rozdíl od standardní základny poskytuje základna každé organizace další funkce, které jsou pro každou z nich jedinečné. V některých případech může být přístup k této základně či organizaci z nějakého důvodu omezen. Zde se můžete seznámit s cílem Změny struktury a vstoupit do klanu.\r\n"
   },
   "B_L2_SPHERE": {
    "NAME": "Aréna",
@@ -210,7 +210,7 @@
   },
   "B_L2_TUNNEL": {
    "NAME": "Předávací tunel",
-   "TEXT": "<image:MOD_BLD_TUNNEL> Systém umožňující okamžitou přepravu předmětů na jiná místa vesmíru. Všechny tunely jsou vzájemně propojené pevným přepravním vektorem a předávání může probíhat pouze z jednoho tunelu do druhého."
+   "TEXT": "<image:MOD_BLD_TUNNEL> Systém umožňující okamžitou přepravu předmětů na jiná místa vesmíru. Všechny tunely jsou vzájemně propojené pevným přepravním vektorem a předávání může probíhat pouze z jednoho tunelu do druhého.\r\n"
   },
   "B_L2_ZAR1": {
    "NAME": "Údržbářská plošina 1",
@@ -230,7 +230,7 @@
   },
   "B_L3_BPAN": {
    "NAME": "Záložní základna Panzerovců",
-   "TEXT": "<image:MOD_BLD_MAIN_BASE><image:MOD_BLD_MAIN_BASE> Zde se můžete seznámit s cílem Panzerovců a vstoupit do jejich klanu."
+   "TEXT": "<image:MOD_BLD_MAIN_BASE><image:MOD_BLD_MAIN_BASE> Zde se můžete seznámit s cílem Panzerovců a vstoupit do jejich klanu.\r\n"
   },
   "B_L3_ENTRANCE": {
    "NAME": "Ventilační systém",
@@ -250,7 +250,7 @@
   },
   "B_L3_KA": {
    "NAME": "Regulátor podnebí",
-   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí."
+   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí.\r\n"
   },
   "B_L3_MINE1": {
    "NAME": "Těžební systém 1",
@@ -266,7 +266,7 @@
   },
   "B_L3_PLANT_RECYCLE": {
    "NAME": "Zpracovatelský závod",
-   "TEXT": "<image:MOD_BLD_PRZ>Továrna na zpracování surovin získaných z těžebních systémů. Kromě toho také zpracovává sběrné suroviny a odpady."
+   "TEXT": "<image:MOD_BLD_PRZ>Továrna na zpracování surovin získaných z těžebních systémů. Kromě toho také zpracovává sběrné suroviny a odpady.\r\n"
   },
   "B_L3_PLANT_RM": {
    "NAME": "Továrna na spotřební výrobky",
@@ -274,11 +274,11 @@
   },
   "B_L3_SC": {
    "NAME": "Záložní základna Změny struktury",
-   "TEXT": "<image:ORG_SC.tga><image:MOD_BLD_MAIN_BASE>Zde se můžete seznámit s cílem Změny struktury a vstoupit do klanu."
+   "TEXT": "<image:ORG_SC.tga><image:MOD_BLD_MAIN_BASE>Zde se můžete seznámit s cílem Změny struktury a vstoupit do klanu.\r\n"
   },
   "B_L3_SPHERE": {
    "NAME": "Aréna",
-   "TEXT": "<image:MOD_BLD_ARENA>Omezený prostor arény je uzavřený před jakýmikoliv vnějšími vlivy, kdysi sloužil k testování nových typů zbraní a ochrany. Nyní plní novou funkci. Mechanoidi si tu často krátí chvíli souboji a skupinovými šarvátkami."
+   "TEXT": "<image:MOD_BLD_ARENA>Omezený prostor arény je uzavřený před jakýmikoliv vnějšími vlivy, kdysi sloužil k testování nových typů zbraní a ochrany. Nyní plní novou funkci. Mechanoidi si tu často krátí chvíli souboji a skupinovými šarvátkami.\r\n"
   },
   "B_L3_TUNNEL": {
    "NAME": "Předávací tunel",
@@ -298,7 +298,7 @@
   },
   "B_L4_BASE": {
    "NAME": "Hlavní  základna",
-   "TEXT": "<image:MOD_BLD_MAIN_BASE>Tento komplex je tvořen informačním střediskem, montážními dílnami a sklady. Zde se shromažďují a zpracovávají informace, vyvíjejí kluzáky, zbraně aj. Kromě toho zde mechanoidi dostávají úkoly, obchodují tu, opravují kluzáky a doplňují munici."
+   "TEXT": "<image:MOD_BLD_MAIN_BASE>Tento komplex je tvořen informačním střediskem, montážními dílnami a sklady. Zde se shromažďují a zpracovávají informace, vyvíjejí kluzáky, zbraně aj. Kromě toho zde mechanoidi dostávají úkoly, obchodují tu, opravují kluzáky a doplňují munici.\r\n"
   },
   "B_L4_B_RECKONERS": {
    "NAME": "Záložní základna Počtářů",
@@ -306,7 +306,7 @@
   },
   "B_L4_B_SC": {
    "NAME": "Záložní základna Změny struktury",
-   "TEXT": "<image:ORG_SC.tga><image:MOD_BLD_MAIN_BASE>Zde se můžete seznámit s cíli Změny struktury a vstoupit do klanu."
+   "TEXT": "<image:ORG_SC.tga><image:MOD_BLD_MAIN_BASE>Zde se můžete seznámit s cíli Změny struktury a vstoupit do klanu.\r\n"
   },
   "B_L4_B_SINIGR": {
    "NAME": "Záložní základna Sinigerů",
@@ -322,7 +322,7 @@
   },
   "B_L4_KA": {
    "NAME": "Regulátor podnebí",
-   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí."
+   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí.\r\n"
   },
   "B_L4_MINE1": {
    "NAME": "Těžební systém 1",
@@ -338,7 +338,7 @@
   },
   "B_L4_PLANT_RECYCLE": {
    "NAME": "Zpracovatelský závod",
-   "TEXT": "<image:MOD_BLD_PRZ>Továrna na zpracování surovin získaných z těžebních systémů. Kromě toho také zpracovává sběrné suroviny a odpady."
+   "TEXT": "<image:MOD_BLD_PRZ>Továrna na zpracování surovin získaných z těžebních systémů. Kromě toho také zpracovává sběrné suroviny a odpady.\r\n"
   },
   "B_L4_PLANT_RM": {
    "NAME": "Továrna na spotřební výrobky",
@@ -346,7 +346,7 @@
   },
   "B_L4_SPHERE": {
    "NAME": "Aréna",
-   "TEXT": "<image:MOD_BLD_ARENA>Omezený prostor arény je uzavřený před jakýmikoliv vnějšími vlivy, kdysi sloužil k testování nových typů zbraní a ochrany. Nyní plní novou funkci. Mechmindi si tu často krátí chvíli souboji a skupinovými šarvátkami."
+   "TEXT": "<image:MOD_BLD_ARENA>Omezený prostor arény je uzavřený před jakýmikoliv vnějšími vlivy, kdysi sloužil k testování nových typů zbraní a ochrany. Nyní plní novou funkci. Mechmindi si tu často krátí chvíli souboji a skupinovými šarvátkami.\r\n"
   },
   "B_L4_TRAIN_STONES": {
    "NAME": "Zkušební komplex Strážných kamenů",
@@ -370,7 +370,7 @@
   },
   "B_L5_BASE1": {
    "NAME": "Hlavní základna",
-   "TEXT": "<image:MOD_BLD_MAIN_BASE>Tento komplex je tvořen informačním střediskem, montážními dílnami a sklady. Zde se shromažďují a zpracovávají informace, vyvíjejí kluzáky, zbraně aj. Kromě toho zde mechanoidi dostávají úkoly, obchodují tu, opravují kluzáky a doplňují munici."
+   "TEXT": "<image:MOD_BLD_MAIN_BASE>Tento komplex je tvořen informačním střediskem, montážními dílnami a sklady. Zde se shromažďují a zpracovávají informace, vyvíjejí kluzáky, zbraně aj. Kromě toho zde mechanoidi dostávají úkoly, obchodují tu, opravují kluzáky a doplňují munici.\r\n\r\n"
   },
   "B_L5_BLACKGAMERS": {
    "NAME": "Hlavní základna Černých hráčů",
@@ -394,7 +394,7 @@
   },
   "B_L5_KA": {
    "NAME": "Regulátor podnebí",
-   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí."
+   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí.\r\n"
   },
   "B_L5_MINE1": {
    "NAME": "Těžební systém 1",
@@ -462,7 +462,7 @@
   },
   "B_L6_KA": {
    "NAME": "Regulátor podnebí",
-   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí."
+   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí.\r\n"
   },
   "B_L6_MINE1": {
    "NAME": "Těžební systém 1",
@@ -494,7 +494,7 @@
   },
   "B_L6_ZAR3": {
    "NAME": "Údržbářská plošina 3",
-   "TEXT": "<image:MOD_BLD_CHARGE> Toto zařízení je určeno k pravidelné údržbě kluzáků a k doplňování jejich munice. Kromě toho plošina zajišťuje okamžitou obnovu ochranných štítů."
+   "TEXT": "<image:MOD_BLD_CHARGE> Toto zařízení je určeno k pravidelné údržbě kluzáků a k doplňování jejich munice. Kromě toho plošina zajišťuje okamžitou obnovu ochranných štítů.\r\n"
   },
   "B_L7_BASE01": {
    "NAME": "Hlavní základna",
@@ -502,7 +502,7 @@
   },
   "B_L7_BASE1": {
    "NAME": "Hlavní základna",
-   "TEXT": "<image:MOD_BLD_MAIN_BASE>I přes nesčetné pokusy se žádnému z klanů nikdy nepodařilo získat na delší dobu kontrolu nad touto základnou."
+   "TEXT": "<image:MOD_BLD_MAIN_BASE>I přes nesčetné pokusy se žádnému z klanů nikdy nepodařilo získat na delší dobu kontrolu nad touto základnou.\r\n"
   },
   "B_L7_ENTRANCE": {
    "NAME": "Ventilační systém",
@@ -514,7 +514,7 @@
   },
   "B_L7_KA": {
    "NAME": "Regulátor podnebí",
-   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí."
+   "TEXT": "<image:MOD_BLD_KA_MAIN> Velký komplex, jehož jednotlivé části jsou rozptýlené po celém sektoru. Hlavním účelem regulátoru podnebí je udržovat stabilní podnebí a provádět pravidelné změny počasí.\r\n"
   },
   "B_L7_MINE1": {
    "NAME": "Těžební systém 1",
@@ -554,7 +554,7 @@
   },
   "B_L7_ZAR3": {
    "NAME": "Údržbářská plošina 3",
-   "TEXT": "<image:MOD_BLD_CHARGE>Toto zařízení je určeno k pravidelné údržbě kluzáků a k doplňování jejich munice. Kromě toho plošina zajišťuje okamžitou obnovu ochranných štítů."
+   "TEXT": "<image:MOD_BLD_CHARGE>Toto zařízení je určeno k pravidelné údržbě kluzáků a k doplňování jejich munice. Kromě toho plošina zajišťuje okamžitou obnovu ochranných štítů.\r\n"
   },
   "B_L8_LAB": {
    "NAME": "Externí laboratoř",
@@ -970,7 +970,7 @@
   },
   "EQP_ZERO_ARMOR_S1": {
    "NAME": "Absorpční pancíř",
-   "TEXT": "Tento technicky výjimečný pancíř tvořený absorpčními reaktory a absorpčními moduly dokáže pohltit jakýkoliv typ energie. Nevýhodou tohoto pancíře je to, že ničí energetické kanály, pokud je tok energie příliš silný, a také to, že se při nadměrném používání rychle opotřebí spínače. Tento pancíř je také velice těžký, avšak poskytuje nejlepší ochranu ze všech."
+   "TEXT": "Tento technicky výjimečný pancíř tvořený absorpčními reaktory a absorpčními moduly dokáže pohltit jakýkoliv typ energie. Nevýhodou tohoto pancíře je to, že ničí energetické kanály, pokud je tok energie příliš silný, a také to, že se při nadměrném používání rychle opotřebí spínače. Tento pancíř je také velice těžký, avšak poskytuje nejlepší ochranu ze všech.\r\n"
   },
   "EQP_ZERO_ARMOR_S2": {
    "NAME": "Absorpční pancíř",
@@ -1354,7 +1354,7 @@
   },
   "INFO_GENERATION3": {
    "NAME": "Třetí generace mechanoidů",
-   "TEXT": "<image:MOD_TOV_MECHMIND>Když Nejvyšší vytvořil třetí generaci, použil organické technologie Arlingů převzaté z projektu, který Tvůrci uzavřeli. Touto cestou vzniklí mechanoidi jsou od zbývajících výrazně odlišní. Vždy si volí biomechanické kluzáky, které se objevily současně s touto generací. Rozhodně ale nejsou výrazně odlišní od organických symbiontů, ani od pravých mechanoidů s molekulotronickým původem.<p>Nejneobvyklejší část z nich vytvořila klan Sinigerů. Jsou to velice silní symbionti s vlastními cíli, které nikdo jiný nedokáže pochopit. Nejvyšší považuje třetí generaci za chybnou, ačkoliv Sinigerové tvoří nejsilnější klan Pásma - s výjimkou Prvních, kteří jsou prostě lépe organizovaní a lépe vybavení."
+   "TEXT": "<image:MOD_TOV_MECHMIND>Když Nejvyšší vytvořil třetí generaci, použil organické technologie Arlingů převzaté z projektu, který Tvůrci uzavřeli. Touto cestou vzniklí mechanoidi jsou od zbývajících výrazně odlišní. Vždy si volí biomechanické kluzáky, které se objevily současně s touto generací. Rozhodně ale nejsou výrazně odlišní od organických symbiontů, ani od pravých mechanoidů s molekulotronickým původem.<p>Nejneobvyklejší část z nich vytvořila klan Sinigerů. Jsou to velice silní symbionti s vlastními cíli, které nikdo jiný nedokáže pochopit. Nejvyšší považuje třetí generaci za chybnou, ačkoliv Sinigerové tvoří nejsilnější klan Pásma - s výjimkou Prvních, kteří jsou prostě lépe organizovaní a lépe vybavení.\r\n"
   },
   "INFO_GENERATION4": {
    "NAME": "Čtvrtá generace mechanoidů",
@@ -1386,7 +1386,7 @@
   },
   "INFO_LAB1": {
    "NAME": "Zpráva datovaná 15.08.2420",
-   "TEXT": "<color:0x80FF>Odesilatel: Koordinátor Pásma-4, Země.<p>\r\nPříjemce: S-HD 76700-4, výzkumné středisko. <color><p>\r\nPříkaz vedoucímu střediska: Zastavte systém \"Nejvyššího\" a vypněte všechny procesy v Pásmu-4. Netřeba provádět žádnou akci, než se vyjasní situace s Arlingy."
+   "TEXT": "<color:0x80FF>Odesilatel: Koordinátor Pásma-4, Země.<p>\r\nPříjemce: S-HD 76700-4, výzkumné středisko. <color><p>\r\nPříkaz vedoucímu střediska: Zastavte systém \"Nejvyššího\" a vypněte všechny procesy v Pásmu-4. Netřeba provádět žádnou akci, než se vyjasní situace s Arlingy.\r\n"
   },
   "INFO_LAB2": {
    "NAME": "Zpráva datovaná 12.09.2420",
@@ -1398,7 +1398,7 @@
   },
   "INFO_LAB4": {
    "NAME": "Zpráva datovaná 24.07.2502",
-   "TEXT": "<color:0x80FF>Odesilatel: hvězdná archa \"Aurora\".<p>\r\nPříjemce: Všichni, kdo nás mohou slyšet!<color><p>\r\nKolonie Aurora v systému HD 76700 se nemůže spojit se Zemí. Předejte prosím naše souřadnice na Zemi: S-HD 76700-3."
+   "TEXT": "<color:0x80FF>Odesilatel: hvězdná archa \"Aurora\".<p>\r\nPříjemce: Všichni, kdo nás mohou slyšet!<color><p>\r\nKolonie Aurora v systému HD 76700 se nemůže spojit se Zemí. Předejte prosím naše souřadnice na Zemi: S-HD 76700-3.\r\n"
   },
   "INFO_LET_JUMP": {
    "NAME": "Předání tunelem",
@@ -1830,7 +1830,7 @@
   },
   "INT_INF_SHIELD_IS": {
    "NAME": "",
-   "TEXT": "Obrana:"
+   "TEXT": "Obrana: "
   },
   "INT_INPUT_NAME": {
    "NAME": "",
@@ -1990,7 +1990,7 @@
   },
   "INT_ORG_RATING": {
    "NAME": "Hodnocení organizace v tomto sektoru",
-   "TEXT": "Hodnocení=%5.2f"
+   "TEXT": "Hodnocení=%5.2f<p><link:Vstoupit do organizace!=LINKJOIN>"
   },
   "INT_ORG_RELATION_BAD": {
    "NAME": "_DEFAULT_",
@@ -2238,7 +2238,7 @@
   },
   "INT_STAT_KILLED_RATING_IS": {
    "NAME": "_DEFAULT_",
-   "TEXT": "%d hodnocení: <color:4AC64A>%d."
+   "TEXT": " %d hodnocení: <color:4AC64A>%d."
   },
   "INT_STAT_LOSSES": {
    "NAME": "Výdaje",
@@ -2366,7 +2366,7 @@
   },
   "INT_TUNNEL_ACCESS": {
    "NAME": "Přístup udělen",
-   "TEXT": "K přepravě potřebujete 100 energetických jednotek. Kvůli nestabilitě procesu mohou být energetické náklady vyšší. V každém případě stačí 1.000 energetických jednotek. <link:Přepravit!=LINKJUMP>"
+   "TEXT": "K přepravě potřebujete 100 energetických jednotek. Kvůli nestabilitě procesu mohou být energetické náklady vyšší. V každém případě stačí 1.000 energetických jednotek. <link:Přepravit!=LINKJUMP>\r\n"
   },
   "INT_TUNNEL_ACCESS_DENIDED": {
    "NAME": "Přístup zamítnut",
@@ -2666,7 +2666,7 @@
   },
   "MSG_ATTACKED.9": {
    "NAME": "",
-   "TEXT": "Tvůj život v tomto kluzáku se chýlí ke konci."
+   "TEXT": "Tvůj život v tomto kluzáku se chýlí ke konci. "
   },
   "MSG_BEFORE_ENTER_BLACKGAMERS": {
    "NAME": "Vstup do klanu Černých hráčů",
@@ -2755,6 +2755,10 @@
   "MSG_BEFORE_OUT_HUNTERS": {
    "NAME": "Odchod z klanu Lovců",
    "TEXT": "Lovci se nezajímají o to, zda klan opustíte, nebo v něm setrváte. Je to na vás."
+  },
+  "MSG_BEFORE_OUT_INVADERS": {
+   "NAME": "Odchod z klanu Útočníků",
+   "TEXT": "Jestli opustíte klan, stanete se nepřítelem Útočníků! Opravdu to chcete udělat?"
   },
   "MSG_BEFORE_OUT_NARGOONS": {
    "NAME": "Odchod z klanu Nargoonů",
@@ -3486,7 +3490,7 @@
   },
   "MSG_FEAR_RESTRICTORS.4": {
    "NAME": "",
-   "TEXT": "Určitě se ještě setkáme."
+   "TEXT": "Určitě se ještě setkáme. "
   },
   "MSG_FEAR_SINIGR": {
    "NAME": "",
@@ -3874,7 +3878,7 @@
   },
   "MSG_FRIEND_WATCHSTONES.1": {
    "NAME": "",
-   "TEXT": "Strážci kamene nejsou vašimi nepřáteli."
+   "TEXT": "Strážci kamene nejsou vašimi nepřáteli. "
   },
   "MSG_FRIEND_WATCHSTONES.2": {
    "NAME": "",
@@ -4398,7 +4402,7 @@
   },
   "MSG_NOBODY_CARRIERS": {
    "NAME": "",
-   "TEXT": "Konvoj nemůžeme zastavit."
+   "TEXT": "Konvoj nemůžeme zastavit. "
   },
   "MSG_NOBODY_CARRIERS.1": {
    "NAME": "",
@@ -4430,11 +4434,11 @@
   },
   "MSG_NOBODY_ELIMINATORS.3": {
    "NAME": "",
-   "TEXT": "Jsi ztracen!"
+   "TEXT": "Jsi ztracen! "
   },
   "MSG_NOBODY_ELIMINATORS.4": {
    "NAME": "",
-   "TEXT": "Brzy tvůj život v tomhle kluzáku skončí."
+   "TEXT": "Brzy tvůj život v tomhle kluzáku skončí. "
   },
   "MSG_NOBODY_FINDERS": {
    "NAME": "",
@@ -4782,7 +4786,7 @@
   },
   "MSG_P_GR_KILL_1.3": {
    "NAME": "",
-   "TEXT": "Nebyl tak silný. Příště si vybírej doprovod pečlivěji."
+   "TEXT": "Nebyl tak silný. Příště si vybírej doprovod pečlivěji. "
   },
   "MSG_P_GR_KILL_1.4": {
    "NAME": "",
@@ -4966,11 +4970,11 @@
   },
   "MSG_T_L3_IKN_2": {
    "NAME": "Zpráva doručena, očekávejte další.",
-   "TEXT": "Zpráva doručena, očekávejte další."
+   "TEXT": " Zpráva doručena, očekávejte další."
   },
   "MSG_T_L3_IKN_2_1": {
    "NAME": "Zpráva byla doručena všem velitelům",
-   "TEXT": "Zpráva byla doručena všem velitelům."
+   "TEXT": " Zpráva byla doručena všem velitelům."
   },
   "MSG_T_L5_RECK_1.1": {
    "NAME": "",
@@ -5034,7 +5038,7 @@
   },
   "ORG_ELIMINATORS": {
    "NAME": "Ničitelé",
-   "TEXT": "<image:ORG_ELIMINATORS.tga><image:MOD_GL_M3_S_DESTROYER>Klan Ničitelů je velmi starý, je jedním z prvních, které se objevily v tomto sektoru. Pokud si vzpomínám, ihned měli navrch - až do okamžiku, kdy dorazili Divousové. Spolu ještě stále bojují. Taková válka má své výhody: dosahují určitého stupně rovnováhy, takže ostatní se mohou poměrně snadno vyvíjet. <p>Ničitelé obvykle napadají každý pohybující se kluzák ve skupině dvou nebo třech lodí. Jsou poměrně zdatnými bojovníky, ale když už je někdo Ničitel, dávají se před ním ostatní obvykle na ústup."
+   "TEXT": "<image:ORG_ELIMINATORS.tga><image:MOD_GL_M3_S_DESTROYER>Klan Ničitelů je velmi starý, je jedním z prvních, které se objevily v tomto sektoru. Pokud si vzpomínám, ihned měli navrch - až do okamžiku, kdy dorazili Divousové. Spolu ještě stále bojují. Taková válka má své výhody: dosahují určitého stupně rovnováhy, takže ostatní se mohou poměrně snadno vyvíjet. <p>Ničitelé obvykle napadají každý pohybující se kluzák ve skupině dvou nebo třech lodí. Jsou poměrně zdatnými bojovníky, ale když už je někdo Ničitel, dávají se před ním ostatní obvykle na ústup. <link:Join with us!=LINKJOIN>"
   },
   "ORG_ELIMINATORS_MEMBER": {
    "NAME": "Ničitel",
@@ -5050,7 +5054,7 @@
   },
   "ORG_FIRST": {
    "NAME": "První",
-   "TEXT": "<image:ORG_FIRST.tga><image:MOD_GL_M4_S_FIRST2>První jsou nejstarším z existujících klanů. Tvoří je velká skupina mechanoidů, které si Nejvyšší vybral ke svému pokusu vyvinout rozumové schopnosti. Pokus byl úspěšný. <p>I přes veškeré pozdější úpravy mechanoidů, a přestože symbionti objevili osmózu, zůstávají První odlišní od všech ostatních. Dokáží přijímat myšlenky utvářené Nejvyšším v každém sektoru Pásma. Samozřejmě, v úrovni inteligence Nejvyššího a mechanoidů je propastný rozdíl na to, aby mu rozuměli v plném rozsahu. Co se mých znalostí týče, vím, že mají určité komunikační problémy, ale celkově rozumí jeden druhému velmi dobře. Rozhodně dostatečně na to, aby mohl Nejvyšší řídit činnost Prvních mezi mechanoidy a symbionty. Z toho důvodu také jednají s velikou efektivitou. Jsou nejlepšími bojovníky. Jediným, kdo se s nimi může měřit, jsou symbionti z klanu Sinigerů.<p>První se obvykle přemisťují ve skupinách po pěti kluzácích udržujících určité rozestupy. Budete-li mít takové štěstí, že zničíte celou skupinu Prvních, zbývající vás najdou, ať se děje, co se děje."
+   "TEXT": "<image:ORG_FIRST.tga><image:MOD_GL_M4_S_FIRST2>První jsou nejstarším z existujících klanů. Tvoří je velká skupina mechanoidů, které si Nejvyšší vybral ke svému pokusu vyvinout rozumové schopnosti. Pokus byl úspěšný. <p>I přes veškeré pozdější úpravy mechanoidů, a přestože symbionti objevili osmózu, zůstávají První odlišní od všech ostatních. Dokáží přijímat myšlenky utvářené Nejvyšším v každém sektoru Pásma. Samozřejmě, v úrovni inteligence Nejvyššího a mechanoidů je propastný rozdíl na to, aby mu rozuměli v plném rozsahu. Co se mých znalostí týče, vím, že mají určité komunikační problémy, ale celkově rozumí jeden druhému velmi dobře. Rozhodně dostatečně na to, aby mohl Nejvyšší řídit činnost Prvních mezi mechanoidy a symbionty. Z toho důvodu také jednají s velikou efektivitou. Jsou nejlepšími bojovníky. Jediným, kdo se s nimi může měřit, jsou symbionti z klanu Sinigerů.<p>První se obvykle přemisťují ve skupinách po pěti kluzácích udržujících určité rozestupy. Budete-li mít takové štěstí, že zničíte celou skupinu Prvních, zbývající vás najdou, ať se děje, co se děje. <link:Join with us!=LINKJOIN>"
   },
   "ORG_FIRST_MEMBER": {
    "NAME": "První",
@@ -5082,7 +5086,7 @@
   },
   "ORG_NARGOON": {
    "NAME": "Nargooni",
-   "TEXT": "<image:ORG_NARGOON.tga><image:MOD_GL_M2_PA_NARGOON>Úmysly Nargoonů zastaraly a klan nyní hledá nové pole působnosti. Původní úkol byl vcelku prostinký - chránit rasu a zásobovat surovinami zkušební komplexy. Poté se však objevili symbionti a situace se dramaticky změnila, protože se v okolí objevily další rasy. <p> Zkušební komplexy nadále dostávají všechny nezbytné suroviny a specializované klany jsou velice silné a nemají žádnou potřebu nějaké další ochrany. Myslím, že Nargooni buď brzy změní svůj záměr, nebo se úplně rozpustí. Dosud se ale stále mají k světu. <p>Jejich kluzáky vypadají poměrně neohrabaně, což jim ovšem nebrání osadit je dvojicí lehkých zbraní a udržet si přitom neuvěřitelnou obratnost a rychlost. <p>Dnes narazíte na Nargoony všude, jak se věnují všem možným záležitostem, ovšem hlavně bojují se starými nepřáteli."
+   "TEXT": "<image:ORG_NARGOON.tga><image:MOD_GL_M2_PA_NARGOON>Úmysly Nargoonů zastaraly a klan nyní hledá nové pole působnosti. Původní úkol byl vcelku prostinký - chránit rasu a zásobovat surovinami zkušební komplexy. Poté se však objevili symbionti a situace se dramaticky změnila, protože se v okolí objevily další rasy. <p> Zkušební komplexy nadále dostávají všechny nezbytné suroviny a specializované klany jsou velice silné a nemají žádnou potřebu nějaké další ochrany. Myslím, že Nargooni buď brzy změní svůj záměr, nebo se úplně rozpustí. Dosud se ale stále mají k světu. <p>Jejich kluzáky vypadají poměrně neohrabaně, což jim ovšem nebrání osadit je dvojicí lehkých zbraní a udržet si přitom neuvěřitelnou obratnost a rychlost. <p>Dnes narazíte na Nargoony všude, jak se věnují všem možným záležitostem, ovšem hlavně bojují se starými nepřáteli.\r\n"
   },
   "ORG_NARGOON_MEMBER": {
    "NAME": "Nargoon",
@@ -5138,7 +5142,7 @@
   },
   "ORG_SINIGR": {
    "NAME": "Sinigerové",
-   "TEXT": "<image:ORG_SINIGR.tga><image:MOD_GL_S4_SINIGR>Nikdo neví, odkud název tohoto klanu pochází. Možná má svůj původ v jazyce Arling stejně jako název klanu Nargoon. A možná taky ne. Klan Siniger je malou částí třetí generace symbiontů. Nejvyššího potěšilo, že se nestali tak dokonalými, jak měli původně být. Ovšem mechanoidi ani symbionti tento názor nesdílejí. Sinigerové jsou nejsilnějším klanem symbiontů. V současnosti se s nimi nikdo nechce zaplést z nějakého dávného důvodu. Kdysi měli být velkým Pokrokovým klanem, který však nějakou shodou okolností zdegeneroval na Sinigery. Válka trvala jen okamžik. Ti z Pokrokových, kteří dostali příležitost klan opustit, si udrželi své hodnocení. Zbytek byl vynulován a resetován.<p>Resetování není to nejlepší, co se může vaší rase stát; je to něco, čeho je třeba se za každou cenu vyvarovat. A Sinigerové své nepřátele vždy resetují. V současnosti bojují proti všem, kromě Prvních."
+   "TEXT": "<image:ORG_SINIGR.tga><image:MOD_GL_S4_SINIGR>Nikdo neví, odkud název tohoto klanu pochází. Možná má svůj původ v jazyce Arling stejně jako název klanu Nargoon. A možná taky ne. Klan Siniger je malou částí třetí generace symbiontů. Nejvyššího potěšilo, že se nestali tak dokonalými, jak měli původně být. Ovšem mechanoidi ani symbionti tento názor nesdílejí. Sinigerové jsou nejsilnějším klanem symbiontů. V současnosti se s nimi nikdo nechce zaplést z nějakého dávného důvodu. Kdysi měli být velkým Pokrokovým klanem, který však nějakou shodou okolností zdegeneroval na Sinigery. Válka trvala jen okamžik. Ti z Pokrokových, kteří dostali příležitost klan opustit, si udrželi své hodnocení. Zbytek byl vynulován a resetován.<p>Resetování není to nejlepší, co se může vaší rase stát; je to něco, čeho je třeba se za každou cenu vyvarovat. A Sinigerové své nepřátele vždy resetují. V současnosti bojují proti všem, kromě Prvních. <link:Join with us!=LINKJOIN>"
   },
   "ORG_SINIGR_MEMBER": {
    "NAME": "Siniger",
@@ -5154,7 +5158,7 @@
   },
   "ORG_TROOPS": {
    "NAME": "Smečka",
-   "TEXT": "<image:ORG_TROOPS.tga><image:MOD_GL_M4_A_TROOPS>Smečka je skupinou Svobodných bez jakéhokoliv záměru. Mechanoidi či symbionti, kteří jsou jejími členy, mohou mít radikálně různá hodnocení. Kluzáky se mohou také lišit, včetně těch určených ke zvláštním účelům. Smečka bývá obvykle prostorem pro nepřátele klanů nebo pro ty, kteří chtějí působit ve skupině a nepřemýšlejí o následcích svého jednání.<p> Jsou obávanými nepřáteli osamělých kluzáků a malých skupinek plavidel. Smečka téměř vždy útočí a bere veškerý váš majetek. Neposkytnete-li náklad dobrovolně - zničí vás.<p> Kořist je pak rovným dílem rozdělena mezi členy Smečky. Trochu více mohou dostat vůdce a ti, kdo utrpěli větší škody. Mimochodem, zničíte-li vůdce, bude Smečka zmatena a zapomene, kdo byl její nepřítel. Každý se začne starat sám o sebe. Smečky nemají nikdy dlouhého trvání. Klany je mívají jen velice málo v oblibě, což ovšem není žádným překvapením."
+   "TEXT": "<image:ORG_TROOPS.tga><image:MOD_GL_M4_A_TROOPS>Smečka je skupinou Svobodných bez jakéhokoliv záměru. Mechanoidi či symbionti, kteří jsou jejími členy, mohou mít radikálně různá hodnocení. Kluzáky se mohou také lišit, včetně těch určených ke zvláštním účelům. Smečka bývá obvykle prostorem pro nepřátele klanů nebo pro ty, kteří chtějí působit ve skupině a nepřemýšlejí o následcích svého jednání.<p> Jsou obávanými nepřáteli osamělých kluzáků a malých skupinek plavidel. Smečka téměř vždy útočí a bere veškerý váš majetek. Neposkytnete-li náklad dobrovolně - zničí vás.<p> Kořist je pak rovným dílem rozdělena mezi členy Smečky. Trochu více mohou dostat vůdce a ti, kdo utrpěli větší škody. Mimochodem, zničíte-li vůdce, bude Smečka zmatena a zapomene, kdo byl její nepřítel. Každý se začne starat sám o sebe. Smečky nemají nikdy dlouhého trvání. Klany je mívají jen velice málo v oblibě, což ovšem není žádným překvapením. <link:Join with us!=LINKJOIN>"
   },
   "ORG_TROOPS_MEMBER": {
    "NAME": "Lovec Smečky",
@@ -5170,7 +5174,7 @@
   },
   "ORG_WILD": {
    "NAME": "Divousové",
-   "TEXT": "<image:ORG_WILD.tga><image:MOD_GL_S3_A_WILD>Divousům se Divousové neříká jen tak zbůhdarma. Pamatuji si doby, kdy si sami říkávali jinak. Ale po těch událostech v polárním sektoru dostali nové jméno, které se k nim výborně hodilo. Bylo to zároveň v době, kdy všichni pochopili, že symbiontům vyhovují nestandardní rozhodnutí. Několik Divousů napadlo skupinu Nosičů. Důvod byl obvyklý - dejte nám zboží, a budete volní. Nosiči souhlasili, uvolnili veškerý svůj náklad a začali se stahovat. Divousové všechno sebrali, vydali se po stopách Nosičů a všechny je pozabíjeli. Tohle nikdo nedělá, ale je to důvod, proč se jim říká Divousové. Osamocení ve skutečnosti příliš silní nejsou, ale obvykle se pohybují ve skupinách několika útočných kluzáků, a tak představují vážnou hrozbu. V současnosti je celý klan ve válce s Ničiteli, a každý se jim proto raději klidí z cesty. O záměrech Divousů vám toho příliš nepovím. Někdy se mi zdá, že vlastně ani žádné nemají. Potulují se po světě a bojují s každým, kdo jim vstoupí do cesty. Dříve či později narazí na Sinigery, a ti je naprosto vyhladí. Ta doba ale teprve přijde."
+   "TEXT": "<image:ORG_WILD.tga><image:MOD_GL_S3_A_WILD>Divousům se Divousové neříká jen tak zbůhdarma. Pamatuji si doby, kdy si sami říkávali jinak. Ale po těch událostech v polárním sektoru dostali nové jméno, které se k nim výborně hodilo. Bylo to zároveň v době, kdy všichni pochopili, že symbiontům vyhovují nestandardní rozhodnutí. Několik Divousů napadlo skupinu Nosičů. Důvod byl obvyklý - dejte nám zboží, a budete volní. Nosiči souhlasili, uvolnili veškerý svůj náklad a začali se stahovat. Divousové všechno sebrali, vydali se po stopách Nosičů a všechny je pozabíjeli. Tohle nikdo nedělá, ale je to důvod, proč se jim říká Divousové. Osamocení ve skutečnosti příliš silní nejsou, ale obvykle se pohybují ve skupinách několika útočných kluzáků, a tak představují vážnou hrozbu. V současnosti je celý klan ve válce s Ničiteli, a každý se jim proto raději klidí z cesty. O záměrech Divousů vám toho příliš nepovím. Někdy se mi zdá, že vlastně ani žádné nemají. Potulují se po světě a bojují s každým, kdo jim vstoupí do cesty. Dříve či později narazí na Sinigery, a ti je naprosto vyhladí. Ta doba ale teprve přijde. <link:Join with us!=LINKJOIN>"
   },
   "ORG_WILD_MEMBER": {
    "NAME": "Divous",
@@ -5354,11 +5358,11 @@
   },
   "S_BASE_ORG_ENEMY.4": {
    "NAME": "",
-   "TEXT": "Nemáte nic na práci?"
+   "TEXT": "Nemáte nic na práci? "
   },
   "S_BASE_ORG_ENEMY.5": {
    "NAME": "",
-   "TEXT": "<icon:POINT>Takoví jako vy, tu být nemusí."
+   "TEXT": "<icon:POINT>Takoví jako vy, tu být nemusí. "
   },
   "S_BASE_ORG_WELCOME": {
    "NAME": "Uvítání",
@@ -5394,7 +5398,7 @@
   },
   "S_L2_OBELISK_INFO": {
    "NAME": "Informace",
-   "TEXT": "Tady je pár užitečných informací:<p> <icon:POINT><reference:Reset=INFO_PERENOS><p>\r\n<icon:POINT><reference:Symbionti=INFO_SYMBIOT><p>\r\n<icon:POINT><reference:Pásmo=INFO_POLYGON><p>\r\n<icon:POINT><reference:Tvůrci=INFO_CREATORS><p>\r\n<icon:POINT><reference:Cesty v Pásmu=INFO_ROADS><p>\r\n<icon:POINT><reference:Arlingové=INFO_ARLINGS><p>\r\n<icon:POINT><reference:Ochrana budov=INFO_BUILDINGS_SHIELD><p>\r\n<icon:POINT><reference:První generace=INFO_GENERATION1><p><icon:POINT><reference:Druhá generace=INFO_GENERATION2><p><icon:POINT><reference:Třetí generace=INFO_GENERATION3><p><icon:POINT><reference:Čtvrtá generace=INFO_GENERATION4>"
+   "TEXT": "Tady je pár užitečných informací:<p> <icon:POINT><reference:Reset=INFO_PERENOS><p>\r\n<icon:POINT><reference:Symbionti=INFO_SYMBIOT><p>\r\n<icon:POINT><reference:Pásmo=INFO_POLYGON><p>\r\n<icon:POINT><reference:Tvůrci=INFO_CREATORS><p>\r\n<icon:POINT><reference:Cesty v Pásmu=INFO_ROADS><p>\r\n<icon:POINT><reference:Arlingové=INFO_ARLINGS><p>\r\n<icon:POINT><reference:Ochrana budov=INFO_BUILDINGS_SHIELD><p>\r\n<icon:POINT><reference:První generace=INFO_GENERATION1><p><icon:POINT><reference:Druhá generace=INFO_GENERATION2><p><icon:POINT><reference:Třetí generace=INFO_GENERATION3><p><icon:POINT><reference:Čtvrtá generace=INFO_GENERATION4>\r\n"
   },
   "S_L2_OBELISK_WELCOME": {
    "NAME": "Uvítání",
@@ -5410,7 +5414,7 @@
   },
   "S_L8_LAB_WELCOME": {
    "NAME": "Terminál",
-   "TEXT": "Vítá vás terminál. V tomto okamžiku se středisko nachází v režimu nečinnosti.<p>Nabízí následující služby:<p>\r\n1.<reference: Příchozí informace.=SHOW_INFO> <p>2.<reference: Vypuštění raketoplánu. Cíl: Terra-1.=S_L8_LAB_LAUNCH> <p>3.<reference: Spuštění systému automatického zničení výzkumné stanice. Budete mít 60 minut na opuštění střediska.=S_L8_LAB_DESTROY> <p>Systém čeká na zadání uživatele."
+   "TEXT": "Vítá vás terminál. V tomto okamžiku se středisko nachází v režimu nečinnosti.<p>Nabízí následující služby:<p>\r\n1.<reference: Příchozí informace.=SHOW_INFO> <p>2.<reference: Vypuštění raketoplánu. Cíl: Terra-1.=S_L8_LAB_LAUNCH> <p>3.<reference: Spuštění systému automatického zničení výzkumné stanice. Budete mít 60 minut na opuštění střediska.=S_L8_LAB_DESTROY> <p>Systém čeká na zadání uživatele.\r\n"
   },
   "S_MECH": {
    "NAME": "",
@@ -5422,7 +5426,7 @@
   },
   "S_NEED_HIGH_REPAIR": {
    "NAME": "",
-   "TEXT": "<icon:POINT>Váš kluzák je těžce poškozený a musí být <link: opraven!=LINKREPAIR>"
+   "TEXT": "<icon:POINT>Váš kluzák je těžce poškozený a musí být <link: opraven!=LINKREPAIR>\r\n"
   },
   "S_NEED_LOW_REPAIR": {
    "NAME": "",
@@ -5454,11 +5458,11 @@
   },
   "S_RECKONERS": {
    "NAME": "",
-   "TEXT": "Můžeme vám poskytnout nějaké <reference: informace.=S_RECKONERS_INFO>"
+   "TEXT": "Můžeme vám poskytnout nějaké <reference: informace.=S_RECKONERS_INFO> "
   },
   "S_RECKONERS_INFO": {
    "NAME": "Informace",
-   "TEXT": "Dostupné informace:<p> <icon:POINT><reference:Cesty=INFO_WAYS><p>\r\n<icon:POINT><reference: Klany=INFO_R_CLANS><p>\r\n<icon:POINT><reference:  Nejvyšší=INFO_R_SUPER>"
+   "TEXT": "Dostupné informace:<p> <icon:POINT><reference:Cesty=INFO_WAYS><p>\r\n<icon:POINT><reference: Klany=INFO_R_CLANS><p>\r\n<icon:POINT><reference:  Nejvyšší=INFO_R_SUPER>\r\n"
   },
   "S_SHPERE_L3_WELCOME": {
    "NAME": "Uvítání",
@@ -5502,7 +5506,7 @@
   },
   "TOV_ACTIVE_METALL": {
    "NAME": "Aktivní kovy",
-   "TEXT": "Typ: surovina<p> Tyče aktivních kovů se balí do voděodolných vakuovaných obalů, aby se zabránilo jejich kontaktu s prostředím. Obvykle se používají ve slitinách s dalšími kovy."
+   "TEXT": "Typ: surovina<p> Tyče aktivních kovů se balí do voděodolných vakuovaných obalů, aby se zabránilo jejich kontaktu s prostředím. Obvykle se používají ve slitinách s dalšími kovy.\r\n"
   },
   "TOV_ANCHOR": {
    "NAME": "Kontejner",
@@ -5550,11 +5554,11 @@
   },
   "TOV_CRYOTRON": {
    "NAME": "Kryotron",
-   "TEXT": "Typ: polotovar<p>Univerzální chladič malých rozměrů. Lze jej použít jak u zbraní, tak u komerčních zařízení."
+   "TEXT": "Typ: polotovar<p>Univerzální chladič malých rozměrů. Lze jej použít jak u zbraní, tak u komerčních zařízení.\r\n"
   },
   "TOV_CRYSTALS": {
    "NAME": "Monokrystaly",
-   "TEXT": "Typ: surovina <p>Monokrystaly vypěstované ve velkých hloubkách, za vysokých teplot a tlaků se používají při výrobě přesné optiky a laserů."
+   "TEXT": "Typ: surovina <p>Monokrystaly vypěstované ve velkých hloubkách, za vysokých teplot a tlaků se používají při výrobě přesné optiky a laserů.\r\n"
   },
   "TOV_DANGEROUS": {
    "NAME": "Kontajner s nebezpečným nákladem",
@@ -5570,19 +5574,19 @@
   },
   "TOV_FIELD_AFFECTOR": {
    "NAME": "Efektory pole",
-   "TEXT": "Typ: polotovar<p>Zářiče polí s velice různorodými charakteristikami. Široké spektrum jednotlivých parametrů umožňuje instalaci efektorů pole prakticky do jakéhokoliv jiného zařízení, počínaje širokopásmovými generátory a konče energetickými poli u zbraní."
+   "TEXT": "Typ: polotovar<p>Zářiče polí s velice různorodými charakteristikami. Široké spektrum jednotlivých parametrů umožňuje instalaci efektorů pole prakticky do jakéhokoliv jiného zařízení, počínaje širokopásmovými generátory a konče energetickými poli u zbraní.\r\n"
   },
   "TOV_FIELD_STABILIZER": {
    "NAME": "Stabilizátory pole",
-   "TEXT": "Typ: polotovar<p>Zařízení používané k vyrovnávání charakteristik elektromagnetických polí v různých zařízeních, včetně zbraní."
+   "TEXT": "Typ: polotovar<p>Zařízení používané k vyrovnávání charakteristik elektromagnetických polí v různých zařízeních, včetně zbraní.\r\n"
   },
   "TOV_GAS": {
    "NAME": "Směs plynů",
-   "TEXT": "Typ: surovina<p>Směs různých plynů, které prošly základní filtrací. Po zpracování se používá zejména v kryogenních systémech a podnebných jednotkách."
+   "TEXT": "Typ: surovina<p>Směs různých plynů, které prošly základní filtrací. Po zpracování se používá zejména v kryogenních systémech a podnebných jednotkách.\r\n"
   },
   "TOV_HG_ELEMENTS": {
    "NAME": "Součásti těžkých zbraní",
-   "TEXT": "Typ: polotovar<p>Hlavní zařízení, která slouží jako základ při výrobě prakticky jakéhokoliv typu těžké zbraně."
+   "TEXT": "Typ: polotovar<p>Hlavní zařízení, která slouží jako základ při výrobě prakticky jakéhokoliv typu těžké zbraně.\r\n"
   },
   "TOV_INFORMPAKET": {
    "NAME": "Informační balíček",
@@ -5634,7 +5638,7 @@
   },
   "TOV_LG_ELEMENTS": {
    "NAME": "Součástky lehkých zbraní",
-   "TEXT": "Typ: polotovar<p>Hlavní zařízení, která slouží jako základ pro výrobu různých typů lehkých zbraní."
+   "TEXT": "Typ: polotovar<p>Hlavní zařízení, která slouží jako základ pro výrobu různých typů lehkých zbraní.\r\n"
   },
   "TOV_MECHANOID": {
    "NAME": "Mechanoid",
@@ -5654,23 +5658,23 @@
   },
   "TOV_MULTIMASSE": {
    "NAME": "Multimateriál",
-   "TEXT": "Typ: surovina<p>Tento materiál, složený z velkého počtu různých uhlovodíků, slouží jako základ různých sloučenin používaných při výrobě polymerů."
+   "TEXT": "Typ: surovina<p>Tento materiál, složený z velkého počtu různých uhlovodíků, slouží jako základ různých sloučenin používaných při výrobě polymerů.\r\n"
   },
   "TOV_MULTIORGANIC": {
    "NAME": "Multiorganikum",
-   "TEXT": "Typ: polotovar<p>Uměle vypěstované organické struktury tvořené upravenými buňkami. Jsou uzavřeny v kapsli, která po dlouhou dobu udržuje podmínky potřebné k životu. Využívá se k pěstování trupů biomechanických kluzáků, k výrobě multiorganických pancířů a také při výrobě symbiontů."
+   "TEXT": "Typ: polotovar<p>Uměle vypěstované organické struktury tvořené upravenými buňkami. Jsou uzavřeny v kapsli, která po dlouhou dobu udržuje podmínky potřebné k životu. Využívá se k pěstování trupů biomechanických kluzáků, k výrobě multiorganických pancířů a také při výrobě symbiontů.\r\n"
   },
   "TOV_NAV_MOLECTRONIC": {
    "NAME": "Navigační molekutronika",
-   "TEXT": "Typ: polotovar<p>Nejmodernější molekulární čipy se používají v navigačních systémech kluzáků a také u dalších mobilních systémů a v informačních podpůrných komplexech budov."
+   "TEXT": "Typ: polotovar<p>Nejmodernější molekulární čipy se používají v navigačních systémech kluzáků a také u dalších mobilních systémů a v informačních podpůrných komplexech budov.\r\n"
   },
   "TOV_NIKEL": {
    "NAME": "Nikl",
-   "TEXT": "Typ: surovina<p>Ošetřený a zpracovaný nikl, připravený k okamžitému použití. Využívá se prakticky ve všech předmětech vyráběných v Pásmu."
+   "TEXT": "Typ: surovina<p>Ošetřený a zpracovaný nikl, připravený k okamžitému použití. Využívá se prakticky ve všech předmětech vyráběných v Pásmu.\r\n"
   },
   "TOV_NUCLEAR_FUEL": {
    "NAME": "Jaderné palivo",
-   "TEXT": "Typ: spotřební výrobek<p>Prvky připravené pro použití v jaderných reaktorech. Chráněné aktivním pouzdrem."
+   "TEXT": "Typ: spotřební výrobek<p>Prvky připravené pro použití v jaderných reaktorech. Chráněné aktivním pouzdrem.\r\n"
   },
   "TOV_PAKET_": {
    "NAME": "Informační balíček",
@@ -5990,7 +5994,7 @@
   },
   "TOV_POLYMER_PLATE": {
    "NAME": "Polymerové pláty",
-   "TEXT": "Typ: polotovar <p>Pláty jsou tvořeny velice pevnou a teplu odolávající polymerovou sloučeninou. Používají se při výrobě různých obalů, plášťů a pancířů."
+   "TEXT": "Typ: polotovar <p>Pláty jsou tvořeny velice pevnou a teplu odolávající polymerovou sloučeninou. Používají se při výrobě různých obalů, plášťů a pancířů.\r\n"
   },
   "TOV_RADIOACTIVES": {
    "NAME": "Radioaktivní prvky",
@@ -5998,19 +6002,19 @@
   },
   "TOV_RADOIACTIVES": {
    "NAME": "Radioaktivní prvky",
-   "TEXT": "Typ: surovina<p>Používají se k výrobě supertěžkých prvků využitelných v reaktorech při nulovací syntéze a v některých dalších oblastech."
+   "TEXT": "Typ: surovina<p>Používají se k výrobě supertěžkých prvků využitelných v reaktorech při nulovací syntéze a v některých dalších oblastech.\r\n"
   },
   "TOV_RB_ELEMENTS": {
    "NAME": "Součásti střel a pum",
-   "TEXT": "Type: polotovar <p>Standardní souprava univerzálních součástek, které se používají k montáži střel a bomb."
+   "TEXT": "Type: polotovar <p>Standardní souprava univerzálních součástek, které se používají k montáži střel a bomb.\r\n"
   },
   "TOV_REPAIR_MODUL": {
    "NAME": "Opravárenský modul",
-   "TEXT": "Typ: spotřební výrobek<p>Univerzální víceúčelový mechanismus dovolující opravovat téměř jakýkoliv druh mechanické závady."
+   "TEXT": "Typ: spotřební výrobek<p>Univerzální víceúčelový mechanismus dovolující opravovat téměř jakýkoliv druh mechanické závady.\r\n"
   },
   "TOV_ROCKET_FUEL": {
    "NAME": "Palivo pro střely",
-   "TEXT": "Typ: polotovar<p>Chemické palivo používané v pohonech střel. Dodává se v zesílených kontejnerech chránících palivo před různými typy nárazů."
+   "TEXT": "Typ: polotovar<p>Chemické palivo používané v pohonech střel. Dodává se v zesílených kontejnerech chránících palivo před různými typy nárazů.\r\n"
   },
   "TOV_SUPERMODUL": {
    "NAME": "Specializovaný opravárenský modul",
@@ -6018,11 +6022,11 @@
   },
   "TOV_SYMB_SIN_AMGMAR114": {
    "NAME": "Symbiont",
-   "TEXT": "Angmar-114 z klanu Sinigerů."
+   "TEXT": "Angmar-114 z klanu Sinigerů. "
   },
   "TOV_TITAN": {
    "NAME": "Titan",
-   "TEXT": "Typ: surovina <p>Titan se používá ve velkém měřítku na výrobu pancířů a konstrukcí různých typů."
+   "TEXT": "Typ: surovina <p>Titan se používá ve velkém měřítku na výrobu pancířů a konstrukcí různých typů.\r\n"
   },
   "TOV_T_L2_B1_1": {
    "NAME": "Informační balíček",
@@ -6082,7 +6086,7 @@
   },
   "TOV_ZERO_REACTOR": {
    "NAME": "Nulovací reaktor",
-   "TEXT": "Typ: polotovar<p>Klíčová součást nulovací syntézy. Kromě toho se používá při fázovém stlačování a v chaotických systémech."
+   "TEXT": "Typ: polotovar<p>Klíčová součást nulovací syntézy. Kromě toho se používá při fázovém stlačování a v chaotických systémech.\r\n"
   },
   "TS_L1_B1_ANCHOR": {
    "NAME": "Nalezeno neznámé zařízení",
@@ -6150,11 +6154,11 @@
   },
   "TS_L1_NAME_GET": {
    "NAME": "Identifikace kompletní",
-   "TEXT": "%NAME - to je poměrně zvláštní na mechanoida... či symbionta? Zajímavé, ale nedokáži rozpoznat váš původ. Zdá se, že <reference: Nejvyšší=INFO_SUPER> obě technologie Tvůrců a jejich spojenců jakýmsi způsobem sloučil a vytvořil vás. No, ale na tom nesejde. Tento sektor však brzy opustíte. A zatímco se váš kluzák stále ještě připravuje, přečtěte si tuto <link: zprávu=TS_L1_INFO_SUPER>, kterou zde zanechali <reference:První, =INFO_ACCESS_DENIED>  a zdá se, že je určena právě vám."
+   "TEXT": "%NAME - to je poměrně zvláštní na mechanoida... či symbionta? Zajímavé, ale nedokáži rozpoznat váš původ. Zdá se, že <reference: Nejvyšší=INFO_SUPER> obě technologie Tvůrců a jejich spojenců jakýmsi způsobem sloučil a vytvořil vás. No, ale na tom nesejde. Tento sektor však brzy opustíte. A zatímco se váš kluzák stále ještě připravuje, přečtěte si tuto <link: zprávu=TS_L1_INFO_SUPER>, kterou zde zanechali <reference:První, =INFO_ACCESS_DENIED>  a zdá se, že je určena právě vám. "
   },
   "TS_L1_TUNNEL_JUMP": {
    "NAME": "Podmínky předávacího tunelu",
-   "TEXT": "Tak vy chcete projít do jiného sektoru? A jste připraven? Tak brzy sem ještě nikdo nepřišel, až na smolaře, kteří mířili k resetování. Mě to však ve skutečnosti příliš nezajímá. Jediné, co po vás požaduji, je, abyste měl třetí úroveň a 1.000 energetických krystalů. Jejich menší část si odeberu, abych zajistil vaši bezpečnost při cestování. Zbytek budete potřebovat v sektoru tundry. Jestli již požadovanou sumu vlastníte, můžete se vydat na cestu."
+   "TEXT": "Tak vy chcete projít do jiného sektoru? A jste připraven? Tak brzy sem ještě nikdo nepřišel, až na smolaře, kteří mířili k resetování. Mě to však ve skutečnosti příliš nezajímá. Jediné, co po vás požaduji, je, abyste měl třetí úroveň a 1.000 energetických krystalů. Jejich menší část si odeberu, abych zajistil vaši bezpečnost při cestování. Zbytek budete potřebovat v sektoru tundry. Jestli již požadovanou sumu vlastníte, můžete se vydat na cestu.\r\n"
   },
   "TS_L1_TUNNEL_JUMP_ACCESS": {
    "NAME": "Podmínky předávacího tunelu splněny",
@@ -6910,7 +6914,7 @@
   },
   "T_L1_B1_2_BRIEF": {
    "NAME": "Oprava gravitačního pohonu výtahu",
-   "TEXT": "<reference:Hlavní základna=B_L1_BASE1> naléhavě potřebuje tři <reference: opravárenské moduly.=TOV_REPAIR_MODUL> Nejrychleji se dají sehnat na <reference:surovinové základně.=B_L1_FEEDSTOCK>"
+   "TEXT": "<reference:Hlavní základna=B_L1_BASE1> naléhavě potřebuje tři <reference: opravárenské moduly.=TOV_REPAIR_MODUL> Nejrychleji se dají sehnat na <reference:surovinové základně.=B_L1_FEEDSTOCK>\r\n"
   },
   "T_L1_B1_2_COMPLETE": {
    "NAME": "Opravárenský modul doručen",
@@ -6950,7 +6954,7 @@
   },
   "T_L1_B1_3_GET": {
    "NAME": "Podrobnosti o vetřelci NASP-M013",
-   "TEXT": "Nedávno se tu objevil Svobodný, který ničí <reference: Nosiče.=ORG_TRANCES> Výměna surovin vázne, protože jeho hlavním působištěm je oblast surovinové základny. Je třeba ho zničit a dopravit sem. Nechat ho chvíli ležet ve skladu, to by mu zchladilo hlavu. Jestli se vám to podaří, dostanete ode mě 800 jednotek energie. Mimochodem, jeho kluzák sám zničit nemusíte. Bude stačit, když to udělá někdo jiný a vy mi dopravíte toho mechanoida. Je jím NASP-013, který řídí kluzák druhé kategorie. Dám vám na to nějaký čas. Nezdaří-li se vám to, zadám tento úkol někomu dalšímu."
+   "TEXT": "Nedávno se tu objevil Svobodný, který ničí <reference: Nosiče.=ORG_TRANCES> Výměna surovin vázne, protože jeho hlavním působištěm je oblast surovinové základny. Je třeba ho zničit a dopravit sem. Nechat ho chvíli ležet ve skladu, to by mu zchladilo hlavu. Jestli se vám to podaří, dostanete ode mě 800 jednotek energie. Mimochodem, jeho kluzák sám zničit nemusíte. Bude stačit, když to udělá někdo jiný a vy mi dopravíte toho mechanoida. Je jím NASP-M013, který řídí kluzák druhé kategorie. Dám vám na to nějaký čas. Nezdaří-li se vám to, zadám tento úkol někomu dalšímu."
   },
   "T_L1_B1_3_INCT": {
    "NAME": "Vetřelec je stále naživu",
@@ -6978,7 +6982,7 @@
   },
   "T_L1_B1_4_GET": {
    "NAME": "Podrobnosti úkolu",
-   "TEXT": "Dostal jsem zprávu od <reference: regulátoru podnebí.=B_L1_KA> Vyměňuje chladicí agregát a potřebuje <reference:kryotron.=TOV_CRYOTRON> Mám několik kusů skladem. Vezměte jeden a doručte mu jej. Tento úkol je snadný, ale naléhavý. Proto <reference: regulátor podnebí=B_L1_KA> za dodávku zaplatí 700 jednotek energie. Nebudete-li chvátat, bude úkol přidělen někomu jinému. Polohu regulátoru podnebí vyznačím na mapu a určím vám směr. Tak do toho!"
+   "TEXT": "Dostal jsem zprávu od <reference: regulátoru podnebí.=B_L1_KA> Vyměňuje chladicí agregát a potřebuje <reference:kryotron.=TOV_CRYOTRON> Mám několik kusů skladem. Vezměte jeden a doručte mu jej. Tento úkol je snadný, ale naléhavý. Proto <reference: regulátor podnebí=B_L1_KA> za dodávku zaplatí 700 jednotek energie. Nebudete-li chvátat, bude úkol přidělen někomu jinému. Polohu regulátoru podnebí vyznačím na mapu a určím vám směr. Tak do toho!\r\n"
   },
   "T_L1_B1_4_INCT": {
    "NAME": "Požadovaný kryotron",
@@ -7006,7 +7010,7 @@
   },
   "T_L1_B1_5_BRIEF": {
    "NAME": "Přeprava odpadu",
-   "TEXT": "Na hlavní základně jsem naložil <reference:radioaktivní odpad=TOV_ATOMIC_RUBISH>. Ten musím dopravit do <reference: zpracovatelského závodu.=B_L1_PLANT_RECYCLE> Továrna převezme odpad a výměnou za něj mi dá jaderné palivo. Základna mi pak za včasnou dodávku paliva vyplatí 800 jednotek energie."
+   "TEXT": "Na hlavní základně jsem naložil <reference:radioaktivní odpad=TOV_ATOMIC_RUBISH>. Ten musím dopravit do <reference: zpracovatelského závodu.=B_L1_PLANT_RECYCLE> Továrna převezme odpad a výměnou za něj mi dá jaderné palivo. Základna mi pak za včasnou dodávku paliva vyplatí 800 jednotek energie.\r\n"
   },
   "T_L1_B1_5_COMPLETE": {
    "NAME": "Odpad doručen",
@@ -7058,7 +7062,7 @@
   },
   "T_L1_B1_7": {
    "NAME": "Oprava regulátoru podnebí",
-   "TEXT": "Doručte anténu k <reference:regulátoru podnebí.=B_L1_KA>"
+   "TEXT": "Doručte anténu k <reference:regulátoru podnebí.=B_L1_KA>\r\n"
   },
   "T_L1_B1_7.1_BRIEF": {
    "NAME": "Doprava antény",
@@ -7110,31 +7114,31 @@
   },
   "T_L1_B1_8.1__": {
    "NAME": "_DEFAULT_",
-   "TEXT": "B_L1_FEEDSTOCK"
+   "TEXT": "B_L1_FEEDSTOCK\r\n"
   },
   "T_L1_B1_8.2__": {
    "NAME": "_DEFAULT_",
-   "TEXT": "B_L1_KA"
+   "TEXT": "B_L1_KA\r\n"
   },
   "T_L1_B1_8.3__": {
    "NAME": "_DEFAULT_",
-   "TEXT": "B_L1_MINE1"
+   "TEXT": "B_L1_MINE1\r\n"
   },
   "T_L1_B1_8.4__": {
    "NAME": "_DEFAULT_",
-   "TEXT": "B_L1_MINE2"
+   "TEXT": "B_L1_MINE2\r\n"
   },
   "T_L1_B1_8.5__": {
    "NAME": "_DEFAULT_",
-   "TEXT": "B_L1_PLANT_PF"
+   "TEXT": "B_L1_PLANT_PF\r\n"
   },
   "T_L1_B1_8.6__": {
    "NAME": "_DEFAULT_",
-   "TEXT": "B_L1_PLANT_RECYCLE"
+   "TEXT": "B_L1_PLANT_RECYCLE\r\n"
   },
   "T_L1_B1_8.7__": {
    "NAME": "_DEFAULT_",
-   "TEXT": "B_L1_PLANT_RM"
+   "TEXT": "B_L1_PLANT_RM\r\n"
   },
   "T_L1_B1_8.X1": {
    "NAME": "Surovinová základna",
@@ -7218,7 +7222,7 @@
   },
   "T_L1_B1_9": {
    "NAME": "Doručení informačního balíčku do sektoru tundry",
-   "TEXT": "Musíme dát vědět <reference:hlavní základně=B_L1_BASE1> v <reference:sektoru tundry,=INFO_SECTOR2> že pokus o zavedení nového typu komunikace byl úspěšný."
+   "TEXT": "Musíme dát vědět <reference:hlavní základně=B_L1_BASE1> v <reference:sektoru tundry,=INFO_SECTOR2> že pokus o zavedení nového typu komunikace byl úspěšný.\r\n"
   },
   "T_L1_B1_9.1_BRIEF": {
    "NAME": "Informační balíček doručen",
@@ -7226,7 +7230,7 @@
   },
   "T_L1_B1_9_BRIEF": {
    "NAME": "Doručení informačního balíčku na hlavní základnu v sektoru tundry",
-   "TEXT": "Když doručím informační balíček s výsledky pokusu na <reference:hlavní základnu=B_L1_BASE1> v <reference: sektoru tundry,=INFO_SECTOR2> dostanu 3.000 jednotek energie a mapu tohoto sektoru. To by se mi velice hodilo. Do <reference: sektoru tundry=INFO_SECTOR2> se dá dostat přes <reference:předávací tunel.=B_L1_TUNNEL>"
+   "TEXT": "Když doručím informační balíček s výsledky pokusu na <reference:hlavní základnu=B_L1_BASE1> v <reference: sektoru tundry,=INFO_SECTOR2> dostanu 3.000 jednotek energie a mapu tohoto sektoru. To by se mi velice hodilo. Do <reference: sektoru tundry=INFO_SECTOR2> se dá dostat přes <reference:předávací tunel.=B_L1_TUNNEL>\r\n"
   },
   "T_L1_B1_9_COMPLETE": {
    "NAME": "Informační balíček doručen do sektoru tundry",
@@ -7306,7 +7310,7 @@
   },
   "T_L1_B2_2_INCT": {
    "NAME": "Setkejte se s neznámým mechanoidem",
-   "TEXT": "Pokud vím, nachází se neznámý kluzák poblíž <reference: regulátoru podnebí.=B_L1_KA>  Zdá se, jako by něco nebo někoho hledal."
+   "TEXT": "Pokud vím, nachází se neznámý kluzák poblíž <reference: regulátoru podnebí.=B_L1_KA>  Zdá se, jako by něco nebo někoho hledal.\r\n"
   },
   "T_L1_B2_3": {
    "NAME": "Přeprava speciálního nákladu",
@@ -7406,7 +7410,7 @@
   },
   "T_L1_B2_5_GET": {
    "NAME": "Podrobnosti",
-   "TEXT": "Na <reference:hlavní základně=B_L1_BASE1> došlo k poruše fázového akumulátoru. Běžný opravárenský modul však nestačí, potřebujeme vyměnit fázový konvertor. Jeden mám na skladě. Vezměte si jej a zajeďte na <reference:hlavní  základnu.=B_L1_BASE1> Konvertor je zabalený v bedně, ale nepůsobí na něj fázová komprese. Jedná se o velice složitou a křehkou konstrukci. Kdyby vás zasáhla střela nebo kdyby kluzák spadl z velké výšky, konvertor by se zničil. Potřebuji po vás, abyste co možná nejdříve doručil konvertor v pořádku na místo. Musíte se přitom vyhnout boji nebo skokům z vysokých převisů. Výměnou za včasné doručení vám hlavní základna vyplatí 2.000 jednotek energie. Jste pro?"
+   "TEXT": "Na <reference:hlavní základně=B_L1_BASE1> došlo k poruše fázového akumulátoru. Běžný opravárenský modul však nestačí, potřebujeme vyměnit fázový konvertor. Jeden mám na skladě. Vezměte si jej a zajeďte na <reference:hlavní  základnu.=B_L1_BASE1> Konvertor je zabalený v bedně, ale nepůsobí na něj fázová komprese. Jedná se o velice složitou a křehkou konstrukci. Kdyby vás zasáhla střela nebo kdyby kluzák spadl z velké výšky, konvertor by se zničil. Potřebuji po vás, abyste co možná nejdříve doručil konvertor v pořádku na místo. Musíte se přitom vyhnout boji nebo skokům z vysokých převisů. Výměnou za včasné doručení vám hlavní základna vyplatí 2.000 jednotek energie. Jste pro?\r\n"
   },
   "T_L1_B2_5_INCT": {
    "NAME": "Zvláštní náklad nedoručen na základnu",
@@ -7454,7 +7458,7 @@
   },
   "T_L1_B2_7_INCT": {
    "NAME": "Informační balíček nedoručen obelisku Nejvyššího",
-   "TEXT": "Nijak na vás nechvátám. Jednou se k obelisku Nejvyššího dostanete. Je však ve vašem vlastním zájmu, abyste to zvládl rychle."
+   "TEXT": "Nijak na vás nechvátám. Jednou se k obelisku Nejvyššího dostanete. Je však ve vašem vlastním zájmu, abyste to zvládl rychle. "
   },
   "T_L1_B2_7_IN_B_L2_OBELISK": {
    "NAME": "Informační balíček doručen",
@@ -7590,7 +7594,7 @@
   },
   "T_L2_B1_3_BC": {
    "NAME": "",
-   "TEXT": "Informační balíček byl na 1. údržbářskou plošinu doručen včas. Informační balíček byl na 2. údržbářskou plošinu doručen včas. Informační balíček byl na 3. údržbářskou plošinu doručen včas."
+   "TEXT": "Informační balíček byl na 1. údržbářskou plošinu doručen včas. Informační balíček byl na 2. údržbářskou plošinu doručen včas. Informační balíček byl na 3. údržbářskou plošinu doručen včas. "
   },
   "T_L2_B1_3_BF": {
    "NAME": "",
@@ -7854,7 +7858,7 @@
   },
   "T_L2_B2_3": {
    "NAME": "Zničit nepřítele Počtářů",
-   "TEXT": "Vyhledejte a zničte mechanoida, který napadl <reference:Počtáře.=ORG_RECKONERS>"
+   "TEXT": "Vyhledejte a zničte mechanoida, který napadl <reference:Počtáře.=ORG_RECKONERS>\r\n"
   },
   "T_L2_B2_3.X1": {
    "NAME": "Stok-19 vyzvednut",
@@ -9614,7 +9618,7 @@
   },
   "T_L6_IK_F1_FINDER-01": {
    "NAME": "Zpráva doručena",
-   "TEXT": "Zpráva doručena."
+   "TEXT": " Zpráva doručena."
   },
   "T_L6_IK_F1_GET": {
    "NAME": "Podrobnosti úkolu",
@@ -9666,7 +9670,7 @@
   },
   "T_L6_IK_F2_FINDER-01_KILLED": {
    "NAME": "Jste silnější, než jsem si myslel!",
-   "TEXT": "Jste silnější, než jsem si myslel!"
+   "TEXT": "Jste silnější, než jsem si myslel!\r\n"
   },
   "T_L6_IK_F2_GET": {
    "NAME": "Podrobnosti úkolu",
@@ -9926,7 +9930,7 @@
   },
   "T_L7_REST_1_GET": {
    "NAME": "Podrobnosti úkolu",
-   "TEXT": "Vidím, že máte analyzátor informací. Proč mi jej nepředáte? Poskytnu vám přístup k našemu vybavení. Naleznete tam spoustu užitečných věcí.<p><reference:Předat analyzátor informací=sendeqp><p><link:Odmítnout=DONOTSENDEQP>"
+   "TEXT": "Vidím, že máte analyzátor informací. Proč mi jej nepředáte? Poskytnu vám přístup k našemu vybavení. Naleznete tam spoustu užitečných věcí.<p><link:Předat analyzátor informací=SENDEQP><p><link:Odmítnout=DONOTSENDEQP>\r\n"
   },
   "T_L7_REST_1_INCT": {
    "NAME": "Čekání na dodávku analyzátoru informací",
@@ -10042,7 +10046,7 @@
   },
   "T_L7_REST_4_COMPLETE": {
    "NAME": "Ztracení Omezovatelé nalezeni",
-   "TEXT": "<color=yellow>Ztracení Omezovatelé byli nalezeni<color><p>Nyní se náš klan shromáždil a operace může začít. Radím, aby se nám nikdo nestavěl do cesty. Vy byste měl na nějakou dobu opustit sektor. Je to pro vaše vlastní dobro. Někteří vědí, že jste přítelem našeho klanu, a kdybychom selhali, mohl byste mít problémy.<p>Vyberte si odměnu:<p><link:vyměnit kluzák za \"Sword of Fate\"!=GETFRONTIER><p><link:vyměnit kluzák za \"Phoenix\"!=GETFIRST2><p><link:dostat 80.000 jednotek energie!=GETMONEY>"
+   "TEXT": "<color=yellow>Ztracení Omezovatelé byli nalezeni<color><p>Nyní se náš klan shromáždil a operace může začít. Radím, aby se nám nikdo nestavěl do cesty. Vy byste měl na nějakou dobu opustit sektor. Je to pro vaše vlastní dobro. Někteří vědí, že jste přítelem našeho klanu, a kdybychom selhali, mohl byste mít problémy.<p>Vyberte si odměnu:<p><link:vyměnit kluzák za \"Sword of Fate\"!=GETFRONTIER><p><link:vyměnit kluzák za \"Phoenix\"!=GETFIRST2><p><link:dostat 80.000 jednotek energie!=GETMONEY>\r\n"
   },
   "T_L7_REST_4_FAIL": {
    "NAME": "_DEFAULT_",
